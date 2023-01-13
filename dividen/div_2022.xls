@@ -1,0 +1,6510 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+		xmlns:x="urn:schemas-microsoft-com:office:excel" 
+		xmlns="http://www.w3.org/TR/REC-html40">
+	<HEAD>
+		<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; charset=ISO-8859-1"> 
+		<STYLE type=text/css>
+			table tr#header td{font-weight: bold;} 
+			table tr#isi td#rdCode{text-align: left;} 
+			table tr#isi td{vertical-align: top;} 
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=1>
+			<TR id=header align ='center'>
+				<TD colspan='15'><font size='+1' color=red>Schedule of Cash Dividend  Recording Date Year 2022</font></TD>
+			</TR>
+			<TR id=header>
+				<TD>No.</TD>
+				<TD>Issuer</TD>
+				<TD>Security Code</TD>
+				<TD>Security Name</TD>
+				<TD>Type of CA</TD>
+				<TD>Cum Date</TD>
+				<TD>Recording Date</TD>
+				<TD>Distribution Date</TD>
+				<TD>Exercise Ratio</TD>
+				<TD>Exercise Intrument</TD>
+				<TD>Proceed Ratio</TD>
+				<TD>Proceed Instrument</TD>
+				<TD>Description</TD>
+				<TD>Refference No</TD>
+				<TD>Letter Date</TD>
+			</TR>
+		<tr id=isi>
+			<td align='center'>1.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-DEC-2021</td>
+			<td>03-JAN-2022</td>
+			<td>14-JAN-2022</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>1</td>
+			<td>USD</td>
+			<td>Rasio Dividen Interim adalah AS$350.000.000 (Tiga ratus lima puluh juta Dolar Amerika Serikat). 
+
+Sehubungan dengan masih berlangsungnya aksi Korporasi pembelian kembali saham PT Adaro Energy Tbk, nilai dividen per saham dalan mata uang Rupiah akan diumumkan pada saat Record Date 3 Januari 2022. </td>
+			<td>KSEI-23504/JKU/1221</td>
+			<td>22-DEC-2021</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>2.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JAN-2022</td>
+			<td>10-JAN-2022</td>
+			<td>18-JAN-2022</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>265.9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 265,9 (dua ratus enam puluh lima Rupiah koma sembilan)</td>
+			<td>KSEI-23862/JKU/1221</td>
+			<td>29-DEC-2021</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>3.</td>
+			<td>TEMAS Tbk, PT</td>
+			<td>TMAS</td>
+			<td>TEMAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JAN-2022</td>
+			<td>10-JAN-2022</td>
+			<td>27-JAN-2022</td>
+			<td>1</td>
+			<td>TMAS</td>
+			<td>21.85</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.21,85 (dua puluh satu Rupiah koma delapan lima)</td>
+			<td>KSEI-23866/JKU/1221</td>
+			<td>29-DEC-2021</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>4.</td>
+			<td>LAUTAN LUAS Tbk, PT</td>
+			<td>LTLS</td>
+			<td>LAUTAN LUAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JAN-2022</td>
+			<td>11-JAN-2022</td>
+			<td>21-JAN-2022</td>
+			<td>1</td>
+			<td>LTLS</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.20,- (
+dua puluh Rupiah)</td>
+			<td>KSEI-23864/JKU/1221</td>
+			<td>29-DEC-2021</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>5.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JAN-2022</td>
+			<td>12-JAN-2022</td>
+			<td>25-JAN-2022</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>348.924</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 348,924
+ (tiga ratus empat puluh delapan Rupiah koma sembilan dua empat)</td>
+			<td>KSEI-23943/JKU/1221</td>
+			<td>30-DEC-2021</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>6.</td>
+			<td>UNGGUL INDAH CAHAYA Tbk, PT</td>
+			<td>UNIC</td>
+			<td>UNGGUL INDAH CAHAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JAN-2022</td>
+			<td>12-JAN-2022</td>
+			<td>27-JAN-2022</td>
+			<td>1</td>
+			<td>UNIC</td>
+			<td>450</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Interim adalah sebesar Rp. 450,- (empat ratus lima puluh Rupiah) 
+per saham</td>
+			<td>KSEI-43/JKU/0122</td>
+			<td>03-JAN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>7.</td>
+			<td>PRIMA GLOBALINDO LOGISTIK Tbk, PT</td>
+			<td>PPGL</td>
+			<td>PRIMA GLOBALINDO LOGISTIK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JAN-2022</td>
+			<td>12-JAN-2022</td>
+			<td>20-JAN-2022</td>
+			<td>1</td>
+			<td>PPGL</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam R
+upiah)</td>
+			<td>KSEI-23940/JKU/1221</td>
+			<td>30-DEC-2021</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>8.</td>
+			<td>PT. MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>MLPT</td>
+			<td>MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JAN-2022</td>
+			<td>13-JAN-2022</td>
+			<td>26-JAN-2022</td>
+			<td>1</td>
+			<td>MLPT</td>
+			<td>90</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 90,- (sembilan puluh Rupiah)</td>
+			<td>KSEI-233/JKU/0122</td>
+			<td>05-JAN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>9.</td>
+			<td>PT. PROVIDENT INVESTASI BERSAMA Tbk</td>
+			<td>PALM</td>
+			<td>PROVIDENT INVESTASI BERSAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JAN-2022</td>
+			<td>24-JAN-2022</td>
+			<td>08-FEB-2022</td>
+			<td>1</td>
+			<td>PALM</td>
+			<td>43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 43,- (empat 
+puluh tiga Rupiah)</td>
+			<td>KSEI-808/JKU/0122</td>
+			<td>17-JAN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>10.</td>
+			<td>ASHMORE ASSET MANAGEMENT INDONESIA Tbk, PT</td>
+			<td>AMOR</td>
+			<td>ASHMORE ASSET MANAGEMENT INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-FEB-2022</td>
+			<td>11-FEB-2022</td>
+			<td>25-FEB-2022</td>
+			<td>1</td>
+			<td>AMOR</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah Rp. 20,- (dua puluh Rupiah) per saham</td>
+			<td>KSEI-1614/JKU/0222</td>
+			<td>02-FEB-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>11.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAR-2022</td>
+			<td>07-MAR-2022</td>
+			<td>21-MAR-2022</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>0.3167</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) Unit akan mendapatkan dividen tunai sebesar Rp.0,3167 (nol koma
+ tiga satu enam tujuh Rupiah)</td>
+			<td>KSEI-2917/JKU/0222</td>
+			<td>22-FEB-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>12.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-MAR-2022</td>
+			<td>14-MAR-2022</td>
+			<td>01-APR-2022</td>
+			<td>1</td>
+			<td>BBRI</td>
+			<td>174.2514739734224</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan sebesar Rp174,2514739734224 (seratus tujuh puluh empat Rupiah koma dua lima satu empat tujuh tiga sembilan tujuh tiga empat dua dua empat).</td>
+			<td>KSEI-3728/JKU/0322</td>
+			<td>07-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>13.</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk, PT</td>
+			<td>BBTN</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAR-2022</td>
+			<td>15-MAR-2022</td>
+			<td>31-MAR-2022</td>
+			<td>1</td>
+			<td>BBTN</td>
+			<td>22.43839</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 22,43839 (dua puluh dua Rupiah koma empat tiga delapan tiga sembilan)</td>
+			<td>KSEI-3724/JKU/0322</td>
+			<td>07-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>14.</td>
+			<td>ARWANA CITRAMULIA Tbk, PT</td>
+			<td>ARNA</td>
+			<td>ARWANA CITRAMULIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-MAR-2022</td>
+			<td>18-MAR-2022</td>
+			<td>29-MAR-2022</td>
+			<td>1</td>
+			<td>ARNA</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45,- (empat puluh lima Rupiah).</td>
+			<td>KSEI-4059/JKU/0322</td>
+			<td>11-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>15.</td>
+			<td>BANK MANDIRI (PERSERO) Tbk, PT</td>
+			<td>BMRI</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAR-2022</td>
+			<td>22-MAR-2022</td>
+			<td>06-APR-2022</td>
+			<td>1</td>
+			<td>BMRI</td>
+			<td>360.63556387</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 360,63556387 
+(tiga ratus enam puluh Rupiah koma enam tiga lima lima enam tiga delapan tujuh)</td>
+			<td>KSEI-4259/JKU/0322</td>
+			<td>15-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>16.</td>
+			<td>BANK NEGARA INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBNI</td>
+			<td>BANK NEGARA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-MAR-2022</td>
+			<td>25-MAR-2022</td>
+			<td>14-APR-2022</td>
+			<td>1</td>
+			<td>BBNI</td>
+			<td>146.296886956</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp146,296886956 (seratus empat puluh enam koma dua sembilan enam delapan delapan enam sembilan lima enam)</td>
+			<td>KSEI-4527/JKU/0322</td>
+			<td>18-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>17.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAR-2022</td>
+			<td>29-MAR-2022</td>
+			<td>19-APR-2022</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>120</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 120,- (seratus dua puluh Rupiah).</td>
+			<td>KSEI-4604/JKU/0322</td>
+			<td>21-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>18.</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR, PT</td>
+			<td>BJTM</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAR-2022</td>
+			<td>29-MAR-2022</td>
+			<td>14-APR-2022</td>
+			<td>1</td>
+			<td>BJTM</td>
+			<td>52.11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 52,11 (lima puluh dua Rupiah koma satu satu)
+</td>
+			<td>KSEI-4681/JKU/0322</td>
+			<td>22-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>19.</td>
+			<td>FAJAR SURYA WISESA Tbk, PT</td>
+			<td>FASW</td>
+			<td>FAJAR SURYA WISESA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAR-2022</td>
+			<td>04-APR-2022</td>
+			<td>21-APR-2022</td>
+			<td>1</td>
+			<td>FASW</td>
+			<td>119</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 119,-  
+(seratus sembilan belas Rupiah)</td>
+			<td>KSEI-4912/JKU/0322</td>
+			<td>25-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>20.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-APR-2022</td>
+			<td>05-APR-2022</td>
+			<td>22-APR-2022</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>3040</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 3.040,- (tiga ribu empat puluh Rupiah).</td>
+			<td>KSEI-4990/JKU/0322</td>
+			<td>28-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>21.</td>
+			<td>WAHANA OTTOMITRA MULTIARTHA Tbk, PT</td>
+			<td>WOMF</td>
+			<td>WAHANA OTTOMITRA MULTIARTHA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-APR-2022</td>
+			<td>05-APR-2022</td>
+			<td>27-APR-2022</td>
+			<td>1</td>
+			<td>WOMF</td>
+			<td>9.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 9,5 (sembilan Rupiah koma lima)</td>
+			<td>KSEI-4988/JKU/0322</td>
+			<td>28-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>22.</td>
+			<td>BANK DANAMON INDONESIA Tbk , PT</td>
+			<td>BDMN</td>
+			<td>BANK DANAMON INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-APR-2022</td>
+			<td>06-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>BDMN</td>
+			<td>56.33</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Tunai sebesar Rp.56,33 (lima pulu
+h enam Rupiah koma tiga tiga)</td>
+			<td>KSEI-5073/JKU/0322</td>
+			<td>29-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>23.</td>
+			<td>BANK MAYBANK INDONESIA Tbk, PT</td>
+			<td>BNII</td>
+			<td>BANK MAYBANK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-APR-2022</td>
+			<td>06-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>BNII</td>
+			<td>6.47496</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 6,47496,- (enam Rupiah koma empat tujuh
+empat sembilan enam)</td>
+			<td>KSEI-5164/JKU/0322</td>
+			<td>30-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>24.</td>
+			<td>EASTPARC HOTEL Tbk, PT</td>
+			<td>EAST</td>
+			<td>EASTPARC HOTEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2022</td>
+			<td>08-APR-2022</td>
+			<td>20-APR-2022</td>
+			<td>1</td>
+			<td>EAST</td>
+			<td>1.33</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Tunai sebesar Rp 1,33 (satu Rupiah koma tiga tiga)</td>
+			<td>KSEI-5181/JKU/0322</td>
+			<td>30-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>25.</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk, PT</td>
+			<td>ADMF</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2022</td>
+			<td>11-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>ADMF</td>
+			<td>607</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 607,- (enam 
+ratus tujuh Rupiah)</td>
+			<td>KSEI-5325/JKU/0422</td>
+			<td>01-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>26.</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk, PT</td>
+			<td>SIDO</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2022</td>
+			<td>11-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>SIDO</td>
+			<td>22.7</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.22,7 (dua puluh dua Rupiah koma tujuh)</td>
+			<td>KSEI-5250/JKU/0322</td>
+			<td>31-MAR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>27.</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk, PT</td>
+			<td>SDRA</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2022</td>
+			<td>11-APR-2022</td>
+			<td>27-APR-2022</td>
+			<td>1</td>
+			<td>SDRA</td>
+			<td>18.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp18,5 (delapan belas Rupiah koma lima)</td>
+			<td>KSEI-5404/JKU/0422</td>
+			<td>04-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>28.</td>
+			<td>PT BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN Tbk (Bank BJB)</td>
+			<td>BJBR</td>
+			<td>BANK JABAR BANTEN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2022</td>
+			<td>11-APR-2022</td>
+			<td>29-APR-2022</td>
+			<td>1</td>
+			<td>BJBR</td>
+			<td>99.11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 99,11 (sembilan puluh sembilan
+ Rupiah koma satu satu).</td>
+			<td>KSEI-5327/JKU/0422</td>
+			<td>01-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>29.</td>
+			<td>GARUDAFOOD PUTRA PUTRI JAYA Tbk, PT</td>
+			<td>GOOD</td>
+			<td>GARUDAFOOD PUTRA PUTRI JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-APR-2022</td>
+			<td>12-APR-2022</td>
+			<td>26-APR-2022</td>
+			<td>1</td>
+			<td>GOOD</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.6,- (enam Rupiah)</td>
+			<td>KSEI-5505/JKU/0422</td>
+			<td>05-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>30.</td>
+			<td>PELAT TIMAH NUSANTARA Tbk, PT</td>
+			<td>NIKL</td>
+			<td>PELAT TIMAH NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-APR-2022</td>
+			<td>12-APR-2022</td>
+			<td>04-MAY-2022</td>
+			<td>1</td>
+			<td>NIKL</td>
+			<td>0.000697</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan USD 0,000697 (nol koma nol nol nol enam sembilan tujuh USD).
+
+Pembayaran dividen tunai akan menggunakan nilai kurs tengah Bank Indonesia (BI) pada saat recording date, yaitu pada tanggal 12 April 2022</td>
+			<td>KSEI-5507/JKU/0422</td>
+			<td>05-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>31.</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk, PT</td>
+			<td>SMGR</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-APR-2022</td>
+			<td>12-APR-2022</td>
+			<td>29-APR-2022</td>
+			<td>1</td>
+			<td>SMGR</td>
+			<td>172.64</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 172,64 (seratus tujuh puluh dua Rupiah koma enam empat)</td>
+			<td>KSEI-5690/JKU/0422</td>
+			<td>07-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>32.</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk, PT</td>
+			<td>LPPF</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2022</td>
+			<td>18-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>LPPF</td>
+			<td>250</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 250,- (dua ratus lima puluh Rupiah).</td>
+			<td>KSEI-5614/JKU/0422</td>
+			<td>06-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>33.</td>
+			<td>BANK OCBC NISP Tbk, PT</td>
+			<td>NISP</td>
+			<td>BANK OCBC NISP Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2022</td>
+			<td>18-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>NISP</td>
+			<td>22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 22,- (dua puluh dua Rupiah).</td>
+			<td>KSEI-5616/JKU/0422</td>
+			<td>06-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>34.</td>
+			<td>JAPFA COMFEED INDONESIA Tbk, PT</td>
+			<td>JPFA</td>
+			<td>JAPFA COMFEED INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-APR-2022</td>
+			<td>19-APR-2022</td>
+			<td>22-APR-2022</td>
+			<td>1</td>
+			<td>JPFA</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.60,- (Enam Pulu
+h Rupiah)</td>
+			<td>KSEI-5721/JKU/0422</td>
+			<td>08-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>35.</td>
+			<td>PRODIA WIDYAHUSADA Tbk, PT</td>
+			<td>PRDA</td>
+			<td>PRODIA WIDYAHUSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-APR-2022</td>
+			<td>20-APR-2022</td>
+			<td>27-APR-2022</td>
+			<td>1</td>
+			<td>PRDA</td>
+			<td>397.83906</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 397,83906 (tiga ratus sembilan puluh tujuh Rupiah koma delapan tiga sembilan nol enam)</td>
+			<td>KSEI-5723/JKU/0422</td>
+			<td>08-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>36.</td>
+			<td>EASTPARC HOTEL Tbk, PT</td>
+			<td>EAST</td>
+			<td>EASTPARC HOTEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-APR-2022</td>
+			<td>20-APR-2022</td>
+			<td>27-APR-2022</td>
+			<td>1</td>
+			<td>EAST</td>
+			<td>1.52</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.1,52 (satu Rupiah koma
+ lima dua)</td>
+			<td>KSEI-5684/JKU/0422</td>
+			<td>07-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>37.</td>
+			<td>SOLUSI BANGUN INDONESIA Tbk, PT</td>
+			<td>SMCB</td>
+			<td>SOLUSI BANGUN INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2022</td>
+			<td>21-APR-2022</td>
+			<td>26-APR-2022</td>
+			<td>1</td>
+			<td>SMCB</td>
+			<td>23.97945897484</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 23,97945897484
+ (dua puluh tiga Rupiah koma sembilan tujuh sembilan empat lima delapan sembilan tujuh empat
+delapan empat)</td>
+			<td>KSEI-5911/JKU/0422</td>
+			<td>12-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>38.</td>
+			<td>MANDALA MULTIFINANCE Tbk, PT</td>
+			<td>MFIN</td>
+			<td>MANDALA MULTIFINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2022</td>
+			<td>21-APR-2022</td>
+			<td>12-MAY-2022</td>
+			<td>1</td>
+			<td>MFIN</td>
+			<td>73</td>
+			<td>IDR</td>
+			<td>Setiap 1 saham akan mendapatkan dividen tunai sebesar Rp. 73,- (tujuh puluh tiga R
+upiah)</td>
+			<td>KSEI-5913/JKU/0422</td>
+			<td>12-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>39.</td>
+			<td>BANK CIMB NIAGA Tbk, PT</td>
+			<td>BNGA</td>
+			<td>BANK CIMB NIAGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2022</td>
+			<td>21-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>1</td>
+			<td>BNGA</td>
+			<td>94.07</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp.94,07 (sembilan puluh empat Rupiah koma nol tujuh)</td>
+			<td>KSEI-5915/JKU/0422</td>
+			<td>12-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>40.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2022</td>
+			<td>21-APR-2022</td>
+			<td>11-MAY-2022</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>905</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.905,- (sembilan ra
+tus lima Rupiah)</td>
+			<td>KSEI-6066/JKU/0422</td>
+			<td>13-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>41.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-APR-2022</td>
+			<td>25-APR-2022</td>
+			<td>12-MAY-2022</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-6218/JKU/0422</td>
+			<td>14-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>42.</td>
+			<td>NIPPON INDOSARI CORPINDO, PT</td>
+			<td>ROTI</td>
+			<td>NIPPON INDOSARI CORPINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-APR-2022</td>
+			<td>25-APR-2022</td>
+			<td>09-MAY-2022</td>
+			<td>1</td>
+			<td>ROTI</td>
+			<td>60.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 60,2 (enam puluh Rupiah koma dua)</td>
+			<td>KSEI-6164/JKU/0422</td>
+			<td>14-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>43.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-APR-2022</td>
+			<td>26-APR-2022</td>
+			<td>13-MAY-2022</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>359</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 359,- (tiga ratus lima puluh sembilan Rupiah).</td>
+			<td>KSEI-6605/JKU/0422</td>
+			<td>20-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>44.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-APR-2022</td>
+			<td>26-APR-2022</td>
+			<td>13-MAY-2022</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>19</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 19,- (sembil
+an belas Rupiah).</td>
+			<td>KSEI-6434/JKU/0422</td>
+			<td>19-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>45.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>7.29795</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 7,29795 (tujuh Rupiah koma dua sembilan tujuh sembilan lima)</td>
+			<td>KSEI-6603/JKU/0422</td>
+			<td>20-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>46.</td>
+			<td>WIJAYA KARYA BETON Tbk, PT</td>
+			<td>WTON</td>
+			<td>WIJAYA KARYA BETON Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>WTON</td>
+			<td>1.9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,90 (satu Ru
+piah koma sembilan nol)</td>
+			<td>KSEI-6677/JKU/0422</td>
+			<td>21-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>47.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2022</td>
+			<td>28-APR-2022</td>
+			<td>23-MAY-2022</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>0.4642</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) Unit akan mendapatkan dividen tunai sebesar Rp.0,4642 (nol koma empat enam empat dua Rupiah)</td>
+			<td>KSEI-6436/JKU/0422</td>
+			<td>19-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>48.</td>
+			<td>WIJAYA KARYA BANGUNAN GEDUNG Tbk, PT</td>
+			<td>WEGE</td>
+			<td>WIJAYA KARYA BANGUNAN GEDUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2022</td>
+			<td>09-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>WEGE</td>
+			<td>4.47</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 4,47 (empat Rupiah k
+oma empat tujuh)</td>
+			<td>KSEI-6804/JKU/0422</td>
+			<td>22-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>49.</td>
+			<td>DHARMA SATYA NUSANTARA Tbk, PT</td>
+			<td>DSNG</td>
+			<td>DHARMA SATYA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2022</td>
+			<td>10-MAY-2022</td>
+			<td>19-MAY-2022</td>
+			<td>1</td>
+			<td>DSNG</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rup
+iah)</td>
+			<td>KSEI-6802/JKU/0422</td>
+			<td>22-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>50.</td>
+			<td>ARMADA BERJAYA TRANS Tbk, PT</td>
+			<td>JAYA</td>
+			<td>ARMADA BERJAYA TRANS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2022</td>
+			<td>10-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>JAYA</td>
+			<td>3.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,8 (tiga Rup
+iah koma delapan)</td>
+			<td>KSEI-6808/JKU/0422</td>
+			<td>22-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>51.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2022</td>
+			<td>10-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>194</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.194,- (seratus sembilan puluh empat Rupiah)</td>
+			<td>KSEI-6679/JKU/0422</td>
+			<td>21-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>52.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2022</td>
+			<td>10-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>408.45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 408,45 (empat 
+ratus delapan Rupiah koma empat lima)</td>
+			<td>KSEI-6899/JKU/0422</td>
+			<td>25-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>53.</td>
+			<td>BANK BTPN SYARIAH Tbk, PT</td>
+			<td>BTPS</td>
+			<td>BANK BTPN SYARIAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2022</td>
+			<td>11-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>BTPS</td>
+			<td>61.75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 61,75 (enam pu
+luh satu Rupiah koma tujuh lima)  </td>
+			<td>KSEI-7121/JKU/0422</td>
+			<td>26-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>54.</td>
+			<td>DHARMA POLIMETAL Tbk, PT</td>
+			<td>DRMA</td>
+			<td>DHARMA POLIMETAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2022</td>
+			<td>11-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>DRMA</td>
+			<td>14.97</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 14,97 (empat belas Rupiah koma sembilan tujuh).</td>
+			<td>KSEI-7201/JKU/0422</td>
+			<td>27-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>55.</td>
+			<td>IFISHDECO Tbk, PT</td>
+			<td>IFSH</td>
+			<td>IFISHDECO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2022</td>
+			<td>11-MAY-2022</td>
+			<td>25-MAY-2022</td>
+			<td>1</td>
+			<td>IFSH</td>
+			<td>23.93</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 23,93 (dua puluh tiga Rupiah koma sembilan tiga)</td>
+			<td>KSEI-7123/JKU/0422</td>
+			<td>26-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>56.</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk, PT</td>
+			<td>SRTG</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2022</td>
+			<td>11-MAY-2022</td>
+			<td>13-MAY-2022</td>
+			<td>1</td>
+			<td>SRTG</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 60,- (enam puluh Rupiah)</td>
+			<td>KSEI-7125/JKU/0422</td>
+			<td>26-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>57.</td>
+			<td>AVIA AVIAN Tbk, PT</td>
+			<td>AVIA</td>
+			<td>AVIA AVIAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-MAY-2022</td>
+			<td>12-MAY-2022</td>
+			<td>19-MAY-2022</td>
+			<td>1</td>
+			<td>AVIA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-7119/JKU/0422</td>
+			<td>26-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>58.</td>
+			<td>XL AXIATA Tbk, PT</td>
+			<td>EXCL</td>
+			<td>XL Axiata Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-MAY-2022</td>
+			<td>12-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>1</td>
+			<td>EXCL</td>
+			<td>51</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 51,- (lima p
+uluh satu Rupiah)</td>
+			<td>KSEI-6897/JKU/0422</td>
+			<td>25-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>59.</td>
+			<td>DAYAMITRA TELEKOMUNIKASI Tbk, PT</td>
+			<td>MTEL</td>
+			<td>DAYAMITRA TELEKOMUNIKASI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-MAY-2022</td>
+			<td>12-MAY-2022</td>
+			<td>25-MAY-2022</td>
+			<td>1</td>
+			<td>MTEL</td>
+			<td>11.57</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 11,57 (sebelas Rupiah koma lima tujuh).</td>
+			<td>KSEI-7203/JKU/0422</td>
+			<td>27-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>60.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2022</td>
+			<td>17-MAY-2022</td>
+			<td>27-MAY-2022</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>439</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 439,- (Empat Ratus tiga puluh Sembilan
+Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>61.</td>
+			<td>PRIMA ANDALAN MANDIRI Tbk, PT</td>
+			<td>MCOL</td>
+			<td>PRIMA ANDALAN MANDIRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2022</td>
+			<td>17-MAY-2022</td>
+			<td>27-MAY-2022</td>
+			<td>1</td>
+			<td>MCOL</td>
+			<td>460</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.460,- (empat ratus enam puluh 
+Rupiah)</td>
+			<td>KSEI-7356/JKU/0422</td>
+			<td>28-APR-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>62.</td>
+			<td>TRISULA TEXTILE INDUSTRIES Tbk, PT</td>
+			<td>BELL</td>
+			<td>TRISULA TEXTILE INDUSTRIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAY-2022</td>
+			<td>18-MAY-2022</td>
+			<td>27-MAY-2022</td>
+			<td>1</td>
+			<td>BELL</td>
+			<td>0.28</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.0,28 (nol koma dua delapan Rupiah)</td>
+			<td>KSEI-7798/JKU/0522</td>
+			<td>10-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>63.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAY-2022</td>
+			<td>18-MAY-2022</td>
+			<td>08-JUN-2022</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>1</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp141,39 (seratus empat puluh satu Rupiah koma tiga sembilan)</td>
+			<td>KSEI-7804/JKU/0522</td>
+			<td>10-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>64.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAY-2022</td>
+			<td>18-MAY-2022</td>
+			<td>08-JUN-2022</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>141.39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp141,39 (seratus empat puluh satu Rupiah koma tiga sembilan)</td>
+			<td>KSEI-7804/JKU/0522</td>
+			<td>10-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>65.</td>
+			<td>TRISULA INTERNATIONAL Tbk, PT</td>
+			<td>TRIS</td>
+			<td>TRISULA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAY-2022</td>
+			<td>18-MAY-2022</td>
+			<td>27-MAY-2022</td>
+			<td>1</td>
+			<td>TRIS</td>
+			<td>1.75</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.1,75 (satu koma 
+tujuh lima Rupiah)</td>
+			<td>KSEI-7677/JKU/0522</td>
+			<td>09-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>66.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2022</td>
+			<td>19-MAY-2022</td>
+			<td>23-MAY-2022</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>411.045345</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 411,045345 (
+empat ratus sebelas Rupiah koma nol empat lima tiga empat lima)</td>
+			<td>KSEI-7800/JKU/0522</td>
+			<td>10-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>67.</td>
+			<td>COMMUNICATION CABLE SYSTEMS INDONESIA Tbk, PT</td>
+			<td>CCSI</td>
+			<td>COMMUNICATION CABLE SYSTEMS INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2022</td>
+			<td>19-MAY-2022</td>
+			<td>08-JUN-2022</td>
+			<td>1</td>
+			<td>CCSI</td>
+			<td>7.5</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Tunai sebesar Rp.7,5 (Tujuh Rupia
+h koma lima)</td>
+			<td>KSEI-8400/JKU/0522</td>
+			<td>13-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>68.</td>
+			<td>MILLENNIUM PHARMACON INTERNATIONAL Tbk, PT</td>
+			<td>SDPC</td>
+			<td>MILLENNIUM PHARMACON INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2022</td>
+			<td>19-MAY-2022</td>
+			<td>09-JUN-2022</td>
+			<td>1</td>
+			<td>SDPC</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-7802/JKU/0522</td>
+			<td>10-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>69.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2022</td>
+			<td>19-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.17,- (dua belas Rupiah)</td>
+			<td>KSEI-7671/JKU/0522</td>
+			<td>09-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>70.</td>
+			<td>PINAGO UTAMA Tbk, PT</td>
+			<td>PNGO</td>
+			<td>PINAGO UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>08-JUN-2022</td>
+			<td>1</td>
+			<td>PNGO</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 70, - (tujuh puluh Rupiah)</td>
+			<td>KSEI-8192/JKU/0522</td>
+			<td>12-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>71.</td>
+			<td>PT SELAMAT SEMPURNA Tbk</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2022</td>
+			<td>20-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.15,- (lima belas 
+Rupiah)</td>
+			<td>KSEI-7675/JKU/0522</td>
+			<td>09-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>72.</td>
+			<td>ABM INVESTAMA Tbk. PT</td>
+			<td>ABMM</td>
+			<td>ABM INVESTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>10-JUN-2022</td>
+			<td>1</td>
+			<td>ABMM</td>
+			<td>267</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 267,- (dua ratus enam puluh tujuh Rupiah)</td>
+			<td>KSEI-8748/JKU/0522</td>
+			<td>18-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>73.</td>
+			<td>KIMIA FARMA Tbk, PT</td>
+			<td>KAEF</td>
+			<td>KIMIA FARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>10-JUN-2022</td>
+			<td>1</td>
+			<td>KAEF</td>
+			<td>16.327347</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 16,327347 (enam belas Rupi
+ah koma tiga dua tujuh tiga empat tujuh)</td>
+			<td>KSEI-8796/JKU/0522</td>
+			<td>18-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>74.</td>
+			<td>MITRA KELUARGA KARYASEHAT Tbk, PT</td>
+			<td>MIKA</td>
+			<td>MITRA KELUARGA KARYASEHAT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>10-JUN-2022</td>
+			<td>1</td>
+			<td>MIKA</td>
+			<td>36</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.36,- (tiga puluh enam Rupiah
+)</td>
+			<td>KSEI-8753/JKU/0522</td>
+			<td>18-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>75.</td>
+			<td>PT. MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>MLPT</td>
+			<td>MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>10-JUN-2022</td>
+			<td>1</td>
+			<td>MLPT</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45,- (empat puluh lima Rupiah)</td>
+			<td>KSEI-8755/JKU/0522</td>
+			<td>18-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>76.</td>
+			<td>BARITO PACIFIC Tbk, PT</td>
+			<td>BRPT</td>
+			<td>BARITO PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>10-JUN-2022</td>
+			<td>1</td>
+			<td>BRPT</td>
+			<td>3.1218</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,1218 (tiga Rupiah koma satu dua satu
+delapan) </td>
+			<td>KSEI-8540/JKU/0522</td>
+			<td>17-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>77.</td>
+			<td>VICTORIA CARE INDONESIA Tbk, PT</td>
+			<td>VICI</td>
+			<td>VICTORIA CARE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>10-JUN-2022</td>
+			<td>1</td>
+			<td>VICI</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 7,- (tujuh R
+upiah)</td>
+			<td>KSEI-8544/JKU/0522</td>
+			<td>17-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>78.</td>
+			<td>PT TIGARAKSA SATRIA Tbk ,</td>
+			<td>TGKA</td>
+			<td>TIGARAKSA SATRIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2022</td>
+			<td>24-MAY-2022</td>
+			<td>30-MAY-2022</td>
+			<td>1</td>
+			<td>TGKA</td>
+			<td>295</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 295,- (dua ra
+tus sembilan puluh lima Rupiah)</td>
+			<td>KSEI-8402/JKU/0522</td>
+			<td>13-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>79.</td>
+			<td>PANCA BUDI IDAMAN Tbk, PT</td>
+			<td>PBID</td>
+			<td>PANCA BUDI IDAMAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-MAY-2022</td>
+			<td>25-MAY-2022</td>
+			<td>03-JUN-2022</td>
+			<td>1</td>
+			<td>PBID</td>
+			<td>110</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.110,- (seratus sepuluh R
+upiah)</td>
+			<td>KSEI-8542/JKU/0522</td>
+			<td>17-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>80.</td>
+			<td>PELITA SAMUDERA SHIPPING Tbk, PT</td>
+			<td>PSSI</td>
+			<td>PELITA SAMUDERA SHIPPING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-MAY-2022</td>
+			<td>25-MAY-2022</td>
+			<td>16-JUN-2022</td>
+			<td>1</td>
+			<td>PSSI</td>
+			<td>28</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp. 28,- (dua puluh delapan Rupiah) per saham</td>
+			<td>KSEI-8914/JKU/0522</td>
+			<td>19-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>81.</td>
+			<td>BERKAH BETON SADAYA Tbk, PT</td>
+			<td>BEBS</td>
+			<td>BERKAH BETON SADAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-MAY-2022</td>
+			<td>25-MAY-2022</td>
+			<td>16-JUN-2022</td>
+			<td>1</td>
+			<td>BEBS</td>
+			<td>3.67</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.3,67 (tiga Rupiah koma enam tujuh)</td>
+			<td>KSEI-8750/JKU/0522</td>
+			<td>18-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>82.</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk, PT</td>
+			<td>EPMT</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2022</td>
+			<td>30-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>EPMT</td>
+			<td>205</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 205,- (dua r
+atus lima Rupiah).</td>
+			<td>KSEI-9156/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>83.</td>
+			<td>ASURANSI TUGU PRATAMA INDONESIA Tbk, PT</td>
+			<td>TUGU</td>
+			<td>ASURANSI TUGU PRATAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2022</td>
+			<td>30-MAY-2022</td>
+			<td>16-JUN-2022</td>
+			<td>1</td>
+			<td>TUGU</td>
+			<td>71.20807823</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp71,20807823 (tujuh puluh satu Rupiah koma dua nol delapan nol tujuh delapan dua tiga)</td>
+			<td>KSEI-8999/JKU/0522</td>
+			<td>20-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>84.</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>BYAN</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>15-JUN-2022</td>
+			<td>1</td>
+			<td>BYAN</td>
+			<td>0.3</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 4.363,20 (e
+mpat ribu tiga ratus enam puluh tiga Rupiah koma dua nol)</td>
+			<td>KSEI-9158/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>85.</td>
+			<td>CISADANE SAWIT RAYA Tbk, PT</td>
+			<td>CSRA</td>
+			<td>CISADANE SAWIT RAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>CSRA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 10,- 
+(sepuluh Rupiah)</td>
+			<td>KSEI-9001/JKU/0522</td>
+			<td>20-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>86.</td>
+			<td>ACE OLDFIELDS Tbk, PT</td>
+			<td>KUAS</td>
+			<td>ACE OLDFIELDS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>KUAS</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp1,- (satu Rupiah)</td>
+			<td>KSEI-9154/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>87.</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk, PT</td>
+			<td>MPMX</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>MPMX</td>
+			<td>180</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.180,- (seratus delapan puluh Rupiah)</td>
+			<td>KSEI-9152/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>88.</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>BYAN</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>15-JUN-2022</td>
+			<td>1</td>
+			<td>BYAN</td>
+			<td>4363.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 4.363,20 (e
+mpat ribu tiga ratus enam puluh tiga Rupiah koma dua nol)</td>
+			<td>KSEI-9158/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>89.</td>
+			<td>SAMINDO RESOURCES Tbk, PT</td>
+			<td>MYOH</td>
+			<td>SAMINDO RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>MYOH</td>
+			<td>0.00227</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 33,01 (tiga puluh tiga Rupiah koma nol satu)</td>
+			<td>KSEI-9543/JKU/0522</td>
+			<td>25-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>90.</td>
+			<td>SEKAR LAUT Tbk, PT</td>
+			<td>SKLT</td>
+			<td>SEKAR LAUT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>13-JUN-2022</td>
+			<td>1</td>
+			<td>SKLT</td>
+			<td>48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 48,- (empat puluh delapan Rupiah)</td>
+			<td>KSEI-9679/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>91.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>19</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 19,- (sembilan belas Rupiah) </td>
+			<td>KSEI-9150/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>92.</td>
+			<td>SAMINDO RESOURCES Tbk, PT</td>
+			<td>MYOH</td>
+			<td>SAMINDO RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2022</td>
+			<td>31-MAY-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>MYOH</td>
+			<td>33.01</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 33,01 (tiga puluh tiga Rupiah koma nol satu)</td>
+			<td>KSEI-9543/JKU/0522</td>
+			<td>25-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>93.</td>
+			<td>FKS MULTI AGRO Tbk, PT</td>
+			<td>FISH</td>
+			<td>FKS MULTI AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2022</td>
+			<td>02-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>FISH</td>
+			<td>280</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.280,- (dua ratus
+ delapan puluh Rupiah)</td>
+			<td>KSEI-9160/JKU/0522</td>
+			<td>23-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>94.</td>
+			<td>KALBE FARMA Tbk, PT</td>
+			<td>KLBF</td>
+			<td>KALBE FARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2022</td>
+			<td>02-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>KLBF</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.35,- (tiga puluh lima Rupiah)</td>
+			<td>KSEI-9669/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>95.</td>
+			<td>SARI MELATI KENCANA Tbk, PT</td>
+			<td>PZZA</td>
+			<td>SARIMELATI KENCANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2022</td>
+			<td>02-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>PZZA</td>
+			<td>19.96346</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp.19,96346 (Sembilan Belas Rupiah koma Sembilan Enam Tiga Empat Enam)</td>
+			<td>KSEI-9380/JKU/0522</td>
+			<td>24-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>96.</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk, PT</td>
+			<td>RALS</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2022</td>
+			<td>03-JUN-2022</td>
+			<td>23-JUN-2022</td>
+			<td>1</td>
+			<td>RALS</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 30,- (tiga piuluh R
+upiah)</td>
+			<td>KSEI-9378/JKU/0522</td>
+			<td>24-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>97.</td>
+			<td>BANK PERMATA Tbk, PT</td>
+			<td>BNLI</td>
+			<td>BANK PERMATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2022</td>
+			<td>03-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>1</td>
+			<td>BNLI</td>
+			<td>8.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,5 (delapan Ru
+piah koma lima)</td>
+			<td>KSEI-9374/JKU/0522</td>
+			<td>24-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>98.</td>
+			<td>NUSA RAYA CIPTA Tbk, PT</td>
+			<td>NRCA</td>
+			<td>NUSA RAYA CIPTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2022</td>
+			<td>03-JUN-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>NRCA</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.15,- (
+Lima belas Rupiah)</td>
+			<td>KSEI-9673/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>99.</td>
+			<td>CATURKARDA DEPO BANGUNAN Tbk, PT</td>
+			<td>DEPO</td>
+			<td>CATURKARDA DEPO BANGUNAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2022</td>
+			<td>06-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>DEPO</td>
+			<td>5.15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 5,15 (lima Rupiah koma satu lima)</td>
+			<td>KSEI-9665/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>100.</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk, PT</td>
+			<td>TBIG</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2022</td>
+			<td>06-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>TBIG</td>
+			<td>36</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 36,- (tiga p
+uluh enam Rupiah).</td>
+			<td>KSEI-9843/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>101.</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk, PT</td>
+			<td>SSMS</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2022</td>
+			<td>06-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>1</td>
+			<td>SSMS</td>
+			<td>80.15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 80,15 (delapan 
+puluh Rupiah koma satu lima)</td>
+			<td>KSEI-9675/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>102.</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk, PT</td>
+			<td>CPIN</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2022</td>
+			<td>06-JUN-2022</td>
+			<td>14-JUN-2022</td>
+			<td>1</td>
+			<td>CPIN</td>
+			<td>108</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 108,- (sera
+tus delapan Rupiah)</td>
+			<td>KSEI-9541/JKU/0522</td>
+			<td>25-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>103.</td>
+			<td>BISI INTERNATIONAL Tbk, PT</td>
+			<td>BISI</td>
+			<td>BISI INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2022</td>
+			<td>06-JUN-2022</td>
+			<td>14-JUN-2022</td>
+			<td>1</td>
+			<td>BISI</td>
+			<td>68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 68,- (enam p
+uluh delapan Rupiah)</td>
+			<td>KSEI-9661/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>104.</td>
+			<td>TIMAH Tbk, PT</td>
+			<td>TINS</td>
+			<td>TIMAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>TINS</td>
+			<td>61.2236</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 61,2236 (enam puluh satu Rupiah koma dua dua tiga enam)</td>
+			<td>KSEI-9845/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>105.</td>
+			<td>ANEKA TAMBANG Tbk, PT</td>
+			<td>ANTM</td>
+			<td>ANEKA TAMBANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>ANTM</td>
+			<td>38.73666</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 38,73666 (tiga puluh delapan Rupiah koma tujuh tiga enam enam enam). </td>
+			<td>KSEI-9831/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>106.</td>
+			<td>BANK MESTIKA DHARMA Tbk, PT</td>
+			<td>BBMD</td>
+			<td>BANK MESTIKA DHARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>BBMD</td>
+			<td>34.26</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 34,26 (tiga p
+uluh empat Rupiah koma dua enam)</td>
+			<td>KSEI-9525/JKU/0522</td>
+			<td>25-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>107.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>15-JUN-2022</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>62.3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 62,3 (enam puluh dua Rupiah koma tiga)</td>
+			<td>KSEI-9667/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>108.</td>
+			<td>MEGA PERINTIS Tbk, PT</td>
+			<td>ZONE</td>
+			<td>MEGA PERINTIS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>1</td>
+			<td>ZONE</td>
+			<td>10.65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,65 (sepuluh Rupiah koma enam lima).</td>
+			<td>KSEI-9847/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>109.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 7,- (tujuh R
+upiah)</td>
+			<td>KSEI-9677/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>110.</td>
+			<td>BUKIT ASAM Tbk, PT</td>
+			<td>PTBA</td>
+			<td>BUKIT ASAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>PTBA</td>
+			<td>688.515</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 688,515 (
+enam ratus delapan puluh delapan koma lima satu lima).</td>
+			<td>KSEI-9838/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>111.</td>
+			<td>MITRA INVESTINDO Tbk, PT</td>
+			<td>MITI</td>
+			<td>MITRA INVESTINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>MITI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,
+- (satu Rupiah).</td>
+			<td>KSEI-9671/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>112.</td>
+			<td>TRIPUTRA AGRO PERSADA Tbk, PT</td>
+			<td>TAPG</td>
+			<td>TRIPUTRA AGRO PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2022</td>
+			<td>07-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>TAPG</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td>KSEI-9841/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>113.</td>
+			<td>PHAPROS Tbk, PT</td>
+			<td>PEHA</td>
+			<td>PHAPROS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>PEHA</td>
+			<td>7.91</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp. 7,91 (tujuh Rupiah koma sembilan satu)</td>
+			<td>KSEI-9835/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>114.</td>
+			<td>MIDI UTAMA INDONESIA Tbk, PT</td>
+			<td>MIDI</td>
+			<td>MIDI UTAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>MIDI</td>
+			<td>28.65</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.28,65 (dua puluhl delapan Rupiah koma enam lima
+)</td>
+			<td>KSEI-10112/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>115.</td>
+			<td>MAHKOTA GROUP Tbk, PT</td>
+			<td>MGRO</td>
+			<td>MAHKOTA GROUP Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>MGRO</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.7,- (tujuh Rupiah
+)</td>
+			<td>KSEI-10109/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>116.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>240</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.240,- (dua ratus empat puluh Rupiah
+)</td>
+			<td>KSEI-10107/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>117.</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk, PT</td>
+			<td>INTP</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>INTP</td>
+			<td>500</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 500,- (lima r
+atus Rupiah).</td>
+			<td>KSEI-9833/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>118.</td>
+			<td>MEDIKALOKA HERMINA Tbk, PT</td>
+			<td>HEAL</td>
+			<td>MEDIKALOKA HERMINA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>HEAL</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td>KSEI-10102/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>119.</td>
+			<td>PT. CHITOSE INTERNASIONAL Tbk</td>
+			<td>CINT</td>
+			<td>CHITOSE INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>CINT</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,- (satu R
+upiah)</td>
+			<td>KSEI-9663/JKU/0522</td>
+			<td>27-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>120.</td>
+			<td>BANK BUMI ARTA Tbk, PT</td>
+			<td>BNBA</td>
+			<td>BANK BUMI ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>BNBA</td>
+			<td>4.25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.4,25 (empat Rupiah koma dua lima
+)</td>
+			<td>KSEI-10100/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>121.</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk, PT</td>
+			<td>AMRT</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>AMRT</td>
+			<td>18.78</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 18,78 (delapan belas Rupiah koma tujuh delapan)</td>
+			<td>KSEI-9828/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>122.</td>
+			<td>ASURANSI BINA DANA ARTA Tbk, PT</td>
+			<td>ABDA</td>
+			<td>ASURANSI BINA DANA ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2022</td>
+			<td>08-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>ABDA</td>
+			<td>81.50685</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.81,50685 (delapan puluh satu Rupiah koma lima nol enam delapan lima)</td>
+			<td>KSEI-9825/JKU/0522</td>
+			<td>30-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>123.</td>
+			<td>PARAMITA BANGUN SARANA Tbk, PT</td>
+			<td>PBSA</td>
+			<td>PARAMITA BANGUN SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>PBSA</td>
+			<td>47</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.47,- (empat puluh 
+tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>124.</td>
+			<td>BANK SYARIAH INDONESIA Tbk, PT</td>
+			<td>BRIS</td>
+			<td>BANK SYARIAH INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>BRIS</td>
+			<td>18.406613</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 18,406613 (delapan belas Rupiah koma empat nol enam enam satu tiga)</td>
+			<td>KSEI-10207/JKU/0622</td>
+			<td>02-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>125.</td>
+			<td>KEDAWUNG SETIA INDUSTRIAL Tbk, PT</td>
+			<td>KDSI</td>
+			<td>KEDAWUNG SETIA INDUSTRIAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>15-JUN-2022</td>
+			<td>1</td>
+			<td>KDSI</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.100,- (seratus Rupiah)</td>
+			<td>KSEI-10105/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>126.</td>
+			<td>PERUSAHAAN GAS NEGARA Tbk, PT</td>
+			<td>PGAS</td>
+			<td>PERUSAHAAN GAS NEGARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>PGAS</td>
+			<td>124.42</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 124,42 (seratus dua puluh empat Rupiah koma empat dua).</td>
+			<td>KSEI-10116/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>127.</td>
+			<td>PT. SAMPOERNA AGRO, Tbk</td>
+			<td>SGRO</td>
+			<td>SAMPOERNA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>1</td>
+			<td>SGRO</td>
+			<td>135</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 135,- (serat
+us tiga puluh lima Rupiah) </td>
+			<td>KSEI-10211/JKU/0622</td>
+			<td>02-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>128.</td>
+			<td>TELADAN PRIMA AGRO Tbk, PT</td>
+			<td>TLDN</td>
+			<td>TELADAN PRIMA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>TLDN</td>
+			<td>6.17</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp. 6,17 (enam Rupiah koma satu tujuh)</td>
+			<td>KSEI-10118/JKU/0522</td>
+			<td>31-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>129.</td>
+			<td>TELKOM INDONESIA (PERSERO) Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELKOM INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>149.9656</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp149,9656 (seratus empat puluh sembilan Rupiah koma sembilan enam lima enam)</td>
+			<td>KSEI-10213/JKU/0622</td>
+			<td>02-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>130.</td>
+			<td>SARANA MENARA NUSANTARA Tbk, PT</td>
+			<td>TOWR</td>
+			<td>SARANA MENARA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2022</td>
+			<td>09-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>TOWR</td>
+			<td>18.1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 18,1 (delapan belas 
+Rupiah koma satu)</td>
+			<td>KSEI-10215/JKU/0622</td>
+			<td>02-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>131.</td>
+			<td>MARK DYNAMICS INDONESIA Tbk, PT</td>
+			<td>MARK</td>
+			<td>MARK DYNAMICS INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2022</td>
+			<td>10-JUN-2022</td>
+			<td>01-JUL-2022</td>
+			<td>1</td>
+			<td>MARK</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 50,- (lima puluh Ru
+piah)</td>
+			<td>KSEI-9376/JKU/0522</td>
+			<td>24-MAY-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>132.</td>
+			<td>SARIGUNA PRIMATIRTA Tbk, PT</td>
+			<td>CLEO</td>
+			<td>SARIGUNA PRIMATIRTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2022</td>
+			<td>13-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>CLEO</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu R
+upiah)</td>
+			<td>KSEI-10514/JKU/0622</td>
+			<td>06-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>133.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2022</td>
+			<td>13-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>297.39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh IDR 297,39 (dua ratus sembilan puluh tujuh Rupiah koma tiga sembilan)</td>
+			<td>KSEI-10209/JKU/0622</td>
+			<td>02-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>134.</td>
+			<td>GIHON TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>GHON</td>
+			<td>GIHON TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2022</td>
+			<td>13-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>1</td>
+			<td>GHON</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.100,- (seratus Rupiah)</td>
+			<td>KSEI-10377/JKU/0622</td>
+			<td>03-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>135.</td>
+			<td>SILOAM INTERNATIONAL HOSPITALS Tbk, PT</td>
+			<td>SILO</td>
+			<td>SILOAM INTERNATIONAL HOSPITALS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2022</td>
+			<td>13-JUN-2022</td>
+			<td>17-JUN-2022</td>
+			<td>1</td>
+			<td>SILO</td>
+			<td>19.3</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.19,3 (sembilan belas Rupiah koma tiga)</td>
+			<td>KSEI-10379/JKU/0622</td>
+			<td>03-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>136.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2022</td>
+			<td>13-JUN-2022</td>
+			<td>01-JUL-2022</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh R
+upiah)</td>
+			<td>KSEI-10521/JKU/0622</td>
+			<td>06-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>137.</td>
+			<td>KURNIAMITRA DUTA SENTOSA Tbk, PT</td>
+			<td>KMDS</td>
+			<td>KURNIAMITRA DUTA SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2022</td>
+			<td>14-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>KMDS</td>
+			<td>12.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,5 (dua belas Ru
+piah koma lima)</td>
+			<td>KSEI-10760/JKU/0622</td>
+			<td>07-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>138.</td>
+			<td>METRODATA ELECTRONICS Tbk, PT</td>
+			<td>MTDL</td>
+			<td>METRODATA ELECTRONICS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2022</td>
+			<td>14-JUN-2022</td>
+			<td>06-JUL-2022</td>
+			<td>1</td>
+			<td>MTDL</td>
+			<td>10.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,5 (sepuluh R
+upiah koma lima)</td>
+			<td>KSEI-10516/JKU/0622</td>
+			<td>06-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>139.</td>
+			<td>TOTAL BANGUN PERSADA Tbk, PT</td>
+			<td>TOTL</td>
+			<td>TOTAL BANGUN PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2022</td>
+			<td>14-JUN-2022</td>
+			<td>06-JUL-2022</td>
+			<td>1</td>
+			<td>TOTL</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Ru
+piah)</td>
+			<td>KSEI-10766/JKU/0622</td>
+			<td>07-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>140.</td>
+			<td>BERKAH PRIMA PERKASA Tbk, PT</td>
+			<td>BLUE</td>
+			<td>BERKAH PRIMA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2022</td>
+			<td>15-JUN-2022</td>
+			<td>07-JUL-2022</td>
+			<td>1</td>
+			<td>BLUE</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.17,- (tujuh belas Rupiah)</td>
+			<td>KSEI-11034/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>141.</td>
+			<td>PT. MULTI PRIMA SEJAHTERA Tbk</td>
+			<td>LPIN</td>
+			<td>MULTI PRIMA SEJAHTERA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2022</td>
+			<td>15-JUN-2022</td>
+			<td>05-JUL-2022</td>
+			<td>1</td>
+			<td>LPIN</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp.15,- (lima belas Rupiah) per 
+saham</td>
+			<td>KSEI-10762/JKU/0622</td>
+			<td>07-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>142.</td>
+			<td>HASNUR INTERNASIONAL SHIPPING Tbk, PT</td>
+			<td>HAIS</td>
+			<td>HASNUR INTERNASIONAL SHIPPING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2022</td>
+			<td>15-JUN-2022</td>
+			<td>07-JUL-2022</td>
+			<td>1</td>
+			<td>HAIS</td>
+			<td>3.99</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,99 (tiga Rupiah koma sembilan sembilan)</td>
+			<td>KSEI-10915/JKU/0622</td>
+			<td>08-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>143.</td>
+			<td>LAUTAN LUAS Tbk, PT</td>
+			<td>LTLS</td>
+			<td>LAUTAN LUAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2022</td>
+			<td>15-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>1</td>
+			<td>LTLS</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.50,- (
+lima puluh Rupiah)</td>
+			<td>KSEI-10764/JKU/0622</td>
+			<td>07-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>144.</td>
+			<td>PT. PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>NELY</td>
+			<td>PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>NELY</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 10,- (sepuluh R
+upiah).</td>
+			<td>KSEI-11046/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>145.</td>
+			<td>PT SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk. (PT. SMART TBK)</td>
+			<td>SMAR</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>SMAR</td>
+			<td>110</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.110,- (seratus sepuluh Rupiah)</td>
+			<td>KSEI-11048/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>146.</td>
+			<td>PRIMA GLOBALINDO LOGISTIK Tbk, PT</td>
+			<td>PPGL</td>
+			<td>PRIMA GLOBALINDO LOGISTIK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>06-JUL-2022</td>
+			<td>1</td>
+			<td>PPGL</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga R
+upiah)</td>
+			<td>KSEI-10519/JKU/0622</td>
+			<td>06-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>147.</td>
+			<td>HARUM ENERGY Tbk. PT</td>
+			<td>HRUM</td>
+			<td>HARUM ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>1</td>
+			<td>HRUM</td>
+			<td>15.02</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,02 (lima belas Rupiah koma nol dua)</td>
+			<td>KSEI-11040/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>148.</td>
+			<td>PURADELTA LESTARI Tbk, PT</td>
+			<td>DMAS</td>
+			<td>PURADELTA LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>DMAS</td>
+			<td>2.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,5 (dua Rupiah koma lima) </td>
+			<td>KSEI-11038/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>149.</td>
+			<td>FORMOSA INGREDIENT FACTORY Tbk, PT</td>
+			<td>BOBA</td>
+			<td>FORMOSA INGREDIENT FACTORY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2022</td>
+			<td>16-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>BOBA</td>
+			<td>6.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,50 (enam Rupiah koma lima nol) </td>
+			<td>KSEI-11036/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>150.</td>
+			<td>SUPREME CABLE MANUFACTURING & COMMERCE Tbk, PT</td>
+			<td>SCCO</td>
+			<td>SUPREME CABLE MANUFACTURING & COMMERCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2022</td>
+			<td>17-JUN-2022</td>
+			<td>07-JUL-2022</td>
+			<td>1</td>
+			<td>SCCO</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 200,- (dua 
+ratus Rupiah)</td>
+			<td>KSEI-11192/JKU/0622</td>
+			<td>10-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>151.</td>
+			<td>INDONESIA FIBREBOARD INDUSTRY Tbk, PT</td>
+			<td>IFII</td>
+			<td>INDONESIA FIBREBOARD INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2022</td>
+			<td>17-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>IFII</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat 
+Rupiah)</td>
+			<td>KSEI-11042/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>152.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2022</td>
+			<td>17-JUN-2022</td>
+			<td>23-JUN-2022</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>523</td>
+			<td>IDR</td>
+			<td>Setiap 1 saham akan mendapatkan dividen tunai sebesar Rp. 523,- (lima ratus dua puluh tiga Rupiah)</td>
+			<td>KSEI-11044/JKU/0622</td>
+			<td>09-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>153.</td>
+			<td>SURYA ESA PERKASA Tbk, PT</td>
+			<td>ESSA</td>
+			<td>SURYA ESA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2022</td>
+			<td>17-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>1</td>
+			<td>ESSA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-11190/JKU/0622</td>
+			<td>10-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>154.</td>
+			<td>IMPACK PRATAMA INDUSTRI Tbk, PT</td>
+			<td>IMPC</td>
+			<td>IMPACK PRATAMA INDUSTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>07-JUL-2022</td>
+			<td>1</td>
+			<td>IMPC</td>
+			<td>22</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp 22,- (dua puluh dua Rupiah
+)</td>
+			<td>KSEI-11324/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>155.</td>
+			<td>INDOPOLY SWAKARSA INDUSTRY Tbk, PT</td>
+			<td>IPOL</td>
+			<td>INDOPOLY SWAKARSA INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>IPOL</td>
+			<td>5.5</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp. 5,5 (lima Rupiah koma lima) per saham</td>
+			<td>KSEI-11326/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>156.</td>
+			<td>LCK GLOBAL KEDATON Tbk, PT</td>
+			<td>LCKM</td>
+			<td>LCK GLOBAL KEDATON Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>LCKM</td>
+			<td>0.22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 0,22 (nol Rupiah koma dua dua)</td>
+			<td>KSEI-11476/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>157.</td>
+			<td>KEDOYA ADYARAYA Tbk, PT</td>
+			<td>RSGK</td>
+			<td>KEDOYA ADYARAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>06-JUL-2022</td>
+			<td>1</td>
+			<td>RSGK</td>
+			<td>86</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp. 86,- (delapan puluh enam Rupiah) per saham</td>
+			<td>KSEI-11328/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>158.</td>
+			<td>TRANS POWER MARINE Tbk, PT</td>
+			<td>TPMA</td>
+			<td>TRANS POWER MARINE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>TPMA</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-11194/JKU/0622</td>
+			<td>10-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>159.</td>
+			<td>WIRA GLOBAL SOLUSI Tbk, PT</td>
+			<td>WGSH</td>
+			<td>WIRA GLOBAL SOLUSI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>WGSH</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-12001/JKU/0622</td>
+			<td>17-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>160.</td>
+			<td>REKSA DANA AVRIST ETF FIXED RATE BOND I</td>
+			<td>XAFA</td>
+			<td>REKSA DANA AVRIST ETF FIXED RATE BOND I</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>1</td>
+			<td>XAFA</td>
+			<td>24.18</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) unit akan mendapatkan dividen tunai sebesar Rp.24,18 (dua puluh 
+empat Rupiah koma satu delapan)</td>
+			<td>KSEI-10768/JKU/0622</td>
+			<td>07-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>161.</td>
+			<td>ACE HARDWARE INDONESIA Tbk, PT</td>
+			<td>ACES</td>
+			<td>ACE HARDWARE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>ACES</td>
+			<td>20.59</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.20,59 (dua puluh Rupiah
+ koma lima sembilan)</td>
+			<td>KSEI-11316/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>162.</td>
+			<td>PT. AUSTINDO NUSANTARA JAYA, Tbk</td>
+			<td>ANJT</td>
+			<td>AUSTINDO NUSANTARA JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>ANJT</td>
+			<td>43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 43,- (empat puluh tiga R
+upiah)</td>
+			<td>KSEI-11186/JKU/0622</td>
+			<td>10-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>163.</td>
+			<td>BUANA FINANCE Tbk, PT</td>
+			<td>BBLD</td>
+			<td>BUANA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>BBLD</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp. 6,- (enam Rupiah) per saham</td>
+			<td>KSEI-11320/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>164.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2022</td>
+			<td>20-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.200,- (dua ratus
+ Rupiah)</td>
+			<td>KSEI-11188/JKU/0622</td>
+			<td>10-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>165.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>63.3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 63,3 (enam puluh tiga Rupiah koma tiga)</td>
+			<td>KSEI-11474/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>166.</td>
+			<td>CISARUA MOUNTAIN DAIRY Tbk, PT</td>
+			<td>CMRY</td>
+			<td>CISARUA MOUNTAIN DAIRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>1</td>
+			<td>CMRY</td>
+			<td>63.01</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.63,01 (enam puluh tiga Rupiah
+ koma nol satu)</td>
+			<td>KSEI-11322/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>167.</td>
+			<td>ALKINDO NARATAMA Tbk, PT.</td>
+			<td>ALDO</td>
+			<td>ALKINDO NARATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>13-JUL-2022</td>
+			<td>1</td>
+			<td>ALDO</td>
+			<td>1.6</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.1,6 (satu Rupiah koma enam
+)</td>
+			<td>KSEI-11318/JKU/0622</td>
+			<td>13-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>168.</td>
+			<td>INDO OIL PERKASA Tbk, PT</td>
+			<td>OILS</td>
+			<td>INDO OIL PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>13-JUL-2022</td>
+			<td>1</td>
+			<td>OILS</td>
+			<td>2.52</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.2,52 (dua Rupiah koma lima dua)</td>
+			<td>KSEI-11478/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>169.</td>
+			<td>TEMBAGA MULIA SEMANAN Tbk, PT</td>
+			<td>TBMS</td>
+			<td>TEMBAGA MULIA SEMANAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>TBMS</td>
+			<td>0.003</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh USD 0,0030 (nol koma nol nol tiga nol USD)
+
+Pembagian Dividen Tunai akan dilakukan dalam mata uang Rupiah dengan mengacu kurs tangah Bank Indonesia pada tanggal Recording Date 21 Juni 2022.</td>
+			<td>KSEI-11483/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>170.</td>
+			<td>DANA BRATA LUHUR Tbk, PT</td>
+			<td>TEBE</td>
+			<td>DANA BRATA LUHUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>13-JUL-2022</td>
+			<td>1</td>
+			<td>TEBE</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 45,- (empat puluh lima 
+Rupiah).</td>
+			<td>KSEI-11485/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>171.</td>
+			<td>TEMAS Tbk, PT</td>
+			<td>TMAS</td>
+			<td>TEMAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2022</td>
+			<td>21-JUN-2022</td>
+			<td>13-JUL-2022</td>
+			<td>1</td>
+			<td>TMAS</td>
+			<td>65.79</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 65,79 (enam puluh lima R
+upiah koma tujuh sembilan)</td>
+			<td>KSEI-11688/JKU/0622</td>
+			<td>15-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>172.</td>
+			<td>PT INDAH KIAT PULP & PAPER Tbk</td>
+			<td>INKP</td>
+			<td>INDAH KIAT PULP AND PAPER Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>14-JUL-2022</td>
+			<td>1</td>
+			<td>INKP</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 50,- (lima 
+puluh Rupiah)</td>
+			<td>KSEI-11684/JKU/0622</td>
+			<td>15-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>173.</td>
+			<td>PT. RODA VIVATEX Tbk</td>
+			<td>RDTX</td>
+			<td>RODA VIVATEX Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>1</td>
+			<td>RDTX</td>
+			<td>465</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.465,- (empat ratus enam puluh lima Rupiah)</td>
+			<td>KSEI-11480/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>174.</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk, PT</td>
+			<td>TKIM</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>14-JUL-2022</td>
+			<td>1</td>
+			<td>TKIM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 25,- (dua 
+puluh lima Rupiah)</td>
+			<td>KSEI-11686/JKU/0622</td>
+			<td>15-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>175.</td>
+			<td>VICTORIA INSURANCE Tbk, PT</td>
+			<td>VINS</td>
+			<td>VICTORIA INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2022</td>
+			<td>22-JUN-2022</td>
+			<td>14-JUL-2022</td>
+			<td>1</td>
+			<td>VINS</td>
+			<td>3.4</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.3,4 (tiga Rupiah
+ koma empat)</td>
+			<td>KSEI-11487/JKU/0622</td>
+			<td>14-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>176.</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk, PT</td>
+			<td>IGAR</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>IGAR</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-11994/JKU/0622</td>
+			<td>17-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>177.</td>
+			<td>DUTA PERTIWI Tbk, PT</td>
+			<td>DUTI</td>
+			<td>DUTA PERTIWI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>1</td>
+			<td>DUTI</td>
+			<td>380</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 380,- (tiga ratus delapan puluh Rupiah)</td>
+			<td>KSEI-11991/JKU/0622</td>
+			<td>17-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>178.</td>
+			<td>ASURANSI DAYIN MITRA Tbk, PT</td>
+			<td>ASDM</td>
+			<td>ASURANSI DAYIN MITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>ASDM</td>
+			<td>72</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 72,- (tujuh puluh dua Rupiah)</td>
+			<td>KSEI-11989/JKU/0622</td>
+			<td>17-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>179.</td>
+			<td>SURYA PERTIWI Tbk, PT</td>
+			<td>SPTO</td>
+			<td>SURYA PERTIWI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2022</td>
+			<td>24-JUN-2022</td>
+			<td>08-JUL-2022</td>
+			<td>1</td>
+			<td>SPTO</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.25,- (dua puluh lima 
+Rupiah)</td>
+			<td>KSEI-11998/JKU/0622</td>
+			<td>17-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>180.</td>
+			<td>KINO INDONESIA Tbk, PT</td>
+			<td>KINO</td>
+			<td>KINO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2022</td>
+			<td>27-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>KINO</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-12116/JKU/0622</td>
+			<td>20-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>181.</td>
+			<td>PT. KOBEXINDO TRACTORS Tbk</td>
+			<td>KOBX</td>
+			<td>KOBEXINDO TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2022</td>
+			<td>27-JUN-2022</td>
+			<td>12-JUL-2022</td>
+			<td>1</td>
+			<td>KOBX</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 9,- (sembilan Rupiah)</td>
+			<td>KSEI-11996/JKU/0622</td>
+			<td>17-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>182.</td>
+			<td>SARASWANTI ANUGERAH MAKMUR Tbk, PT</td>
+			<td>SAMF</td>
+			<td>SARASWANTI ANUGERAH MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2022</td>
+			<td>27-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>SAMF</td>
+			<td>16.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 16,7 (enam belas Rupiah koma tujuh)</td>
+			<td>KSEI-12120/JKU/0622</td>
+			<td>20-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>183.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2022</td>
+			<td>27-JUN-2022</td>
+			<td>13-JUL-2022</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>84</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 84,- (delapan puluh empat Rupiah)</td>
+			<td>KSEI-12345/JKU/0622</td>
+			<td>21-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>184.</td>
+			<td>WIDODO MAKMUR UNGGAS Tbk, PT</td>
+			<td>WMUU</td>
+			<td>WIDODO MAKMUR UNGGAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2022</td>
+			<td>27-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>WMUU</td>
+			<td>1.62</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 1,62 (satu Rupiah koma enam dua)</td>
+			<td>KSEI-12122/JKU/0622</td>
+			<td>20-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>185.</td>
+			<td>PT ASAHIMAS FLAT GLASS Tbk</td>
+			<td>AMFG</td>
+			<td>ASAHIMAS FLAT GLASS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>19-JUL-2022</td>
+			<td>1</td>
+			<td>AMFG</td>
+			<td>80</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 80,- (delapan puluh Rupiah)</td>
+			<td>KSEI-12234/JKU/0622</td>
+			<td>21-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>186.</td>
+			<td>GARUDA METALINDO Tbk, PT</td>
+			<td>BOLT</td>
+			<td>GARUDA METALINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>19-JUL-2022</td>
+			<td>1</td>
+			<td>BOLT</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-12236/JKU/0622</td>
+			<td>21-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>187.</td>
+			<td>CIKARANG LISTRINDO Tbk, PT</td>
+			<td>POWR</td>
+			<td>CIKARANG LISTRINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>POWR</td>
+			<td>40.2805</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 40,28050 (empat puluh Rupiah koma dua delapan nol lima nol)</td>
+			<td>KSEI-12118/JKU/0622</td>
+			<td>20-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>188.</td>
+			<td>DELTA DJAKARTA Tbk, PT</td>
+			<td>DLTA</td>
+			<td>DELTA DJAKARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-JUN-2022</td>
+			<td>28-JUN-2022</td>
+			<td>15-JUL-2022</td>
+			<td>1</td>
+			<td>DLTA</td>
+			<td>300</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 300,- (tiga ratus Rupiah)</td>
+			<td>KSEI-12114/JKU/0622</td>
+			<td>20-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>189.</td>
+			<td>DUTA PERTIWI NUSANTARA Tbk, PT</td>
+			<td>DPNS</td>
+			<td>DUTA PERTIWI NUSANTARA</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>20-JUL-2022</td>
+			<td>1</td>
+			<td>DPNS</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 15,- (lima belas R
+upiah)</td>
+			<td>KSEI-12443/JKU/0622</td>
+			<td>22-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>190.</td>
+			<td>GUNUNG RAJA PAKSI Tbk, PT</td>
+			<td>GGRP</td>
+			<td>GUNUNG RAJA PAKSI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>21-JUL-2022</td>
+			<td>1</td>
+			<td>GGRP</td>
+			<td>7.433</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 7,433 (tujuh R
+upiah koma empat tiga tiga)</td>
+			<td>KSEI-12437/JKU/0622</td>
+			<td>22-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>191.</td>
+			<td>TRIAS SENTOSA Tbk, PT</td>
+			<td>TRST</td>
+			<td>TRIAS SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-JUN-2022</td>
+			<td>29-JUN-2022</td>
+			<td>20-JUL-2022</td>
+			<td>1</td>
+			<td>TRST</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 20,- (dua puluh Rupiah)</td>
+			<td>KSEI-12238/JKU/0622</td>
+			<td>21-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>192.</td>
+			<td>GALVA TECHNOLOGIES Tbk, PT</td>
+			<td>GLVA</td>
+			<td>GALVA TECHNOLOGIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>21-JUL-2022</td>
+			<td>1</td>
+			<td>GLVA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Ru
+piah)</td>
+			<td>KSEI-12636/JKU/0622</td>
+			<td>23-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>193.</td>
+			<td>EMDEKI UTAMA Tbk, PT</td>
+			<td>MDKI</td>
+			<td>EMDEKI UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2022</td>
+			<td>30-JUN-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>MDKI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-12638/JKU/0622</td>
+			<td>23-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>194.</td>
+			<td>SUMBER GLOBAL ENERGY Tbk, PT</td>
+			<td>SGER</td>
+			<td>SUMBER GLOBAL ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2022</td>
+			<td>01-JUL-2022</td>
+			<td>20-JUL-2022</td>
+			<td>1</td>
+			<td>SGER</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 17,- (tujuh belas Rupiah)</td>
+			<td>KSEI-12772/JKU/0622</td>
+			<td>24-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>195.</td>
+			<td>RUKUN RAHARJA Tbk, PT</td>
+			<td>RAJA</td>
+			<td>RUKUN RAHARJA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2022</td>
+			<td>04-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>RAJA</td>
+			<td>6.98</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.6,98 (enam Rupiah koma sembilan delapan)</td>
+			<td>KSEI-13051/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>196.</td>
+			<td>BANK PAN INDONESIA , TBK , PT</td>
+			<td>PNBN</td>
+			<td>BANK PAN INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2022</td>
+			<td>04-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>PNBN</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 20,- (dua puluh Rupiah)</td>
+			<td>KSEI-12894/JKU/0622</td>
+			<td>27-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>197.</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk, PT</td>
+			<td>MFMI</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2022</td>
+			<td>04-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>MFMI</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 5,- (lima Rupiah)</td>
+			<td>KSEI-12892/JKU/0622</td>
+			<td>27-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>198.</td>
+			<td>ASURANSI JIWA SINARMAS MSIG Tbk, PT</td>
+			<td>LIFE</td>
+			<td>ASURANSI JIWA SINARMAS MSIG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2022</td>
+			<td>04-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>LIFE</td>
+			<td>34</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 34,- (Tiga Puluh Empat Rupiah)</td>
+			<td>KSEI-12889/JKU/0622</td>
+			<td>27-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>199.</td>
+			<td>HARTADINATA ABADI Tbk, PT</td>
+			<td>HRTA</td>
+			<td>HARTADINATA ABADI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2022</td>
+			<td>04-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>HRTA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 10,- (sepuluh 
+Rupiah)</td>
+			<td>KSEI-12887/JKU/0622</td>
+			<td>27-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>200.</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk, PT</td>
+			<td>CSAP</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2022</td>
+			<td>04-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>CSAP</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 9,- (Sembilan Rupiah)</td>
+			<td>KSEI-12885/JKU/0622</td>
+			<td>27-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>201.</td>
+			<td>KMI WIRE AND CABLE Tbk, PT</td>
+			<td>KBLI</td>
+			<td>KMI Wire and Cable Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>KBLI</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.4,- (empat Rupiah)</td>
+			<td>KSEI-13055/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>202.</td>
+			<td>JAYA REAL PROPERTY Tbk, PT</td>
+			<td>JRPT</td>
+			<td>JAYA REAL PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>JRPT</td>
+			<td>19.5</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.19,5 (sembilan belas Rupiah koma lima)</td>
+			<td>KSEI-13058/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>203.</td>
+			<td>JASA ARMADA INDONESIA Tbk, PT</td>
+			<td>IPCM</td>
+			<td>JASA ARMADA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>IPCM</td>
+			<td>17.27</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.17,27 (tujuh belas Rupiah koma dua tujuh)</td>
+			<td>KSEI-13060/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>204.</td>
+			<td>EVER SHINE TEX Tbk, PT</td>
+			<td>ESTI</td>
+			<td>EVER SHINE TEXTILE INDUSTRY</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>ESTI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.1,- (satu Rupiah)</td>
+			<td>KSEI-13064/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>205.</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>ERAA</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>ERAA</td>
+			<td>22.8</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.22,8 (dua puluh dua Rupiah koma delapan)</td>
+			<td>KSEI-13066/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>206.</td>
+			<td>BLUE BIRD Tbk, PT</td>
+			<td>BIRD</td>
+			<td>BLUE BIRD Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>22-JUL-2022</td>
+			<td>1</td>
+			<td>BIRD</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.60,- (enam puluh Rupiah)</td>
+			<td>KSEI-13068/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>207.</td>
+			<td>ASURANSI RAMAYANA Tbk, PT</td>
+			<td>ASRM</td>
+			<td>ASURANSI RAMAYANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>ASRM</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.55,- (lima puluh lima Rupiah)</td>
+			<td>KSEI-13072/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>208.</td>
+			<td>METROPOLITAN KENTJANA Tbk. PT</td>
+			<td>MKPI</td>
+			<td>METROPOLITAN KENTJANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>25-JUL-2022</td>
+			<td>1</td>
+			<td>MKPI</td>
+			<td>117</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.117,- (seratus tujuh belas Rupiah)</td>
+			<td>KSEI-13053/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>209.</td>
+			<td>ARGHA KARYA PRIMA INDUSTRY Tbk, PT</td>
+			<td>AKPI</td>
+			<td>ARGHA KARYA PRIMA INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2022</td>
+			<td>05-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>AKPI</td>
+			<td>49</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.49,- (empat puluh sembilan Rupiah)</td>
+			<td>KSEI-13074/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>210.</td>
+			<td>BAYU BUANA Tbk, PT</td>
+			<td>BAYU</td>
+			<td>BAYU BUANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2022</td>
+			<td>06-JUL-2022</td>
+			<td>28-JUL-2022</td>
+			<td>1</td>
+			<td>BAYU</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua pu
+luh lima Rupiah)</td>
+			<td>KSEI-13070/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>211.</td>
+			<td>INDONESIA PONDASI RAYA Tbk, PT</td>
+			<td>IDPR</td>
+			<td>INDONESIA PONDASI RAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2022</td>
+			<td>06-JUL-2022</td>
+			<td>21-JUL-2022</td>
+			<td>1</td>
+			<td>IDPR</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.1,- (satu Rupiah)</td>
+			<td>KSEI-13062/JKU/0622</td>
+			<td>28-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>212.</td>
+			<td>KIRANA MEGATARA Tbk, PT</td>
+			<td>KMTR</td>
+			<td>KIRANA MEGATARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2022</td>
+			<td>06-JUL-2022</td>
+			<td>28-JUL-2022</td>
+			<td>1</td>
+			<td>KMTR</td>
+			<td>4.96</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp. 4,96 (empat Rupiah koma sembilan enam) 
+per saham</td>
+			<td>KSEI-13197/JKU/0622</td>
+			<td>29-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>213.</td>
+			<td>INDO-RAMA SYNTHETICS Tbk, PT</td>
+			<td>INDR</td>
+			<td>INDO-RAMA SYNTHETICS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2022</td>
+			<td>06-JUL-2022</td>
+			<td>19-JUL-2022</td>
+			<td>1</td>
+			<td>INDR</td>
+			<td>940</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Tunai adalah sebesar Rp. 940,- (sembilan ratus empat Rupiah) 
+per saham</td>
+			<td>KSEI-13195/JKU/0622</td>
+			<td>29-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>214.</td>
+			<td>WISMILAK INTI MAKMUR Tbk</td>
+			<td>WIIM</td>
+			<td>WISMILAK INTI MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2022</td>
+			<td>07-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>WIIM</td>
+			<td>21.6</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.21,6 (dua puluh satu
+ Rupiah koma enam)</td>
+			<td>KSEI-13337/JKU/0622</td>
+			<td>30-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>215.</td>
+			<td>UNGGUL INDAH CAHAYA Tbk, PT</td>
+			<td>UNIC</td>
+			<td>UNGGUL INDAH CAHAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2022</td>
+			<td>08-JUL-2022</td>
+			<td>18-JUL-2022</td>
+			<td>1</td>
+			<td>UNIC</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 100,-  (seratus Rupiah) </td>
+			<td>KSEI-13455/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>216.</td>
+			<td>SUPERKRANE MITRA UTAMA Tbk, PT</td>
+			<td>SKRN</td>
+			<td>SUPERKRANE MITRA UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2022</td>
+			<td>08-JUL-2022</td>
+			<td>19-JUL-2022</td>
+			<td>1</td>
+			<td>SKRN</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 10,-  (sepuluh Rupiah) </td>
+			<td>KSEI-13453/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>217.</td>
+			<td>SEKAR BUMI Tbk, PT</td>
+			<td>SKBM</td>
+			<td>SEKAR BUMI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2022</td>
+			<td>08-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>SKBM</td>
+			<td>3.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 3,5 (tiga Rupiah koma lima) </td>
+			<td>KSEI-13451/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>218.</td>
+			<td>MAYORA INDAH Tbk, PT</td>
+			<td>MYOR</td>
+			<td>MAYORA INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2022</td>
+			<td>08-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>MYOR</td>
+			<td>21</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.21,- (dua Puluh satu
+ Rupiah)</td>
+			<td>KSEI-13339/JKU/0622</td>
+			<td>30-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>219.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2022</td>
+			<td>08-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>75</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.75,- (tujuh pulu
+h lima Rupiah)</td>
+			<td>KSEI-13341/JKU/0622</td>
+			<td>30-JUN-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>220.</td>
+			<td>ADHI COMMUTER PROPERTI Tbk, PT</td>
+			<td>ADCP</td>
+			<td>ADHI COMMUTER PROPERTI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2022</td>
+			<td>08-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>ADCP</td>
+			<td>1.17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,17 (satu Rupiah koma satu tujuh).</td>
+			<td>KSEI-13775/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>221.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>2.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,5 (dua Rupiah koma lima)  </td>
+			<td>KSEI-13579/JKU/0722</td>
+			<td>04-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>222.</td>
+			<td>SEMACOM INTEGRATED Tbk, PT</td>
+			<td>SEMA</td>
+			<td>SEMACOM INTEGRATED Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>SEMA</td>
+			<td>1.95</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,95 (satu Ru
+piah koma sembilan lima)</td>
+			<td>KSEI-13791/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>223.</td>
+			<td>PURI GLOBAL SUKSES Tbk, PT</td>
+			<td>PURI</td>
+			<td>PURI GLOBAL SUKSES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>PURI</td>
+			<td>1.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,8 (satu Rupiah koma delapan)</td>
+			<td>KSEI-13576/JKU/0722</td>
+			<td>04-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>224.</td>
+			<td>KENCANA ENERGI LESTARI Tbk, PT</td>
+			<td>KEEN</td>
+			<td>KENCANA ENERGI LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>KEEN</td>
+			<td>5.46</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,46 (lima Rupiah koma empat enam)  </td>
+			<td>KSEI-13567/JKU/0722</td>
+			<td>04-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>225.</td>
+			<td>JASUINDO TIGA PERKASA Tbk , PT</td>
+			<td>JTPE</td>
+			<td>JASUINDO TIGA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>20-JUL-2022</td>
+			<td>1</td>
+			<td>JTPE</td>
+			<td>22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 22,- (dua puluh dua Rupiah) </td>
+			<td>KSEI-13449/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>226.</td>
+			<td>INDOSPRING Tbk, PT</td>
+			<td>INDS</td>
+			<td>INDOSPRING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>INDS</td>
+			<td>75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 75,-  (tujuh puluh lima Rupiah)</td>
+			<td>KSEI-13457/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>227.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>28-JUL-2022</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 10,- (sepuluh Rupiah) </td>
+			<td>KSEI-13447/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>228.</td>
+			<td>SAMUDERA INDONESIA Tbk, PT</td>
+			<td>SMDR</td>
+			<td>SAMUDERA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>SMDR</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima pulu
+h Rupiah)</td>
+			<td>KSEI-13581/JKU/0722</td>
+			<td>04-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>229.</td>
+			<td>ASURANSI MULTI ARTHA GUNA Tbk, PT</td>
+			<td>AMAG</td>
+			<td>ASURANSI MULTI ARTHA GUNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2022</td>
+			<td>11-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>AMAG</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Saham akan memperoleh Rp 50,-  (lima puluh Rupiah) </td>
+			<td>KSEI-13445/JKU/0722</td>
+			<td>01-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>230.</td>
+			<td>PERMA PLASINDO Tbk, PT</td>
+			<td>BINO</td>
+			<td>PERMA PLASINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>BINO</td>
+			<td>0.9999994</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 0,9999994 (nol koma sembilan sembilan sembilan sembilan sembilan sembilan empat Rupiah)</td>
+			<td>KSEI-13777/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>231.</td>
+			<td>BUDI STARCH & SWEETENER Tbk</td>
+			<td>BUDI</td>
+			<td>BUDI STARCH & SWEETENER Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>1</td>
+			<td>BUDI</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Ru
+piah)</td>
+			<td>KSEI-13779/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>232.</td>
+			<td>CITA MINERAL INVESTINDO Tbk, PT</td>
+			<td>CITA</td>
+			<td>CITA MINERAL INVESTINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>CITA</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 55,- (lima puluh lima Rupiah).</td>
+			<td>KSEI-13781/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>233.</td>
+			<td>GUDANG GARAM Tbk, PT</td>
+			<td>GGRM</td>
+			<td>GUDANG GARAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>28-JUL-2022</td>
+			<td>1</td>
+			<td>GGRM</td>
+			<td>2250</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2.250,- (dua
+ ribu dua ratus lima puluh Rupiah).</td>
+			<td>KSEI-13783/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>234.</td>
+			<td>INDONESIA KENDARAAN TERMINAL Tbk, PT</td>
+			<td>IPCC</td>
+			<td>INDONESIA KENDARAAN TERMINAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>IPCC</td>
+			<td>23.12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 23,12 (dua puluh tiga Rupiah koma satu dua)</td>
+			<td>KSEI-13926/JKU/0722</td>
+			<td>06-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>235.</td>
+			<td>STEEL PIPE INDUSTRY OF INDONESIA Tbk, PT</td>
+			<td>ISSP</td>
+			<td>STEEL PIPE INDUSTRY OF INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>ISSP</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 9,- (sembilan Ru
+piah)</td>
+			<td>KSEI-13785/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>236.</td>
+			<td>RESOURCE ALAM INDONESIA Tbk, PT</td>
+			<td>KKGI</td>
+			<td>RESOURCE ALAM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>20-JUL-2022</td>
+			<td>1</td>
+			<td>KKGI</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Ru
+piah)</td>
+			<td>KSEI-13787/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>237.</td>
+			<td>LIPPO GENERAL INSURANCE Tbk, PT</td>
+			<td>LPGI</td>
+			<td>LIPPO GENERAL INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>LPGI</td>
+			<td>666.67</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 666,67 (enam ratus enam puluh enam Rupiah koma enam tujuh)</td>
+			<td>KSEI-13570/JKU/0722</td>
+			<td>04-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>238.</td>
+			<td>PUTRA MANDIRI JEMBAR Tbk, PT</td>
+			<td>PMJS</td>
+			<td>PUTRA MANDIRI JEMBAR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>PMJS</td>
+			<td>4.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 4,8 (empat Rupiah koma delapan)</td>
+			<td>KSEI-13573/JKU/0722</td>
+			<td>04-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>239.</td>
+			<td>PANIN FINANCIAL Tbk, PT</td>
+			<td>PNLF</td>
+			<td>PANIN FINANCIAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>PNLF</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Ru
+piah)</td>
+			<td>KSEI-13789/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>240.</td>
+			<td>SIGMA ENERGY COMPRESSINDO Tbk, PT</td>
+			<td>SICO</td>
+			<td>SIGMA ENERGY COMPRESSINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>1</td>
+			<td>SICO</td>
+			<td>1.0011</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,0011 (satu Rupiah koma nol nol satu satu)</td>
+			<td>KSEI-13930/JKU/0722</td>
+			<td>06-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>241.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Ru
+piah)</td>
+			<td>KSEI-13793/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>242.</td>
+			<td>TRANSKON JAYA Tbk, PT</td>
+			<td>TRJA</td>
+			<td>TRANSKON JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2022</td>
+			<td>12-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>TRJA</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Ru
+piah)</td>
+			<td>KSEI-13795/JKU/0722</td>
+			<td>05-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>243.</td>
+			<td>BALI TOWERINDO SENTRA Tbk, PT</td>
+			<td>BALI</td>
+			<td>BALI TOWERINDO SENTRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2022</td>
+			<td>13-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>1</td>
+			<td>BALI</td>
+			<td>31.15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 31,15 (tiga puluh satu Rupiah koma satu lima)</td>
+			<td>KSEI-13924/JKU/0722</td>
+			<td>06-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>244.</td>
+			<td>METROPOLITAN LAND Tbk. PT</td>
+			<td>MTLA</td>
+			<td>METROPOLITAN LAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2022</td>
+			<td>13-JUL-2022</td>
+			<td>04-AUG-2022</td>
+			<td>1</td>
+			<td>MTLA</td>
+			<td>8.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 8,5 (delapan R
+upiah koma lima)</td>
+			<td>KSEI-13928/JKU/0722</td>
+			<td>06-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>245.</td>
+			<td>PT. PAKUWON JATI Tbk</td>
+			<td>PWON</td>
+			<td>PAKUWON JATI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2022</td>
+			<td>15-JUL-2022</td>
+			<td>05-AUG-2022</td>
+			<td>1</td>
+			<td>PWON</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td>KSEI-14291/JKU/0722</td>
+			<td>11-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>246.</td>
+			<td>KARYA BERSAMA ANUGERAH Tbk, PT</td>
+			<td>KBAG</td>
+			<td>KARYA BERSAMA ANUGERAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2022</td>
+			<td>19-JUL-2022</td>
+			<td>05-AUG-2022</td>
+			<td>1</td>
+			<td>KBAG</td>
+			<td>0.11</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.0,11 (nol koma sebelas Rupiah)</td>
+			<td>KSEI-14514/JKU/0722</td>
+			<td>13-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>247.</td>
+			<td>MULTI INDOCITRA Tbk, PT</td>
+			<td>MICE</td>
+			<td>MULTI INDOCITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2022</td>
+			<td>19-JUL-2022</td>
+			<td>10-AUG-2022</td>
+			<td>1</td>
+			<td>MICE</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.15,- (lima belas Rupia
+h)</td>
+			<td>KSEI-14412/JKU/0722</td>
+			<td>12-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>248.</td>
+			<td>SUMMARECON AGUNG Tbk, PT</td>
+			<td>SMRA</td>
+			<td>SUMMARECON AGUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2022</td>
+			<td>19-JUL-2022</td>
+			<td>05-AUG-2022</td>
+			<td>1</td>
+			<td>SMRA</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td>KSEI-14289/JKU/0722</td>
+			<td>11-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>249.</td>
+			<td>DIRE CIPTADANA PROPERTI PERHOTELAN PADJAJARAN</td>
+			<td>XCIS</td>
+			<td>DIRE CIPTADANA PROPERTI PERHOTELAN PADJAJARAN</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2022</td>
+			<td>19-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>1</td>
+			<td>XCIS</td>
+			<td>0.2539</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Final adalah untuk setiap 1 (satu) unit akan memperoleh seba
+nyak-banyaknya Rp 0,2539 (nol koma dua lima tiga sembilan Rupiah).</td>
+			<td>KSEI-14204/JKU/0722</td>
+			<td>08-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>250.</td>
+			<td>ASURANSI BINTANG Tbk, PT</td>
+			<td>ASBI</td>
+			<td>ASURANSI BINTANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUL-2022</td>
+			<td>20-JUL-2022</td>
+			<td>10-AUG-2022</td>
+			<td>1</td>
+			<td>ASBI</td>
+			<td>5.7</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.5,7 (lima Ru
+piah koma tujuh)</td>
+			<td>KSEI-14410/JKU/0722</td>
+			<td>12-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>251.</td>
+			<td>PANIN SEKURITAS Tbk, PT</td>
+			<td>PANS</td>
+			<td>PANIN SEKURITAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUL-2022</td>
+			<td>25-JUL-2022</td>
+			<td>03-AUG-2022</td>
+			<td>1</td>
+			<td>PANS</td>
+			<td>150</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.150,- (Seratus lima puluh R
+upiah)</td>
+			<td>KSEI-14748/JKU/0722</td>
+			<td>18-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>252.</td>
+			<td>BINTANG SAMUDERA MANDIRI LINES Tbk, PT</td>
+			<td>BSML</td>
+			<td>BINTANG SAMUDERA MANDIRI LINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUL-2022</td>
+			<td>26-JUL-2022</td>
+			<td>12-AUG-2022</td>
+			<td>1</td>
+			<td>BSML</td>
+			<td>1.08</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,08 (satu Ru
+piah koma nol delapan) </td>
+			<td>KSEI-14883/JKU/0722</td>
+			<td>19-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>253.</td>
+			<td>SUMBER TANI AGUNG RESOURCES Tbk, PT</td>
+			<td>STAA</td>
+			<td>SUMBER TANI AGUNG RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>12-AUG-2022</td>
+			<td>1</td>
+			<td>STAA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)  </td>
+			<td>KSEI-14957/JKU/0722</td>
+			<td>20-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>254.</td>
+			<td>TRIMEGAH KARYA PRATAMA Tbk, PT</td>
+			<td>UVCR</td>
+			<td>TRIMEGAH KARYA PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>18-AUG-2022</td>
+			<td>1</td>
+			<td>UVCR</td>
+			<td>0.249</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 0,249 (nol koma dua empat sembilan Rupiah)  </td>
+			<td>KSEI-14959/JKU/0722</td>
+			<td>20-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>255.</td>
+			<td>INTEGRA INDOCABINET Tbk, PT</td>
+			<td>WOOD</td>
+			<td>INTEGRA INDOCABINET Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUL-2022</td>
+			<td>27-JUL-2022</td>
+			<td>12-AUG-2022</td>
+			<td>1</td>
+			<td>WOOD</td>
+			<td>6.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,5 (enam Ru
+piah koma lima) </td>
+			<td>KSEI-14881/JKU/0722</td>
+			<td>19-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>256.</td>
+			<td>COLORPAK INDONESIA Tbk, PT</td>
+			<td>CLPI</td>
+			<td>COLORPAK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>CLPI</td>
+			<td>71.21</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.71,21 (tujuh puluh satu Rupiah koma dua satu)</td>
+			<td>KSEI-15167/JKU/0722</td>
+			<td>25-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>257.</td>
+			<td>INOCYCLE TECHNOLOGY GROUP Tbk, PT</td>
+			<td>INOV</td>
+			<td>INOCYCLE TECHNOLOGY GROUP Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-JUL-2022</td>
+			<td>29-JUL-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>INOV</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh IDR 3,- (tiga 
+Rupiah)</td>
+			<td>KSEI-15020/JKU/0722</td>
+			<td>21-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>258.</td>
+			<td>ELNUSA Tbk, PT</td>
+			<td>ELSA</td>
+			<td>ELNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2022</td>
+			<td>01-AUG-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>ELSA</td>
+			<td>7.45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 7,45 (tujuh Rupiah koma empat lima)</td>
+			<td>KSEI-15074/JKU/0722</td>
+			<td>22-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>259.</td>
+			<td>SEPEDA BERSAMA INDONESIA Tbk, PT</td>
+			<td>BIKE</td>
+			<td>SEPEDA BERSAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2022</td>
+			<td>01-AUG-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>BIKE</td>
+			<td>3.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 3,8 (tiga Rupiah koma delapan)</td>
+			<td>KSEI-15071/JKU/0722</td>
+			<td>22-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>260.</td>
+			<td>SILLO MARITIME PERDANA Tbk, PT</td>
+			<td>SHIP</td>
+			<td>SILLO MARITIME PERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2022</td>
+			<td>01-AUG-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>SHIP</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.17,- (tujuh belas Rupiah)</td>
+			<td>KSEI-15169/JKU/0722</td>
+			<td>25-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>261.</td>
+			<td>BUNDAMEDIK Tbk, PT</td>
+			<td>BMHS</td>
+			<td>BUNDAMEDIK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>24-AUG-2022</td>
+			<td>1</td>
+			<td>BMHS</td>
+			<td>2.55712</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Tunai sebesar Rp.2,55712,- (dua Rupiah koma lima lima tujuh satu dua)</td>
+			<td>KSEI-15207/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>262.</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk, PT</td>
+			<td>LSIP</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>LSIP</td>
+			<td>51</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 51,- (lima puluh satu Rupiah
+)</td>
+			<td>KSEI-15203/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>263.</td>
+			<td>PT PLAZA INDONESIA REALTY Tbk</td>
+			<td>PLIN</td>
+			<td>PLAZA INDONESIA REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>10-AUG-2022</td>
+			<td>1</td>
+			<td>PLIN</td>
+			<td>88</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 88,- (delapa
+n puluh delapan Rupiah)</td>
+			<td>KSEI-15590/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>264.</td>
+			<td>SALIM IVOMAS PRATAMA Tbk, PT</td>
+			<td>SIMP</td>
+			<td>SALIM IVOMAS PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>23-AUG-2022</td>
+			<td>1</td>
+			<td>SIMP</td>
+			<td>13</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Tunai sebesar Rp.13,- (tiga belas Rupiah)</td>
+			<td>KSEI-15201/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>265.</td>
+			<td>SATYAMITRA KEMAS LESTARI Tbk, PT</td>
+			<td>SMKL</td>
+			<td>SATYAMITRA KEMAS LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUL-2022</td>
+			<td>02-AUG-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>SMKL</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah
+)</td>
+			<td>KSEI-15199/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>266.</td>
+			<td>BALI BINTANG SEJAHTERA Tbk, PT</td>
+			<td>BOLA</td>
+			<td>BALI BINTANG SEJAHTERA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-AUG-2022</td>
+			<td>03-AUG-2022</td>
+			<td>25-AUG-2022</td>
+			<td>1</td>
+			<td>BOLA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.1,- (satu
+ Rupiah)</td>
+			<td>KSEI-15309/JKU/0722</td>
+			<td>27-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>267.</td>
+			<td>CAMPINA ICE CREAM INDUSTRY Tbk, PT</td>
+			<td>CAMP</td>
+			<td>CAMPINA ICE CREAM INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-AUG-2022</td>
+			<td>03-AUG-2022</td>
+			<td>25-AUG-2022</td>
+			<td>1</td>
+			<td>CAMP</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 35,- (tiga pul
+uh lima Rupiah)</td>
+			<td>KSEI-15311/JKU/0722</td>
+			<td>27-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>268.</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk, PT</td>
+			<td>INDF</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-AUG-2022</td>
+			<td>03-AUG-2022</td>
+			<td>24-AUG-2022</td>
+			<td>1</td>
+			<td>INDF</td>
+			<td>278</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Tunai sebesar Rp.278,- (dua ratus tujuh puluh delapan
+ Rupiah)</td>
+			<td>KSEI-15318/JKU/0722</td>
+			<td>27-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>269.</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk, PT</td>
+			<td>ICBP</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-AUG-2022</td>
+			<td>03-AUG-2022</td>
+			<td>23-AUG-2022</td>
+			<td>1</td>
+			<td>ICBP</td>
+			<td>215</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 215,- (dua ratus lima belas Rupiah)</td>
+			<td>KSEI-15316/JKU/0722</td>
+			<td>27-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>270.</td>
+			<td>EKADHARMA INTERNATIONAL Tbk, PT</td>
+			<td>EKAD</td>
+			<td>EKADHARMA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-AUG-2022</td>
+			<td>03-AUG-2022</td>
+			<td>25-AUG-2022</td>
+			<td>1</td>
+			<td>EKAD</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 50,- (lima puluh Rupiah)</td>
+			<td>KSEI-15314/JKU/0722</td>
+			<td>27-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>271.</td>
+			<td>MAKMUR BERKAH AMANDA Tbk, PT</td>
+			<td>AMAN</td>
+			<td>MAKMUR BERKAH AMANDA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-AUG-2022</td>
+			<td>04-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>AMAN</td>
+			<td>0.5</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.0,5 (nol koma lima Rupiah
+)</td>
+			<td>KSEI-15440/JKU/0722</td>
+			<td>28-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>272.</td>
+			<td>PEMBANGUNAN GRAHA LESTARI Tbk, PT</td>
+			<td>PGLI</td>
+			<td>PEMBANGUNAN GRAHA LESTARI INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-AUG-2022</td>
+			<td>04-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>PGLI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.1,- (Satu Rupiah
+)</td>
+			<td>KSEI-15438/JKU/0722</td>
+			<td>28-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>273.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2022</td>
+			<td>05-AUG-2022</td>
+			<td>16-AUG-2022</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Interim sebesar Rp.25,- (dua puluh lima 
+Rupiah)</td>
+			<td>KSEI-15209/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>274.</td>
+			<td>ULTRAJAYA MILK INDUSTRY & TRADING COMPANY Tbk, PT</td>
+			<td>ULTJ</td>
+			<td>ULTRAJAYA MILK INDUSTRY AND TRADING COMPANY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2022</td>
+			<td>05-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>ULTJ</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td>KSEI-15747/JKU/0822</td>
+			<td>03-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>275.</td>
+			<td>EASTPARC HOTEL Tbk, PT</td>
+			<td>EAST</td>
+			<td>EASTPARC HOTEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2022</td>
+			<td>05-AUG-2022</td>
+			<td>15-AUG-2022</td>
+			<td>1</td>
+			<td>EAST</td>
+			<td>1.7</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.1,70 (satu Rupiah koma
+ tujuh nol)</td>
+			<td>KSEI-15205/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>276.</td>
+			<td>TRIMITRA PRAWARA GOLDLAND Tbk, PT</td>
+			<td>ATAP</td>
+			<td>TRIMITRA PRAWARA GOLDLAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2022</td>
+			<td>05-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>ATAP</td>
+			<td>0.65</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.0,65 (nol koma enam lima Rupiah
+)</td>
+			<td>KSEI-15489/JKU/0722</td>
+			<td>29-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>277.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2022</td>
+			<td>05-AUG-2022</td>
+			<td>22-AUG-2022</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>0.4799</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) Unit akan mendapatkan dividen tunai sebesar Rp.0,4799 (nol koma 
+empat tujuh sembilan sembilan Rupiah)</td>
+			<td>KSEI-15197/JKU/0722</td>
+			<td>26-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>278.</td>
+			<td>CIPUTRA DEVELOPMENT Tbk, PT</td>
+			<td>CTRA</td>
+			<td>CIPUTRA DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>CTRA</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.14,- (empat belas Rupiah
+)</td>
+			<td>KSEI-15563/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>279.</td>
+			<td>SAMATOR INDO GAS Tbk, PT</td>
+			<td>AGII</td>
+			<td>SAMATOR INDO GAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>AGII</td>
+			<td>10.063</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 10,063 (sepuluh R
+upiah koma nol enam tiga)</td>
+			<td>KSEI-15561/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>280.</td>
+			<td>BUYUNG POETRA SEMBADA Tbk, PT</td>
+			<td>HOKI</td>
+			<td>BUYUNG POETRA SEMBADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>HOKI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.1,- (satu Rupiah
+)</td>
+			<td>KSEI-15491/JKU/0722</td>
+			<td>29-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>281.</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk, PT</td>
+			<td>RUIS</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>RUIS</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 4,- (empat R
+upiah)</td>
+			<td>KSEI-15569/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>282.</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk, PT</td>
+			<td>MEDC</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>MEDC</td>
+			<td>20.8656</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 20,8656 (dua puluh Rupiah koma delapan
+enam lima enam)</td>
+			<td>KSEI-15617/JKU/0822</td>
+			<td>02-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>283.</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk, PT</td>
+			<td>MEDC</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>MEDC</td>
+			<td>0.0014</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 20,8656 (dua puluh Rupiah koma delapan
+enam lima enam)</td>
+			<td>KSEI-15617/JKU/0822</td>
+			<td>02-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>284.</td>
+			<td>INDOMOBIL MULTI JASA Tbk, PT</td>
+			<td>IMJS</td>
+			<td>INDOMOBIL MULTI JASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>IMJS</td>
+			<td>0.25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.0,25 (nol koma dua lima Rupiah
+)</td>
+			<td>KSEI-15567/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>285.</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk, PT</td>
+			<td>IMAS</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>IMAS</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.4,- (empat Rupiah
+)</td>
+			<td>KSEI-15493/JKU/0722</td>
+			<td>29-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>286.</td>
+			<td>INTI BANGUN SEJAHTERA Tbk, PT</td>
+			<td>IBST</td>
+			<td>INTI BANGUN SEJAHTERA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2022</td>
+			<td>08-AUG-2022</td>
+			<td>25-AUG-2022</td>
+			<td>1</td>
+			<td>IBST</td>
+			<td>618</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 618,- (enam ratus delapan belas R
+upiah)</td>
+			<td>KSEI-15565/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>287.</td>
+			<td>PT SELAMAT SEMPURNA Tbk</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2022</td>
+			<td>09-AUG-2022</td>
+			<td>23-AUG-2022</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.20,- (dua puluh Rupiah
+)</td>
+			<td>KSEI-15495/JKU/0722</td>
+			<td>29-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>288.</td>
+			<td>PERDANA GAPURAPRIMA Tbk, PT</td>
+			<td>GPRA</td>
+			<td>PERDANA GAPURAPRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2022</td>
+			<td>09-AUG-2022</td>
+			<td>31-AUG-2022</td>
+			<td>1</td>
+			<td>GPRA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-15740/JKU/0822</td>
+			<td>03-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>289.</td>
+			<td>WILMAR CAHAYA INDONESIA Tbk, PT</td>
+			<td>CEKA</td>
+			<td>WILMAR CAHAYA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2022</td>
+			<td>09-AUG-2022</td>
+			<td>31-AUG-2022</td>
+			<td>1</td>
+			<td>CEKA</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-15615/JKU/0822</td>
+			<td>02-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>290.</td>
+			<td>PT SELAMAT SEMPURNA Tbk</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2022</td>
+			<td>09-AUG-2022</td>
+			<td>23-AUG-2022</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen tunai sebesar Rp.20,- (dua puluh Rupiah
+)</td>
+			<td>KSEI-15497/JKU/0722</td>
+			<td>29-JUL-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>291.</td>
+			<td>UNI-CHARM INDONESIA Tbk, PT</td>
+			<td>UCID</td>
+			<td>UNI-CHARM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2022</td>
+			<td>09-AUG-2022</td>
+			<td>26-AUG-2022</td>
+			<td>1</td>
+			<td>UCID</td>
+			<td>22.9326663</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 22,9326663 (dua puluh dua Rupiah koma sembilan tiga dua enam enam enam tiga)</td>
+			<td>KSEI-15571/JKU/0822</td>
+			<td>01-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>292.</td>
+			<td>NUSATAMA BERKAH Tbk, PT</td>
+			<td>NTBK</td>
+			<td>NUSATAMA BERKAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-AUG-2022</td>
+			<td>10-AUG-2022</td>
+			<td>31-AUG-2022</td>
+			<td>1</td>
+			<td>NTBK</td>
+			<td>0.069637</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 0,0,069637 (nol koma
+nol enam sembilan enam tiga tujuh rupiah)</td>
+			<td>KSEI-15619/JKU/0822</td>
+			<td>02-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>293.</td>
+			<td>ITAMA RANORAYA Tbk, PT</td>
+			<td>IRRA</td>
+			<td>ITAMA RANORAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-AUG-2022</td>
+			<td>10-AUG-2022</td>
+			<td>01-SEP-2022</td>
+			<td>1</td>
+			<td>IRRA</td>
+			<td>18.75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 18,75 (delapan belas Rupiah koma tujuh lima)</td>
+			<td>KSEI-15742/JKU/0822</td>
+			<td>03-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>294.</td>
+			<td>PT ERATEX DJAJA Tbk</td>
+			<td>ERTX</td>
+			<td>ERATEX DJAJA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-AUG-2022</td>
+			<td>10-AUG-2022</td>
+			<td>01-SEP-2022</td>
+			<td>1</td>
+			<td>ERTX</td>
+			<td>2.91</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 2,91 (dua Rupiah koma sembilan satu)</td>
+			<td>KSEI-15738/JKU/0822</td>
+			<td>03-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>295.</td>
+			<td>TRANSCOAL PACIFIC Tbk, PT</td>
+			<td>TCPI</td>
+			<td>TRANSCOAL PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-AUG-2022</td>
+			<td>10-AUG-2022</td>
+			<td>01-SEP-2022</td>
+			<td>1</td>
+			<td>TCPI</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-15744/JKU/0822</td>
+			<td>03-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>296.</td>
+			<td>PT SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk. (PT. SMART TBK)</td>
+			<td>SMAR</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-AUG-2022</td>
+			<td>11-AUG-2022</td>
+			<td>24-AUG-2022</td>
+			<td>1</td>
+			<td>SMAR</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 200,- (dua ratus Rupiah)</td>
+			<td>KSEI-15622/JKU/0822</td>
+			<td>02-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>297.</td>
+			<td>SAMUDERA INDONESIA Tbk, PT</td>
+			<td>SMDR</td>
+			<td>SAMUDERA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-AUG-2022</td>
+			<td>11-AUG-2022</td>
+			<td>31-AUG-2022</td>
+			<td>1</td>
+			<td>SMDR</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima pulu
+h Rupiah)</td>
+			<td>KSEI-15624/JKU/0822</td>
+			<td>02-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>298.</td>
+			<td>DANA INVESTASI REAL ESTAT SIMAS PLAZA INDONESIA</td>
+			<td>XSPI</td>
+			<td>DIRE SIMAS PLAZA INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-AUG-2022</td>
+			<td>12-AUG-2022</td>
+			<td>19-AUG-2022</td>
+			<td>1</td>
+			<td>XSPI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah untuk setiap 1 (satu) unit akan memperoleh sebesar Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-15749/JKU/0822</td>
+			<td>03-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>299.</td>
+			<td>INDIKA ENERGY Tbk, PT</td>
+			<td>INDY</td>
+			<td>INDIKA ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-AUG-2022</td>
+			<td>18-AUG-2022</td>
+			<td>30-AUG-2022</td>
+			<td>1</td>
+			<td>INDY</td>
+			<td>114.46381988</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp114,46381988 (seratus empat belas Rupiah komaempat enam tiga delapan satu sembilan delapan delapan)  </td>
+			<td>KSEI-16043/JKU/0822</td>
+			<td>08-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>300.</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk, PT</td>
+			<td>MEDC</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-AUG-2022</td>
+			<td>22-AUG-2022</td>
+			<td>08-SEP-2022</td>
+			<td>1</td>
+			<td>MEDC</td>
+			<td>0.001</td>
+			<td>USD</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp.14,8580 (empat belas Rupiah koma delapan lima delapan nol)</td>
+			<td>KSEI-16264/JKU/0822</td>
+			<td>10-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>301.</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk, PT</td>
+			<td>MEDC</td>
+			<td>MEDCO ENERGI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-AUG-2022</td>
+			<td>22-AUG-2022</td>
+			<td>08-SEP-2022</td>
+			<td>1</td>
+			<td>MEDC</td>
+			<td>14.858</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp.14,8580 (empat belas Rupiah koma delapan lima delapan nol)</td>
+			<td>KSEI-16264/JKU/0822</td>
+			<td>10-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>302.</td>
+			<td>INDOSAT Tbk, PT</td>
+			<td>ISAT</td>
+			<td>INDOSAT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-AUG-2022</td>
+			<td>30-AUG-2022</td>
+			<td>21-SEP-2022</td>
+			<td>1</td>
+			<td>ISAT</td>
+			<td>248.06</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 248,06 (dua ratus empat puluh delapan Rupiah koma nol enam)</td>
+			<td>KSEI-17068/JKU/0822</td>
+			<td>23-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>303.</td>
+			<td>REKSA DANA INDEKS BNI-AM NUSANTARA ETF MSCI INDONESIA EQUITY INDEX</td>
+			<td>XBNI</td>
+			<td>BNI-AM NUSANTARA ETF MSCI INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-AUG-2022</td>
+			<td>30-AUG-2022</td>
+			<td>02-SEP-2022</td>
+			<td>1</td>
+			<td>XBNI</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) unit akan memperoleh Rp 17,- (tujuh belas Rupiah)</td>
+			<td>KSEI-16782/JKU/0822</td>
+			<td>18-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>304.</td>
+			<td>PT SELAMAT SEMPURNA Tbk</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-SEP-2022</td>
+			<td>08-SEP-2022</td>
+			<td>21-SEP-2022</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp25, - (dua puluh lima Rupiah)</td>
+			<td>KSEI-17367/JKU/0822</td>
+			<td>29-AUG-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>305.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-SEP-2022</td>
+			<td>13-SEP-2022</td>
+			<td>21-SEP-2022</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>505.75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 505.75,- (lima ratus lima koma tujuh lima Rupiah)</td>
+			<td>KSEI-17708/JKU/0922</td>
+			<td>02-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>306.</td>
+			<td>PT. MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>MLPT</td>
+			<td>MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-SEP-2022</td>
+			<td>16-SEP-2022</td>
+			<td>23-SEP-2022</td>
+			<td>1</td>
+			<td>MLPT</td>
+			<td>155</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 155,- (seratus lima puluh lima Rupiah)</td>
+			<td>KSEI-18012/JKU/0922</td>
+			<td>07-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>307.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-SEP-2022</td>
+			<td>19-SEP-2022</td>
+			<td>27-SEP-2022</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-18055/JKU/0922</td>
+			<td>08-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>308.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-SEP-2022</td>
+			<td>23-SEP-2022</td>
+			<td>30-SEP-2022</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>567.131665</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Interim adalah sebesar Rp 567,131665 (lima ratus enam puluh tujuh koma satu tiga satu enam enam lima Rupiah) per saham</td>
+			<td>KSEI-18402/JKU/0922</td>
+			<td>14-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>309.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-SEP-2022</td>
+			<td>23-SEP-2022</td>
+			<td>03-OCT-2022</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>1030</td>
+			<td>IDR</td>
+			<td>Setiap 1 saham akan mendapatkan dividen tunai sebesar Rp. 1.030,- (seribu tiga puluh Rupiah)</td>
+			<td>KSEI-18303/JKU/0922</td>
+			<td>13-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>310.</td>
+			<td>GOLDEN EAGLE ENERGY Tbk, PT</td>
+			<td>SMMT</td>
+			<td>GOLDEN EAGLE ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-SEP-2022</td>
+			<td>27-SEP-2022</td>
+			<td>29-SEP-2022</td>
+			<td>1</td>
+			<td>SMMT</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Interim adalah sebesar Rp 60,- (Enam Puluh Rupiah) per saham</td>
+			<td>KSEI-18523/JKU/0922</td>
+			<td>16-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>311.</td>
+			<td>HEXINDO ADIPERKASA Tbk, PT</td>
+			<td>HEXA</td>
+			<td>HEXINDO ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-SEP-2022</td>
+			<td>03-OCT-2022</td>
+			<td>21-OCT-2022</td>
+			<td>1</td>
+			<td>HEXA</td>
+			<td>0.05246</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp.799,07 (tujuh ratus sembilan puluh sembilan Rupiah koma nol tujuh)</td>
+			<td>KSEI-18925/JKU/0922</td>
+			<td>26-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>312.</td>
+			<td>HEXINDO ADIPERKASA Tbk, PT</td>
+			<td>HEXA</td>
+			<td>HEXINDO ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-SEP-2022</td>
+			<td>03-OCT-2022</td>
+			<td>21-OCT-2022</td>
+			<td>1</td>
+			<td>HEXA</td>
+			<td>799.07</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp.799,07 (tujuh ratus sembilan puluh sembilan Rupiah koma nol tujuh)</td>
+			<td>KSEI-18925/JKU/0922</td>
+			<td>26-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>313.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-OCT-2022</td>
+			<td>06-OCT-2022</td>
+			<td>24-OCT-2022</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>818</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.818,- (delapan ra
+tus delapan belas Rupiah)</td>
+			<td>KSEI-19027/JKU/0922</td>
+			<td>27-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>314.</td>
+			<td>RELIANCE SEKURITAS INDONESIA Tbk, PT</td>
+			<td>RELI</td>
+			<td>RELIANCE SEKURITAS INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-OCT-2022</td>
+			<td>11-OCT-2022</td>
+			<td>14-OCT-2022</td>
+			<td>1</td>
+			<td>RELI</td>
+			<td>9.43</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.9,43 (sembilan R
+upiah koma empat puluh tiga)</td>
+			<td>KSEI-19233/JKU/0922</td>
+			<td>30-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>315.</td>
+			<td>DANA BRATA LUHUR Tbk, PT</td>
+			<td>TEBE</td>
+			<td>DANA BRATA LUHUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-OCT-2022</td>
+			<td>11-OCT-2022</td>
+			<td>28-OCT-2022</td>
+			<td>1</td>
+			<td>TEBE</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 25,- (dua puluh lima 
+Rupiah).</td>
+			<td>KSEI-19171/JKU/0922</td>
+			<td>29-SEP-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>316.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-OCT-2022</td>
+			<td>13-OCT-2022</td>
+			<td>24-OCT-2022</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh IDR 85,- (delapan puluh lima Rupiah)</td>
+			<td>KSEI-19356/JKU/1022</td>
+			<td>04-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>317.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-OCT-2022</td>
+			<td>13-OCT-2022</td>
+			<td>31-OCT-2022</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>88</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Interim sebesar Rp.88,- (delapan puluh delapan Rupiah)</td>
+			<td>KSEI-19358/JKU/1022</td>
+			<td>04-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>318.</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk, PT</td>
+			<td>SSMS</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-OCT-2022</td>
+			<td>13-OCT-2022</td>
+			<td>28-OCT-2022</td>
+			<td>1</td>
+			<td>SSMS</td>
+			<td>74.64</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 74,64 (tujuh puluh empat Rupiah koma enam empat)</td>
+			<td>KSEI-19362/JKU/1022</td>
+			<td>04-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>319.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-OCT-2022</td>
+			<td>13-OCT-2022</td>
+			<td>19-OCT-2022</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>300</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.300,- (tiga ratus
+ Rupiah)</td>
+			<td>KSEI-19360/JKU/1022</td>
+			<td>04-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>320.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-OCT-2022</td>
+			<td>17-OCT-2022</td>
+			<td>24-OCT-2022</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp. 22,- (dua
+ puluh dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>321.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-OCT-2022</td>
+			<td>19-OCT-2022</td>
+			<td>24-OCT-2022</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 8,- (delapan R
+upiah).</td>
+			<td>KSEI-19606/JKU/1022</td>
+			<td>10-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>322.</td>
+			<td>EASTPARC HOTEL Tbk, PT</td>
+			<td>EAST</td>
+			<td>EASTPARC HOTEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-OCT-2022</td>
+			<td>25-OCT-2022</td>
+			<td>02-NOV-2022</td>
+			<td>1</td>
+			<td>EAST</td>
+			<td>1.639</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.1,639 (satu Rupiah koma
+ enam tiga sembilan)</td>
+			<td>KSEI-19814/JKU/1022</td>
+			<td>13-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>323.</td>
+			<td>SOHO GLOBAL HEALTH Tbk, PT</td>
+			<td>SOHO</td>
+			<td>SOHO GLOBAL HEALTH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-OCT-2022</td>
+			<td>26-OCT-2022</td>
+			<td>04-NOV-2022</td>
+			<td>1</td>
+			<td>SOHO</td>
+			<td>118</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 118,- (ser
+atus delapan belas Rupiah)</td>
+			<td>KSEI-20010/JKU/1022</td>
+			<td>17-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>324.</td>
+			<td>ASHMORE ASSET MANAGEMENT INDONESIA Tbk, PT</td>
+			<td>AMOR</td>
+			<td>ASHMORE ASSET MANAGEMENT INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-OCT-2022</td>
+			<td>28-OCT-2022</td>
+			<td>11-NOV-2022</td>
+			<td>1</td>
+			<td>AMOR</td>
+			<td>32.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah Rp. 32,5 (tiga dua puluh dua Rupiah koma lima) per saham</td>
+			<td>KSEI-20271/JKU/1022</td>
+			<td>21-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>325.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-NOV-2022</td>
+			<td>04-NOV-2022</td>
+			<td>18-NOV-2022</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>41</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.41,- (empat pul
+uh satu Rupiah)</td>
+			<td>KSEI-20495/JKU/1022</td>
+			<td>26-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>326.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-NOV-2022</td>
+			<td>07-NOV-2022</td>
+			<td>21-NOV-2022</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>0.468</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) Unit akan mendapatkan dividen tunai sebesar Rp.0,468 (nol koma 
+empat enam delapan Rupiah)</td>
+			<td>KSEI-21074/JKU/1122</td>
+			<td>04-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>327.</td>
+			<td>PT. PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>NELY</td>
+			<td>PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-NOV-2022</td>
+			<td>07-NOV-2022</td>
+			<td>25-NOV-2022</td>
+			<td>1</td>
+			<td>NELY</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 5,- (lima R
+upiah).</td>
+			<td>KSEI-20537/JKU/1022</td>
+			<td>27-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>328.</td>
+			<td>KURNIAMITRA DUTA SENTOSA Tbk, PT</td>
+			<td>KMDS</td>
+			<td>KURNIAMITRA DUTA SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-NOV-2022</td>
+			<td>09-NOV-2022</td>
+			<td>18-NOV-2022</td>
+			<td>1</td>
+			<td>KMDS</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Ru
+piah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>329.</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk, PT</td>
+			<td>SIDO</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-NOV-2022</td>
+			<td>09-NOV-2022</td>
+			<td>18-NOV-2022</td>
+			<td>1</td>
+			<td>SIDO</td>
+			<td>13.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 13.5,- (tiga belas koma lima R
+upiah).</td>
+			<td>KSEI-20621/JKU/1022</td>
+			<td>28-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>330.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-NOV-2022</td>
+			<td>09-NOV-2022</td>
+			<td>17-NOV-2022</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>265.13</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 265,13 (dua ratus enam puluh lima Rupiah koma tiga belas)</td>
+			<td>KSEI-20751/JKU/1022</td>
+			<td>31-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>331.</td>
+			<td>PURADELTA LESTARI Tbk, PT</td>
+			<td>DMAS</td>
+			<td>PURADELTA LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-NOV-2022</td>
+			<td>09-NOV-2022</td>
+			<td>25-NOV-2022</td>
+			<td>1</td>
+			<td>DMAS</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 15,- (lima belas R
+upiah).</td>
+			<td>KSEI-20623/JKU/1022</td>
+			<td>28-OCT-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>332.</td>
+			<td>PT SELAMAT SEMPURNA Tbk</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-NOV-2022</td>
+			<td>11-NOV-2022</td>
+			<td>23-NOV-2022</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp25, - (dua 
+puluh lima Rupiah)</td>
+			<td>KSEI-20851/JKU/1122</td>
+			<td>01-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>333.</td>
+			<td>CATURKARDA DEPO BANGUNAN Tbk, PT</td>
+			<td>DEPO</td>
+			<td>CATURKARDA DEPO BANGUNAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-NOV-2022</td>
+			<td>11-NOV-2022</td>
+			<td>21-NOV-2022</td>
+			<td>1</td>
+			<td>DEPO</td>
+			<td>2.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 2,2 (dua Rupiah koma dua)</td>
+			<td>KSEI-20922/JKU/1122</td>
+			<td>02-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>334.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-NOV-2022</td>
+			<td>14-NOV-2022</td>
+			<td>22-NOV-2022</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>4128</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah setiap 1 (satu) saham akan memperoleh Rp 4.128,- (empat
+ ribu seratus dua puluh delapan Rupiah)</td>
+			<td>KSEI-21010/JKU/1122</td>
+			<td>03-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>335.</td>
+			<td>SUPERKRANE MITRA UTAMA Tbk, PT</td>
+			<td>SKRN</td>
+			<td>SUPERKRANE MITRA UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-NOV-2022</td>
+			<td>14-NOV-2022</td>
+			<td>02-DEC-2022</td>
+			<td>1</td>
+			<td>SKRN</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 30,-  (tiga pul
+uh Rupiah) </td>
+			<td>KSEI-21012/JKU/1122</td>
+			<td>03-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>336.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-NOV-2022</td>
+			<td>14-NOV-2022</td>
+			<td>30-NOV-2022</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 43,- (empat 
+puluh tiga Rupiah)</td>
+			<td>KSEI-20920/JKU/1122</td>
+			<td>02-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>337.</td>
+			<td>PINAGO UTAMA Tbk, PT</td>
+			<td>PNGO</td>
+			<td>PINAGO UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-NOV-2022</td>
+			<td>15-NOV-2022</td>
+			<td>29-NOV-2022</td>
+			<td>1</td>
+			<td>PNGO</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 50, - (lima
+ puluh Rupiah)</td>
+			<td>KSEI-21070/JKU/1122</td>
+			<td>04-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>338.</td>
+			<td>PT. SAMPOERNA AGRO, Tbk</td>
+			<td>SGRO</td>
+			<td>SAMPOERNA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-NOV-2022</td>
+			<td>15-NOV-2022</td>
+			<td>29-NOV-2022</td>
+			<td>1</td>
+			<td>SGRO</td>
+			<td>90</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 90,- (sembilan puluh Rupiah) </td>
+			<td>KSEI-21072/JKU/1122</td>
+			<td>04-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>339.</td>
+			<td>BATAVIA PROSPERINDO INTERNASIONAL Tbk, PT</td>
+			<td>BPII</td>
+			<td>BATAVIA PROSPERINDO INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-NOV-2022</td>
+			<td>17-NOV-2022</td>
+			<td>25-NOV-2022</td>
+			<td>1</td>
+			<td>BPII</td>
+			<td>116</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan Dividen Interim sebesar Rp.116,- (seratus enam belas Rupiah)</td>
+			<td>KSEI-21224/JKU/1122</td>
+			<td>08-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>340.</td>
+			<td>LAUTAN LUAS Tbk, PT</td>
+			<td>LTLS</td>
+			<td>LAUTAN LUAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-NOV-2022</td>
+			<td>17-NOV-2022</td>
+			<td>29-NOV-2022</td>
+			<td>1</td>
+			<td>LTLS</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.25,- (dua puluh lima Rupiah)</td>
+			<td>KSEI-21168/JKU/1122</td>
+			<td>07-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>341.</td>
+			<td>CISADANE SAWIT RAYA Tbk, PT</td>
+			<td>CSRA</td>
+			<td>CISADANE SAWIT RAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-NOV-2022</td>
+			<td>21-NOV-2022</td>
+			<td>30-NOV-2022</td>
+			<td>1</td>
+			<td>CSRA</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp. 25,- 
+(dua puluh lima Rupiah)</td>
+			<td>KSEI-21340/JKU/1122</td>
+			<td>09-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>342.</td>
+			<td>REKSA DANA PREMIER ETF IDX30</td>
+			<td>XIIT</td>
+			<td>REKSA DANA PREMIER ETF IDX30</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-NOV-2022</td>
+			<td>24-NOV-2022</td>
+			<td>02-DEC-2022</td>
+			<td>1</td>
+			<td>XIIT</td>
+			<td>8.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Unit akan memperoleh IDR 8,7 (delapan Rupiah koma tujuh)</td>
+			<td>KSEI-21778/JKU/1122</td>
+			<td>15-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>343.</td>
+			<td>ORGANON PHARMA INDONESIA Tbk, PT</td>
+			<td>SCPI</td>
+			<td>ORGANON PHARMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-NOV-2022</td>
+			<td>24-NOV-2022</td>
+			<td>09-DEC-2022</td>
+			<td>1</td>
+			<td>SCPI</td>
+			<td>45000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45.000 (empat puluh lima ribu R
+upiah)</td>
+			<td>KSEI-21776/JKU/1122</td>
+			<td>15-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>344.</td>
+			<td>REKSA DANA PREMIER ETF LQ-45</td>
+			<td>R-LQ45X</td>
+			<td>REKSA DANA PREMIER ETF LQ-45</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-NOV-2022</td>
+			<td>24-NOV-2022</td>
+			<td>02-DEC-2022</td>
+			<td>1</td>
+			<td>R-LQ45X</td>
+			<td>16.6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) Unit akan memperoleh IDR 16,6 (enam 
+belas Rupiah koma enam)</td>
+			<td>KSEI-21780/JKU/1122</td>
+			<td>15-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>345.</td>
+			<td>PRIMA ANDALAN MANDIRI Tbk, PT</td>
+			<td>MCOL</td>
+			<td>PRIMA ANDALAN MANDIRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-NOV-2022</td>
+			<td>24-NOV-2022</td>
+			<td>14-DEC-2022</td>
+			<td>1</td>
+			<td>MCOL</td>
+			<td>350</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Interim sebesar Rp.350,- (tiga ratus lima puluh 
+Rupiah)</td>
+			<td>KSEI-21655/JKU/1122</td>
+			<td>14-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>346.</td>
+			<td>LINK NET Tbk, PT</td>
+			<td>LINK</td>
+			<td>LINK NET Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-NOV-2022</td>
+			<td>24-NOV-2022</td>
+			<td>02-DEC-2022</td>
+			<td>1</td>
+			<td>LINK</td>
+			<td>193.05</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 193,05 (seratus sembilan puluh tiga 
+Rupiah koma nol lima)</td>
+			<td>KSEI-21939/JKU/1122</td>
+			<td>17-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>347.</td>
+			<td>SURYA PERTIWI Tbk, PT</td>
+			<td>SPTO</td>
+			<td>SURYA PERTIWI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-NOV-2022</td>
+			<td>25-NOV-2022</td>
+			<td>14-DEC-2022</td>
+			<td>1</td>
+			<td>SPTO</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Interim sebesar Rp.25,- (dua puluh lima 
+Rupiah)</td>
+			<td>KSEI-21875/JKU/1122</td>
+			<td>16-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>348.</td>
+			<td>AVIA AVIAN Tbk, PT</td>
+			<td>AVIA</td>
+			<td>AVIA AVIAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-NOV-2022</td>
+			<td>30-NOV-2022</td>
+			<td>06-DEC-2022</td>
+			<td>1</td>
+			<td>AVIA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 10,-  (sepuluh Rupiah)</td>
+			<td>KSEI-22107/JKU/1122</td>
+			<td>21-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>349.</td>
+			<td>PEMBANGUNAN GRAHA LESTARI Tbk, PT</td>
+			<td>PGLI</td>
+			<td>PEMBANGUNAN GRAHA LESTARI INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-NOV-2022</td>
+			<td>01-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>1</td>
+			<td>PGLI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp. 10,- (sepuluh R
+upiah)</td>
+			<td>KSEI-22229/JKU/1122</td>
+			<td>22-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>350.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-NOV-2022</td>
+			<td>01-DEC-2022</td>
+			<td>12-DEC-2022</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp. 10,- (sepuluh R
+upiah)</td>
+			<td>KSEI-22227/JKU/1122</td>
+			<td>22-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>351.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-NOV-2022</td>
+			<td>01-DEC-2022</td>
+			<td>15-DEC-2022</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>69</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 69,- (enam puluh sembilan
+ Rupiah)</td>
+			<td>KSEI-22110/JKU/1122</td>
+			<td>21-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>352.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-DEC-2022</td>
+			<td>05-DEC-2022</td>
+			<td>20-DEC-2022</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 35,- (tiga 
+puluh lima Rupiah).</td>
+			<td>KSEI-22328/JKU/1122</td>
+			<td>23-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>353.</td>
+			<td>SIGMA ENERGY COMPRESSINDO Tbk, PT</td>
+			<td>SICO</td>
+			<td>SIGMA ENERGY COMPRESSINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-DEC-2022</td>
+			<td>08-DEC-2022</td>
+			<td>20-DEC-2022</td>
+			<td>1</td>
+			<td>SICO</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu Ru
+piah)</td>
+			<td>KSEI-22753/JKU/1122</td>
+			<td>29-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>354.</td>
+			<td>PRIMA GLOBALINDO LOGISTIK Tbk, PT</td>
+			<td>PPGL</td>
+			<td>PRIMA GLOBALINDO LOGISTIK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-DEC-2022</td>
+			<td>08-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>1</td>
+			<td>PPGL</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Ru
+piah)</td>
+			<td>KSEI-22751/JKU/1122</td>
+			<td>29-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>355.</td>
+			<td>JASA ARMADA INDONESIA Tbk, PT</td>
+			<td>IPCM</td>
+			<td>JASA ARMADA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-DEC-2022</td>
+			<td>08-DEC-2022</td>
+			<td>23-DEC-2022</td>
+			<td>1</td>
+			<td>IPCM</td>
+			<td>3.68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 3,68 (tiga Ru
+piah koma enam delapan)</td>
+			<td>KSEI-22749/JKU/1122</td>
+			<td>29-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>356.</td>
+			<td>GOLDEN EAGLE ENERGY Tbk, PT</td>
+			<td>SMMT</td>
+			<td>GOLDEN EAGLE ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-DEC-2022</td>
+			<td>09-DEC-2022</td>
+			<td>13-DEC-2022</td>
+			<td>1</td>
+			<td>SMMT</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Interim adalah sebesar Rp 15,- (lima belas Rupiah) per saham</td>
+			<td>KSEI-22858/JKU/1122</td>
+			<td>30-NOV-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>357.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-DEC-2022</td>
+			<td>13-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 40,- (empat puluh Ru
+piah)</td>
+			<td>KSEI-22930/JKU/1222</td>
+			<td>01-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>358.</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk, PT</td>
+			<td>MFMI</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-DEC-2022</td>
+			<td>13-DEC-2022</td>
+			<td>22-DEC-2022</td>
+			<td>1</td>
+			<td>MFMI</td>
+			<td>18</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh IDR 18,- (delapan belas R
+upiah)</td>
+			<td>KSEI-22978/JKU/1222</td>
+			<td>02-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>359.</td>
+			<td>CIKARANG LISTRINDO Tbk, PT</td>
+			<td>POWR</td>
+			<td>CIKARANG LISTRINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-DEC-2022</td>
+			<td>13-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>1</td>
+			<td>POWR</td>
+			<td>24.72133</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh IDR 24,72133,- (dua puluh empat R
+upiah koma tujuh dua satu tiga tiga)</td>
+			<td>KSEI-22980/JKU/1222</td>
+			<td>02-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>360.</td>
+			<td>HARUM ENERGY Tbk. PT</td>
+			<td>HRUM</td>
+			<td>HARUM ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-DEC-2022</td>
+			<td>15-DEC-2022</td>
+			<td>03-JAN-2023</td>
+			<td>1</td>
+			<td>HRUM</td>
+			<td>75.1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 75,1,- (tujuh puluh lima Rupiah koma satu) </td>
+			<td>KSEI-23233/JKU/1222</td>
+			<td>06-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>361.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-DEC-2022</td>
+			<td>16-DEC-2022</td>
+			<td>22-DEC-2022</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>28</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 28,- (dua puluh delapan Rupiah) </td>
+			<td>KSEI-23231/JKU/1222</td>
+			<td>06-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>362.</td>
+			<td>SARANA MENARA NUSANTARA Tbk, PT</td>
+			<td>TOWR</td>
+			<td>SARANA MENARA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-DEC-2022</td>
+			<td>16-DEC-2022</td>
+			<td>22-DEC-2022</td>
+			<td>1</td>
+			<td>TOWR</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam 
+Rupiah)</td>
+			<td>KSEI-23235/JKU/1222</td>
+			<td>06-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>363.</td>
+			<td>DELTA DUNIA MAKMUR Tbk, PT</td>
+			<td>DOID</td>
+			<td>DELTA DUNIA MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-DEC-2022</td>
+			<td>19-DEC-2022</td>
+			<td>30-DEC-2022</td>
+			<td>1</td>
+			<td>DOID</td>
+			<td>10.17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) Saham akan memperoleh Rp 10,17 (sepuluh Rupiah koma tujuh belas)</td>
+			<td>KSEI-23441/JKU/1222</td>
+			<td>08-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>364.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-DEC-2022</td>
+			<td>20-DEC-2022</td>
+			<td>23-DEC-2022</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.25,- (dua puluh lima
+ Rupiah)</td>
+			<td>KSEI-23501/JKU/1222</td>
+			<td>09-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>365.</td>
+			<td>REKSA DANA AVRIST ETF FIXED RATE BOND I</td>
+			<td>XAFA</td>
+			<td>REKSA DANA AVRIST ETF FIXED RATE BOND I</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>23-DEC-2022</td>
+			<td>1</td>
+			<td>XAFA</td>
+			<td>24.18</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) unit akan mendapatkan dividen tunai sebesar Rp.24,18 (dua puluh 
+empat Rupiah koma satu delapan)</td>
+			<td>KSEI-23448/JKU/1222</td>
+			<td>08-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>366.</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>BYAN</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>05-JAN-2023</td>
+			<td>1</td>
+			<td>BYAN</td>
+			<td>0.03</td>
+			<td>USD</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 468,24 (empat ratus enam puluh delapan Rupiah koma dua empat)</td>
+			<td>KSEI-23503/JKU/1222</td>
+			<td>09-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>367.</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>BYAN</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-DEC-2022</td>
+			<td>21-DEC-2022</td>
+			<td>05-JAN-2023</td>
+			<td>1</td>
+			<td>BYAN</td>
+			<td>468.24</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 468,24 (empat ratus enam puluh delapan Rupiah koma dua empat)</td>
+			<td>KSEI-23503/JKU/1222</td>
+			<td>09-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>368.</td>
+			<td>TEMAS Tbk, PT</td>
+			<td>TMAS</td>
+			<td>TEMAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-DEC-2022</td>
+			<td>23-DEC-2022</td>
+			<td>09-JAN-2023</td>
+			<td>1</td>
+			<td>TMAS</td>
+			<td>52.28</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen interim sebesar Rp.52,28 (lima puluh dua Rupiah koma dua delapan)</td>
+			<td>KSEI-23852/JKU/1222</td>
+			<td>14-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>369.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-DEC-2022</td>
+			<td>26-DEC-2022</td>
+			<td>30-DEC-2022</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>580.591326</td>
+			<td>IDR</td>
+			<td>Besaran Dividen Interim adalah sebesar Rp 580,591326,- (lima ratus delapan puluh Rupiah koma lima sembilan satu tiga dua enam) per saham</td>
+			<td>KSEI-23855/JKU/1222</td>
+			<td>14-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>370.</td>
+			<td>INDONESIA KENDARAAN TERMINAL Tbk, PT</td>
+			<td>IPCC</td>
+			<td>INDONESIA KENDARAAN TERMINAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-DEC-2022</td>
+			<td>28-DEC-2022</td>
+			<td>13-JAN-2023</td>
+			<td>1</td>
+			<td>IPCC</td>
+			<td>12.49</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh IDR 12,49 (dua belas Rupiah koma empat sembilan)</td>
+			<td>KSEI-24145/JKU/1222</td>
+			<td>19-DEC-2022</td>
+		</tr>
+		</table>	</body>
+</html>

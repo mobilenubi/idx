@@ -1,0 +1,5118 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+		xmlns:x="urn:schemas-microsoft-com:office:excel" 
+		xmlns="http://www.w3.org/TR/REC-html40">
+	<HEAD>
+		<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; charset=ISO-8859-1"> 
+		<STYLE type=text/css>
+			table tr#header td{font-weight: bold;} 
+			table tr#isi td#rdCode{text-align: left;} 
+			table tr#isi td{vertical-align: top;} 
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=1>
+			<TR id=header align ='center'>
+				<TD colspan='15'><font size='+1' color=red>Schedule of Cash Dividend  Recording Date Year 2018</font></TD>
+			</TR>
+			<TR id=header>
+				<TD>No.</TD>
+				<TD>Issuer</TD>
+				<TD>Security Code</TD>
+				<TD>Security Name</TD>
+				<TD>Type of CA</TD>
+				<TD>Cum Date</TD>
+				<TD>Recording Date</TD>
+				<TD>Distribution Date</TD>
+				<TD>Exercise Ratio</TD>
+				<TD>Exercise Intrument</TD>
+				<TD>Proceed Ratio</TD>
+				<TD>Proceed Instrument</TD>
+				<TD>Description</TD>
+				<TD>Refference No</TD>
+				<TD>Letter Date</TD>
+			</TR>
+		<tr id=isi>
+			<td align='center'>1.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-DEC-2017</td>
+			<td>03-JAN-2018</td>
+			<td>12-JAN-2018</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>42.25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah setiap 1 (satu) saham akan memperoleh Rp 42,25 (empat puluh dua Rupiah koma dua lima)</td>
+			<td>KSEI-37715/JKU/1217</td>
+			<td>21-DEC-2017</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>2.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JAN-2018</td>
+			<td>17-JAN-2018</td>
+			<td>19-JAN-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>2.21</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 2,21 (dua Rupiah koma dua satu)</td>
+			<td>KSEI-674/JKU/0118</td>
+			<td>08-JAN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>3.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-FEB-2018</td>
+			<td>19-FEB-2018</td>
+			<td>21-FEB-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.62</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,62 (satu Rupiah koma enam dua)</td>
+			<td>KSEI-3859/JKU/0218</td>
+			<td>07-FEB-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>4.</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR, PT</td>
+			<td>BJTM</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-FEB-2018</td>
+			<td>02-MAR-2018</td>
+			<td>22-MAR-2018</td>
+			<td>1</td>
+			<td>BJTM</td>
+			<td>44.1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 44,10 (empat puluh empat Rupiah koma satu nol)</td>
+			<td>KSEI-5520/JKU/0218</td>
+			<td>22-FEB-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>5.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAR-2018</td>
+			<td>07-MAR-2018</td>
+			<td>21-MAR-2018</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.349</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 1,349 (satu Rupiah koma tiga empat sembilan).</td>
+			<td>KSEI-5649/JKU/0218</td>
+			<td>23-FEB-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>6.</td>
+			<td>BANK JABAR, PT</td>
+			<td>BJBR</td>
+			<td>BANK JABAR BANTEN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAR-2018</td>
+			<td>12-MAR-2018</td>
+			<td>26-MAR-2018</td>
+			<td>1</td>
+			<td>BJBR</td>
+			<td>90.3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 90,30 (sembilan puluh Rupiah koma tiga nol).</td>
+			<td>KSEI-6516/JKU/0318</td>
+			<td>02-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>7.</td>
+			<td>BANK MEGA Tbk, PT</td>
+			<td>MEGA</td>
+			<td>BANK MEGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAR-2018</td>
+			<td>12-MAR-2018</td>
+			<td>27-MAR-2018</td>
+			<td>1000000</td>
+			<td>MEGA</td>
+			<td>93340175</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 93,340175 (sembilan puluh tiga Rupiah koma tiga empat nol satu tujuh lima).</td>
+			<td>KSEI-6512/JKU/0318</td>
+			<td>02-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>8.</td>
+			<td>SEMEN BATURAJA ( PERSERO),PT</td>
+			<td>SMBR</td>
+			<td>SEMEN BATURAJA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAR-2018</td>
+			<td>12-MAR-2018</td>
+			<td>29-MAR-2018</td>
+			<td>1</td>
+			<td>SMBR</td>
+			<td>3.6939</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,6939 (tiga Rupiah koma enam sembilan tiga sembilan).</td>
+			<td>KSEI-6514/JKU/0318</td>
+			<td>02-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>9.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAR-2018</td>
+			<td>16-MAR-2018</td>
+			<td>20-MAR-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.63</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,63 (satu Rupiah koma enam tiga)</td>
+			<td>KSEI-6882/JKU/0318</td>
+			<td>06-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>10.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAR-2018</td>
+			<td>23-MAR-2018</td>
+			<td>29-MAR-2018</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>72</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Pertama adalah setiap 1 (satu) saham akan memperoleh Rp 72,- (tujuh puluh dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>11.</td>
+			<td>WAHANA OTTOMITRA MULTIARTHA Tbk, PT</td>
+			<td>WOMF</td>
+			<td>WAHANA OTTOMITRA MULTIARTHA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-MAR-2018</td>
+			<td>27-MAR-2018</td>
+			<td>18-APR-2018</td>
+			<td>1</td>
+			<td>WOMF</td>
+			<td>15.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 15,5 (Lima Belas Rupiah koma lima)</td>
+			<td>KSEI-8278/JKU/0318</td>
+			<td>19-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>12.</td>
+			<td>WIJAYA KARYA BETON Tbk, PT</td>
+			<td>WTON</td>
+			<td>WIJAYA KARYA BETON Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAR-2018</td>
+			<td>29-MAR-2018</td>
+			<td>20-APR-2018</td>
+			<td>1</td>
+			<td>WTON</td>
+			<td>12.13</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,13 (dua belas Rupiah koma satu tiga)</td>
+			<td>KSEI-8621/JKU/0318</td>
+			<td>21-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>13.</td>
+			<td>BANK NEGARA INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBNI</td>
+			<td>BANK NEGARA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAR-2018</td>
+			<td>02-APR-2018</td>
+			<td>20-APR-2018</td>
+			<td>1000000</td>
+			<td>BBNI</td>
+			<td>255555488</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 255,555488 (dua ratus lima puluh lima Rupiah koma lima lima lima empat delapan delapan)</td>
+			<td>KSEI-8802/JKU/0318</td>
+			<td>22-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>14.</td>
+			<td>BANK DANAMON INDONESIA Tbk , PT</td>
+			<td>BDMN</td>
+			<td>BANK DANAMON INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAR-2018</td>
+			<td>02-APR-2018</td>
+			<td>18-APR-2018</td>
+			<td>1</td>
+			<td>BDMN</td>
+			<td>134.44</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 134,44(seratus tiga puluh empat Rupiah koma empat empat)</td>
+			<td>KSEI-8619/JKU/0318</td>
+			<td>21-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>15.</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk, PT</td>
+			<td>BMRI</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAR-2018</td>
+			<td>03-APR-2018</td>
+			<td>20-APR-2018</td>
+			<td>1000000</td>
+			<td>BMRI</td>
+			<td>199025516</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 199,025516 (seratus sembilan puluh sembilan Rupiah koma nol dua lima lima satu enam)</td>
+			<td>KSEI-8946/JKU/0318</td>
+			<td>23-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>16.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-MAR-2018</td>
+			<td>04-APR-2018</td>
+			<td>25-APR-2018</td>
+			<td>1000000</td>
+			<td>BBRI</td>
+			<td>106746871</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 106,746871 (seratus enam Rupiah koma tujuh empat enam delapan tujuh satu)</td>
+			<td>KSEI-9048/JKU/0318</td>
+			<td>26-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>17.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-APR-2018</td>
+			<td>05-APR-2018</td>
+			<td>20-APR-2018</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>1840</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1.840,-(seribu delapan ratus empat puluh Rupiah)</td>
+			<td>KSEI-9046/JKU/0318</td>
+			<td>26-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>18.</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk, PT</td>
+			<td>BBTN</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-APR-2018</td>
+			<td>05-APR-2018</td>
+			<td>24-APR-2018</td>
+			<td>1000000</td>
+			<td>BBTN</td>
+			<td>57175942</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 57,175942 (lima puluh tujuh Rupiah koma satu tujuh lima sembilan empat dua)</td>
+			<td>KSEI-9050/JKU/0318</td>
+			<td>26-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>19.</td>
+			<td>WIJAYA KARYA BANGUNAN GEDUNG Tbk, PT</td>
+			<td>WEGE</td>
+			<td>WIJAYA KARYA BANGUNAN GEDUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-APR-2018</td>
+			<td>06-APR-2018</td>
+			<td>27-APR-2018</td>
+			<td>1</td>
+			<td>WEGE</td>
+			<td>5.91</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,91 (lima Rupiah koma sembilan satu)</td>
+			<td>KSEI-9455/JKU/0318</td>
+			<td>28-MAR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>20.</td>
+			<td>ARWANA CITRAMULIA Tbk, PT</td>
+			<td>ARNA</td>
+			<td>ARWANA CITRAMULIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-APR-2018</td>
+			<td>10-APR-2018</td>
+			<td>24-APR-2018</td>
+			<td>1</td>
+			<td>ARNA</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah).</td>
+			<td>KSEI-9816/JKU/0418</td>
+			<td>02-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>21.</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk, PT</td>
+			<td>SDRA</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2018</td>
+			<td>11-APR-2018</td>
+			<td>03-MAY-2018</td>
+			<td>1</td>
+			<td>SDRA</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td>KSEI-9972/JKU/0418</td>
+			<td>03-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>22.</td>
+			<td>BANK TABUNGAN PENSIUNAN NASIONAL Tbk, PT</td>
+			<td>BTPN</td>
+			<td>BANK TABUNGAN PENSIUNAN NASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2018</td>
+			<td>11-APR-2018</td>
+			<td>03-MAY-2018</td>
+			<td>1</td>
+			<td>BTPN</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-9970/JKU/0418</td>
+			<td>03-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>23.</td>
+			<td>DHARMA SATYA NUSANTARA Tbk, PT</td>
+			<td>DSNG</td>
+			<td>DHARMA SATYA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-APR-2018</td>
+			<td>12-APR-2018</td>
+			<td>26-APR-2018</td>
+			<td>1</td>
+			<td>DSNG</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-10165/JKU/0418</td>
+			<td>04-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>24.</td>
+			<td>PEMBANGUNAN PERUMAHAN PRESISI Tbk, PT</td>
+			<td>PPRE</td>
+			<td>PP PRESISI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1</td>
+			<td>PPRE</td>
+			<td>5.52</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5.52 (lima Rupiah koma lima dua)</td>
+			<td>KSEI-10738/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>25.</td>
+			<td>BANK RAKYAT INDONESIA AGRONIAGA Tbk, PT</td>
+			<td>AGRO</td>
+			<td>BANK RAKYAT INDONESIA AGRONIAGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1000000</td>
+			<td>AGRO</td>
+			<td>2980427</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,980427 (dua Rupiah koma sembilan delapan nol empat dua tujuh)</td>
+			<td>KSEI-10728/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>26.</td>
+			<td>PT GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>GMTD</td>
+			<td>GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>07-MAY-2018</td>
+			<td>1</td>
+			<td>GMTD</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 16,- (enam belas Rupiah)</td>
+			<td>KSEI-10736/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>27.</td>
+			<td>JAPFA COMFEED INDONESIA Tbk, PT</td>
+			<td>JPFA</td>
+			<td>JAPFA COMFEED INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>23-APR-2018</td>
+			<td>1</td>
+			<td>JPFA</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td>KSEI-10740/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>28.</td>
+			<td>TIPHONE MOBILE INDONESIA Tbk, PT</td>
+			<td>TELE</td>
+			<td>TIPHONE MOBILE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>07-MAY-2018</td>
+			<td>1</td>
+			<td>TELE</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>29.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>30-APR-2018</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>175</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 175,- (seratus tujuh puluh lima Rupiah)</td>
+			<td>KSEI-10730/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>30.</td>
+			<td>WASKITA BETON PRECAST Tbk, PT</td>
+			<td>WSBP</td>
+			<td>WASKITA BETON PRECAST Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2018</td>
+			<td>17-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1</td>
+			<td>WSBP</td>
+			<td>30.60252</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 30,60252 (tiga puluh Rupiah enam nol dua lima dua)</td>
+			<td>KSEI-10732/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>31.</td>
+			<td>BANK MAYBANK INDONESIA Tbk, PT</td>
+			<td>BNII</td>
+			<td>BANK MAYBANK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2018</td>
+			<td>18-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>1</td>
+			<td>BNII</td>
+			<td>5.3258</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,32580 (lima Rupiah koma tiga dua lima delapan nol).</td>
+			<td>KSEI-10913/JKU/0418</td>
+			<td>10-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>32.</td>
+			<td>MILLENNIUM PHARMACON INTERNATIONAL Tbk, PT</td>
+			<td>SDPC</td>
+			<td>MILLENNIUM PHARMACON INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2018</td>
+			<td>18-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1</td>
+			<td>SDPC</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,- (dua Rupiah).</td>
+			<td>KSEI-10915/JKU/0418</td>
+			<td>10-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>33.</td>
+			<td>WASKITA KARYA (PERSERO) Tbk, PT</td>
+			<td>WSKT</td>
+			<td>WASKITA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2018</td>
+			<td>18-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1</td>
+			<td>WSKT</td>
+			<td>57.194</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 57,194 (lima puluh tujuh Rupiah koma satu sembilan empat).</td>
+			<td>KSEI-10917/JKU/0418</td>
+			<td>10-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>34.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-APR-2018</td>
+			<td>19-APR-2018</td>
+			<td>25-APR-2018</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>59</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 59,- (lima puluh sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>35.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-APR-2018</td>
+			<td>19-APR-2018</td>
+			<td>23-APR-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.63</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,63 (satu Rupiah koma enam tiga)</td>
+			<td>KSEI-10742/JKU/0418</td>
+			<td>09-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>36.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-APR-2018</td>
+			<td>20-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>322</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 322,- (tiga ratus dua puluh dua Rupiah)</td>
+			<td>KSEI-11278/JKU/0418</td>
+			<td>12-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>37.</td>
+			<td>JASA MARGA ( PERSERO) Tbk, PT</td>
+			<td>JSMR</td>
+			<td>JASA MARGA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-APR-2018</td>
+			<td>20-APR-2018</td>
+			<td>11-MAY-2018</td>
+			<td>1000000</td>
+			<td>JSMR</td>
+			<td>60630901</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 60,630901 (enam puluh Rupiah koma enam tiga nol sembilan nol satu)</td>
+			<td>KSEI-11096/JKU/0418</td>
+			<td>11-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>38.</td>
+			<td>ACSET INDONUSA Tbk, PT</td>
+			<td>ACST</td>
+			<td>ACSET INDONUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-APR-2018</td>
+			<td>23-APR-2018</td>
+			<td>09-MAY-2018</td>
+			<td>1</td>
+			<td>ACST</td>
+			<td>58</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 58,- (lima puluh delapan Rupiah)</td>
+			<td>KSEI-11474/JKU/0418</td>
+			<td>13-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>39.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-APR-2018</td>
+			<td>23-APR-2018</td>
+			<td>11-MAY-2018</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>51</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 51,- (lima puluh satu Rupiah)</td>
+			<td>KSEI-11472/JKU/0418</td>
+			<td>13-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>40.</td>
+			<td>BUKIT ASAM Tbk, PT</td>
+			<td>PTBA</td>
+			<td>BUKIT ASAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-APR-2018</td>
+			<td>23-APR-2018</td>
+			<td>11-MAY-2018</td>
+			<td>1</td>
+			<td>PTBA</td>
+			<td>318.521</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 318,521 (tiga ratus delapan belas Rupiah koma lima dua satu)</td>
+			<td>KSEI-11470/JKU/0418</td>
+			<td>13-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>41.</td>
+			<td>LINK NET Tbk, PT</td>
+			<td>LINK</td>
+			<td>LINK NET Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2018</td>
+			<td>24-APR-2018</td>
+			<td>15-MAY-2018</td>
+			<td>1</td>
+			<td>LINK</td>
+			<td>119.64</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 119,64 (seratus sembilan belas Rupiah koma enam empat)</td>
+			<td>KSEI-11590/JKU/0418</td>
+			<td>16-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>42.</td>
+			<td>GARUDA METALINDO Tbk, PT</td>
+			<td>BOLT</td>
+			<td>GARUDA METALINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2018</td>
+			<td>24-APR-2018</td>
+			<td>14-MAY-2018</td>
+			<td>1</td>
+			<td>BOLT</td>
+			<td>32</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 32,- (tiga puluh dua Rupiah)</td>
+			<td>KSEI-11773/JKU/0418</td>
+			<td>17-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>43.</td>
+			<td>ANEKA TAMBANG Tbk, PT</td>
+			<td>ANTM</td>
+			<td>ANEKA TAMBANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2018</td>
+			<td>24-APR-2018</td>
+			<td>16-MAY-2018</td>
+			<td>1</td>
+			<td>ANTM</td>
+			<td>1.99</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,99 (satu Rupiah koma sembilan sembilan)</td>
+			<td>KSEI-11592/JKU/0418</td>
+			<td>16-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>44.</td>
+			<td>ADHI KARYA (PERSERO) Tbk, PT</td>
+			<td>ADHI</td>
+			<td>ADHI KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-APR-2018</td>
+			<td>25-APR-2018</td>
+			<td>17-MAY-2018</td>
+			<td>1000000</td>
+			<td>ADHI</td>
+			<td>28949009</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 28,949009 (dua puluh delapan Rupiah koma sembilan empat sembilan nol nol sembilan)</td>
+			<td>KSEI-11769/JKU/0418</td>
+			<td>17-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>45.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-APR-2018</td>
+			<td>25-APR-2018</td>
+			<td>11-MAY-2018</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>33</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 33,- (tiga puluh tiga Rupiah)</td>
+			<td>KSEI-11771/JKU/0418</td>
+			<td>17-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>46.</td>
+			<td>PETROSEA Tbk, PT</td>
+			<td>PTRO</td>
+			<td>PETROSEA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2018</td>
+			<td>26-APR-2018</td>
+			<td>18-MAY-2018</td>
+			<td>1</td>
+			<td>PTRO</td>
+			<td>62.15566</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mempeoleh Rp 62,15566 (enam puluh dua Rupiah koma satu lima lima enam enam)</td>
+			<td>KSEI-12026/JKU/0418</td>
+			<td>18-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>47.</td>
+			<td>TIMAH Tbk, PT</td>
+			<td>TINS</td>
+			<td>TIMAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2018</td>
+			<td>26-APR-2018</td>
+			<td>17-MAY-2018</td>
+			<td>1</td>
+			<td>TINS</td>
+			<td>23.61059</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 23,61059 (dua puluh tiga Rupiah koma enam satu nol lima sembilan)</td>
+			<td>KSEI-12030/JKU/0418</td>
+			<td>18-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>48.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2018</td>
+			<td>26-APR-2018</td>
+			<td>15-MAY-2018</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>611</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 611,- (enam ratus sebelas Rupiah)</td>
+			<td>KSEI-12028/JKU/0418</td>
+			<td>18-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>49.</td>
+			<td>PANIN SEKURITAS Tbk, PT</td>
+			<td>PANS</td>
+			<td>PANIN SEKURITAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2018</td>
+			<td>27-APR-2018</td>
+			<td>16-MAY-2018</td>
+			<td>1</td>
+			<td>PANS</td>
+			<td>120</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 120,- (seratus dua puluh Rupiah).</td>
+			<td>KSEI-12240/JKU/0418</td>
+			<td>19-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>50.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2018</td>
+			<td>27-APR-2018</td>
+			<td>18-MAY-2018</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>487</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 487,- (empat ratus delapan puluh tujuh Rupiah)</td>
+			<td>KSEI-12032/JKU/0418</td>
+			<td>18-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>51.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2018</td>
+			<td>27-APR-2018</td>
+			<td>18-MAY-2018</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 16,- (enam belas Rupiah).</td>
+			<td>KSEI-12238/JKU/0418</td>
+			<td>19-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>52.</td>
+			<td>PP Properti Tbk, PT</td>
+			<td>PPRO</td>
+			<td>PP Properti Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2018</td>
+			<td>27-APR-2018</td>
+			<td>17-MAY-2018</td>
+			<td>1</td>
+			<td>PPRO</td>
+			<td>1.44</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,44 (satu Rupiah koma empat empat).</td>
+			<td>KSEI-12242/JKU/0418</td>
+			<td>19-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>53.</td>
+			<td>CIKARANG LISTRINDO Tbk, PT</td>
+			<td>POWR</td>
+			<td>CIKARANG LISTRINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2018</td>
+			<td>02-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>1</td>
+			<td>POWR</td>
+			<td>45.98634</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45.98634 (empat puluh lima Rupiah koma sembilan delapan enam tiga empat).</td>
+			<td>KSEI-12564/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>54.</td>
+			<td>KIMIA FARMA (PERSERO) Tbk, PT</td>
+			<td>KAEF</td>
+			<td>KIMIA FARMA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2018</td>
+			<td>02-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>1</td>
+			<td>KAEF</td>
+			<td>17.66</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 17.66 (tujuh belas Rupiah koma enam enam).</td>
+			<td>KSEI-12560/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>55.</td>
+			<td>NUSANTARA INFRASTRUCTURE Tbk, PT</td>
+			<td>META</td>
+			<td>NUSANTARA INFRASTRUCTURE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2018</td>
+			<td>02-MAY-2018</td>
+			<td>15-MAY-2018</td>
+			<td>1</td>
+			<td>META</td>
+			<td>2.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interima adalah setiap 1 (satu) saham akan memperoleh Rp 2,5 (dua Rupiah koma lima).</td>
+			<td>KSEI-12572/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>56.</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk, PT</td>
+			<td>MFMI</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2018</td>
+			<td>02-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>1</td>
+			<td>MFMI</td>
+			<td>6.11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,11 (enam Rupiah koma satu satu).</td>
+			<td>KSEI-12568/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>57.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2018</td>
+			<td>02-MAY-2018</td>
+			<td>18-MAY-2018</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20 (dua puluh Rupiah).</td>
+			<td>KSEI-12570/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>58.</td>
+			<td>MANDOM INDONESIA Tbk, PT</td>
+			<td>TCID</td>
+			<td>MANDOM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2018</td>
+			<td>02-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>1</td>
+			<td>TCID</td>
+			<td>410</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 410,- (empat ratus sepuluh Rupiah).</td>
+			<td>KSEI-12562/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>59.</td>
+			<td>ANABATIC TECHNOLOGIES Tbk, PT</td>
+			<td>ATIC</td>
+			<td>ANABATIC TECHNOLOGIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2018</td>
+			<td>03-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>1</td>
+			<td>ATIC</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td>KSEI-12977/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>60.</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk, PT</td>
+			<td>ADMF</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2018</td>
+			<td>03-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>1</td>
+			<td>ADMF</td>
+			<td>704.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 704.5 (tujuh ratus empat Rupiah koma lima).</td>
+			<td>KSEI-12566/JKU/0418</td>
+			<td>23-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>61.</td>
+			<td>PARAMITA BANGUN SARANA Tbk, PT</td>
+			<td>PBSA</td>
+			<td>PARAMITA BANGUN SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2018</td>
+			<td>03-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>1</td>
+			<td>PBSA</td>
+			<td>80</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 80,- ( delapan puluh Rupiah)</td>
+			<td>KSEI-12823/JKU/0418</td>
+			<td>24-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>62.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2018</td>
+			<td>03-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>1000000</td>
+			<td>BSSR</td>
+			<td>220538123</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 220,538123 (dua ratus dua puluh Rupiah koma lima tiga delapan satu dua tiga)</td>
+			<td>KSEI-12826/JKU/0418</td>
+			<td>24-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>63.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>40.61</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 40,61 (empat puluh Rupiah koma enam satu)</td>
+			<td>KSEI-13392/JKU/0418</td>
+			<td>26-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>64.</td>
+			<td>TRISULA INTERNATIONAL Tbk, PT</td>
+			<td>TRIS</td>
+			<td>TRISULA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>TRIS</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-12993/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>65.</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>ERAA</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>ERAA</td>
+			<td>38</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 38,- (tiga puluh delapan Rupiah)</td>
+			<td>KSEI-12989/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>66.</td>
+			<td>ASURANSI BINA DANA ARTA Tbk, PT</td>
+			<td>ABDA</td>
+			<td>ASURANSI BINA DANA ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>ABDA</td>
+			<td>90</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 90,- (sembilan puluh Rupiah)</td>
+			<td>KSEI-12981/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>67.</td>
+			<td>CHITOSE INTERNASIONAL Tbk, PT</td>
+			<td>CINT</td>
+			<td>CHITOSE INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>CINT</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-12985/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>68.</td>
+			<td>PURADELTA LESTARI Tbk, PT</td>
+			<td>DMAS</td>
+			<td>PURADELTA LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>1</td>
+			<td>DMAS</td>
+			<td>6.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,5 (enam Rupiah koma lima)</td>
+			<td>KSEI-12991/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>69.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>18-MAY-2018</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>65.39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 65,39 (enam puluh lima Rupiah koma tiga sembilan)</td>
+			<td>KSEI-12995/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>70.</td>
+			<td>TRISULA TEXTILE INDUSTRIES Tbk, PT</td>
+			<td>BELL</td>
+			<td>TRISULA TEXTILE INDUSTRIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2018</td>
+			<td>04-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>1</td>
+			<td>BELL</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-13389/JKU/0418</td>
+			<td>26-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>71.</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk, PT</td>
+			<td>WIKA</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAY-2018</td>
+			<td>07-MAY-2018</td>
+			<td>07-MAY-2018</td>
+			<td>1</td>
+			<td>WIKA</td>
+			<td>26.82012</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 26,82012 (dua puluh enam Rupiah koma delapan dua nol satu dua)</td>
+			<td>KSEI-13615/JKU/0418</td>
+			<td>27-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>72.</td>
+			<td>BANK CIMB NIAGA Tbk, PT</td>
+			<td>BNGA</td>
+			<td>BANK CIMB NIAGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAY-2018</td>
+			<td>07-MAY-2018</td>
+			<td>07-MAY-2018</td>
+			<td>1</td>
+			<td>BNGA</td>
+			<td>23.89</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 23,89 (dua puluh tiga Rupiah koma delapan sembilan)</td>
+			<td>KSEI-12987/JKU/0418</td>
+			<td>25-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>73.</td>
+			<td>FAJAR SURYA WISESA Tbk, PT</td>
+			<td>FASW</td>
+			<td>FAJAR SURYA WISESA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAY-2018</td>
+			<td>07-MAY-2018</td>
+			<td>07-MAY-2018</td>
+			<td>1</td>
+			<td>FASW</td>
+			<td>62</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 62,- (enam  puluh dua Rupiah)</td>
+			<td>KSEI-13387/JKU/0418</td>
+			<td>26-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>74.</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk, PT</td>
+			<td>SSMS</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2018</td>
+			<td>09-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>1</td>
+			<td>SSMS</td>
+			<td>24.79</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 24,79 (dua puluh empat Rupiah koma tujuh sembilan)</td>
+			<td>KSEI-14092/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>75.</td>
+			<td>METROPOLITAN KENTJANA Tbk. PT</td>
+			<td>MKPI</td>
+			<td>METROPOLITAN KENTJANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2018</td>
+			<td>09-MAY-2018</td>
+			<td>28-MAY-2018</td>
+			<td>1</td>
+			<td>MKPI</td>
+			<td>369</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 369,- (ltiga ratus enam puluh sembilan Rupiah)</td>
+			<td>KSEI-14088/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>76.</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk, PT</td>
+			<td>PGAS</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2018</td>
+			<td>09-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>1</td>
+			<td>PGAS</td>
+			<td>31.61</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 31,61 (tiga puluh satu Rupiah koma enam  satu).</td>
+			<td>KSEI-13859/JKU/0418</td>
+			<td>30-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>77.</td>
+			<td>INDIKA ENERGY Tbk, PT</td>
+			<td>INDY</td>
+			<td>INDIKA ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2018</td>
+			<td>09-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>1</td>
+			<td>INDY</td>
+			<td>108.05</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham  akan mendapatkan Rp 108,05 (seratus delapan Rupiah koma nol lima)</td>
+			<td>KSEI-13861/JKU/0418</td>
+			<td>30-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>78.</td>
+			<td>PEMBANGUNAN PERUMAHAN (PERSERO) Tbk, PT</td>
+			<td>PTPP</td>
+			<td>PP (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2018</td>
+			<td>09-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>PTPP</td>
+			<td>46.876</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 46,876 (empat puluh enam Rupiah delapan tujuh enam).</td>
+			<td>KSEI-13855/JKU/0418</td>
+			<td>30-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>79.</td>
+			<td>IMPACK PRATAMA INDUSTRI Tbk, PT</td>
+			<td>IMPC</td>
+			<td>IMPACK PRATAMA INDUSTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>1</td>
+			<td>IMPC</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-14082/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>80.</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk, PT</td>
+			<td>TBIG</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>1000000</td>
+			<td>TBIG</td>
+			<td>169107958</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 169,107958 (seratus enam puluh sembilan koma satu nol tujuh sembilan lima delapan)</td>
+			<td>KSEI-14076/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>81.</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk, PT</td>
+			<td>LPPF</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>1</td>
+			<td>LPPF</td>
+			<td>457.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 457,50 (empat ratus lima puluh tujuh Rupiah koma lima nol)</td>
+			<td>KSEI-13863/JKU/0418</td>
+			<td>30-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>82.</td>
+			<td>RUKUN RAHARJA Tbk, PT</td>
+			<td>RAJA</td>
+			<td>RUKUN RAHARJA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>RAJA</td>
+			<td>4.98</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,98 (empat Rupiah koma sembilan delapan)</td>
+			<td>KSEI-14086/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>83.</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>167.6598</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 167,6598 (seratus enam puluh tujuh Rupiah koma enam lima sembilan delapan).</td>
+			<td>KSEI-14074/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>84.</td>
+			<td>PT. MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>MLPT</td>
+			<td>MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>MLPT</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 30,- (ltiga puluh Rupiah)</td>
+			<td>KSEI-14078/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>85.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2018</td>
+			<td>11-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>107.3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 107,3 (seratus tujuh Rupiah koma tiga).</td>
+			<td>KSEI-13857/JKU/0418</td>
+			<td>30-APR-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>86.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2018</td>
+			<td>14-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-14094/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>87.</td>
+			<td>ADI SARANA ARMADA Tbk. PT</td>
+			<td>ASSA</td>
+			<td>ADI SARANA ARMADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2018</td>
+			<td>14-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>ASSA</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-14084/JKU/0518</td>
+			<td>02-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>88.</td>
+			<td>GARUDA MAINTENANCE FACILITY AERO ASIA Tbk, PT</td>
+			<td>GMFI</td>
+			<td>GARUDA MAINTENANCE FACILITY AERO ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2018</td>
+			<td>14-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>1000000000000000</td>
+			<td>GMFI</td>
+			<td>5043837268346872</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 5,043837268346872 (lima Rupiah koma nol empat tiga delapan tiga tujuh dua enam delapan tiga empat enam delapan tujuh dua)</td>
+			<td>KSEI-14353/JKU/0518</td>
+			<td>03-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>89.</td>
+			<td>PT TIGARAKSA SATRIA Tbk ,</td>
+			<td>TGKA</td>
+			<td>TIGARAKSA SATRIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2018</td>
+			<td>14-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>1</td>
+			<td>TGKA</td>
+			<td>160</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 160,- (seratus enam puluh Rupiah)</td>
+			<td>KSEI-14347/JKU/0518</td>
+			<td>03-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>90.</td>
+			<td>MARK DYNAMICS INDONESIA Tbk, PT</td>
+			<td>MARK</td>
+			<td>MARK DYNAMICS INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2018</td>
+			<td>14-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>MARK</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td>KSEI-14349/JKU/0518</td>
+			<td>03-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>91.</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk, PT</td>
+			<td>SMGR</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2018</td>
+			<td>14-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>SMGR</td>
+			<td>135.83</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 135,83 (seratus tiga puluh lima Rupiah koma delapan tiga)</td>
+			<td>KSEI-14351/JKU/0518</td>
+			<td>03-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>92.</td>
+			<td>NUSA RAYA CIPTA Tbk, PT</td>
+			<td>NRCA</td>
+			<td>NUSA RAYA CIPTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2018</td>
+			<td>16-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>NRCA</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 40,- (empat puluh Rupiah).</td>
+			<td>KSEI-15007/JKU/0518</td>
+			<td>08-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>93.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2018</td>
+			<td>16-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-15005/JKU/0518</td>
+			<td>08-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>94.</td>
+			<td>WEHA TRANSPORTASI INDONESIA Tbk, PT</td>
+			<td>WEHA</td>
+			<td>WEHA TRANSPORTASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2018</td>
+			<td>16-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>1</td>
+			<td>WEHA</td>
+			<td>2.73</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,73 (Dua Rupiah koma Tujuh Puluh Tiga Sen)</td>
+			<td>KSEI-14711/JKU/0518</td>
+			<td>07-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>95.</td>
+			<td>HARTADINATA ABADI Tbk, PT</td>
+			<td>HRTA</td>
+			<td>HARTADINATA ABADI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2018</td>
+			<td>16-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>1</td>
+			<td>HRTA</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham  akan memperoleh Rp 6 (enam  Rupiah)</td>
+			<td>KSEI-14716/JKU/0518</td>
+			<td>07-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>96.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2018</td>
+			<td>16-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>94.76</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 saham  akan memperoleh Rp 94,76 (sembilan puluh empat Rupiah koma tujuh enam).</td>
+			<td>KSEI-14713/JKU/0518</td>
+			<td>07-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>97.</td>
+			<td>JEMBO CABLE COMPANY Tbk, PT</td>
+			<td>JECC</td>
+			<td>JEMBO CABLE COMPANY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-MAY-2018</td>
+			<td>17-MAY-2018</td>
+			<td>07-JUN-2018</td>
+			<td>1</td>
+			<td>JECC</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 200,- (dua ratus Rupiah)</td>
+			<td>KSEI-15001/JKU/0518</td>
+			<td>08-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>98.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-MAY-2018</td>
+			<td>17-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.97</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,97 (satu Rupiah koma sembilan tujuh)</td>
+			<td>KSEI-15009/JKU/0518</td>
+			<td>08-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>99.</td>
+			<td>TOTAL BANGUN PERSADA Tbk, PT</td>
+			<td>TOTL</td>
+			<td>TOTAL BANGUN PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-MAY-2018</td>
+			<td>17-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>1</td>
+			<td>TOTL</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 50,- (lima puluh Rupiah).</td>
+			<td>KSEI-15003/JKU/0518</td>
+			<td>08-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>100.</td>
+			<td>SAMINDO RESOURCES Tbk, PT</td>
+			<td>MYOH</td>
+			<td>SAMINDO RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-MAY-2018</td>
+			<td>17-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>1</td>
+			<td>MYOH</td>
+			<td>114.84</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham  akan memperoleh Rp 114,84 (seratus empat belas Rupiah koma delapan empat)</td>
+			<td>KSEI-14718/JKU/0518</td>
+			<td>07-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>101.</td>
+			<td>BINTRACO DHARMA Tbk, PT</td>
+			<td>CARS</td>
+			<td>BINTRACO DHARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-MAY-2018</td>
+			<td>18-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>CARS</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 40,-(empat puluh Rupiah)</td>
+			<td>KSEI-15230/JKU/0518</td>
+			<td>09-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>102.</td>
+			<td>PRODIA WIDYAHUSADA Tbk, PT</td>
+			<td>PRDA</td>
+			<td>PRODIA WIDYAHUSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-MAY-2018</td>
+			<td>18-MAY-2018</td>
+			<td>07-JUN-2018</td>
+			<td>10000000000</td>
+			<td>PRDA</td>
+			<td>643402976209</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 64,3402976209 (enam puluh empat Rupiah koma tiga empat nol dua sembilan tujuh enam dua nol sembilan)</td>
+			<td>KSEI-14999/JKU/0518</td>
+			<td>08-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>103.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-MAY-2018</td>
+			<td>18-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 70,-(tujuh puluh Rupiah)</td>
+			<td>KSEI-15232/JKU/0518</td>
+			<td>09-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>104.</td>
+			<td>MITRA ADIPERKASA Tbk, PT</td>
+			<td>MAPI</td>
+			<td>MITRA ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-MAY-2018</td>
+			<td>18-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>MAPI</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 40,-(empat puluh Rupiah)</td>
+			<td>KSEI-15228/JKU/0518</td>
+			<td>09-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>105.</td>
+			<td>ASURANSI RAMAYANA Tbk, PT</td>
+			<td>ASRM</td>
+			<td>ASURANSI RAMAYANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>ASRM</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 100,-(seratus puluh Rupiah)</td>
+			<td>KSEI-15444/JKU/0518</td>
+			<td>11-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>106.</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMM Tbk, PT</td>
+			<td>SCCO</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMMERCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>SCCO</td>
+			<td>350</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp350 ,-(tiga ratus lima puluh Rupiah)</td>
+			<td>KSEI-15438/JKU/0518</td>
+			<td>11-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>107.</td>
+			<td>PUDJIADI AND SONS Tbk, PT</td>
+			<td>PNSE</td>
+			<td>PUDJIADI AND SONS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>PNSE</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,-(tiga Rupiah)</td>
+			<td>KSEI-15440/JKU/0518</td>
+			<td>11-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>108.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>21-MAY-2018</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.4389</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 1,4389 (satu Rupiah koma empat tiga delapan sembilan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>109.</td>
+			<td>PUDJIADI PRESTIGE Tbk, PT</td>
+			<td>PUDP</td>
+			<td>PUDJIADI PRESTIGE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>PUDP</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-15702/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>110.</td>
+			<td>SARANA MENARA NUSANTARA Tbk, PT</td>
+			<td>TOWR</td>
+			<td>SARANA MENARA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>07-JUN-2018</td>
+			<td>1</td>
+			<td>TOWR</td>
+			<td>87.61</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 87,61 (delapan puluh tujuh Rupiah koma enam satu)</td>
+			<td>KSEI-15708/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>111.</td>
+			<td>PT. SAMPOERNA AGRO, Tbk</td>
+			<td>SGRO</td>
+			<td>SAMPOERNA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>07-JUN-2018</td>
+			<td>1</td>
+			<td>SGRO</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 70,- (tujuh puluh Rupiah)</td>
+			<td>KSEI-15714/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>112.</td>
+			<td>PT. BEKASI FAJAR INDUSTRIAL ESTATE, Tbk</td>
+			<td>BEST</td>
+			<td>BEKASI FAJAR INDUSTRIAL ESTATE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>1</td>
+			<td>BEST</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-15700/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>113.</td>
+			<td>PEMBANGUNAN GRAHA LESTARI Tbk, PT</td>
+			<td>PGLI</td>
+			<td>PEMBANGUNAN GRAHA LESTARI INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>07-JUN-2018</td>
+			<td>1</td>
+			<td>PGLI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,-(satu Rupiah)</td>
+			<td>KSEI-15442/JKU/0518</td>
+			<td>11-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>114.</td>
+			<td>KABELINDO MURNI Tbk, PT</td>
+			<td>KBLM</td>
+			<td>KABELINDO MURNI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>KBLM</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-15706/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>115.</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk, PT</td>
+			<td>IGAR</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>IGAR</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td>KSEI-15697/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>116.</td>
+			<td>INDOSAT Tbk, PT</td>
+			<td>ISAT</td>
+			<td>INDOSAT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>ISAT</td>
+			<td>73</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 73,- (tujuh puluh tiga Rupiah)</td>
+			<td>KSEI-15704/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>117.</td>
+			<td>SARANA MEDITAMA METROPOLITAN Tbk. PT</td>
+			<td>SAME</td>
+			<td>SARANA MEDITAMA METROPOLITAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>07-JUN-2018</td>
+			<td>1</td>
+			<td>SAME</td>
+			<td>1.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 1,7 (satu Rupiah koma tujuh)</td>
+			<td>KSEI-15695/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>118.</td>
+			<td>HUMPUSS INTERMODA TRANSPORTASI Tbk, PT</td>
+			<td>HITS</td>
+			<td>HUMPUSS INTERMODA TRANSPORTASI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>05-JUN-2018</td>
+			<td>1</td>
+			<td>HITS</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-15710/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>119.</td>
+			<td>PELITA SAMUDERA SHIPPING Tbk, PT</td>
+			<td>PSSI</td>
+			<td>PELITA SAMUDERA SHIPPING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2018</td>
+			<td>22-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>PSSI</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,-(lima Rupiah)</td>
+			<td>KSEI-15446/JKU/0518</td>
+			<td>11-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>120.</td>
+			<td>LAUTAN LUAS Tbk, PT</td>
+			<td>LTLS</td>
+			<td>LAUTAN LUAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>05-JUN-2018</td>
+			<td>1</td>
+			<td>LTLS</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td>KSEI-15712/JKU/0518</td>
+			<td>14-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>121.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBI</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI A</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>SQBI</td>
+			<td>17000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 17.000,- (tujuh belas ribu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>122.</td>
+			<td>NIPPON INDOSARI CORPINDO, PT</td>
+			<td>ROTI</td>
+			<td>NIPPON INDOSARI CORPINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>ROTI</td>
+			<td>5.82</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 5,82 (lima Rupiah koma delapan dua)</td>
+			<td>KSEI-15984/JKU/0518</td>
+			<td>15-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>123.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBB</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI B</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>SQBB</td>
+			<td>17000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 17.000,- (tujuh belas ribu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>124.</td>
+			<td>METROPOLITAN LAND Tbk. PT</td>
+			<td>MTLA</td>
+			<td>METROPOLITAN LAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2018</td>
+			<td>23-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>MTLA</td>
+			<td>8.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 8,80 (delapan Rupiah koma delapan nol)</td>
+			<td>KSEI-15980/JKU/0518</td>
+			<td>15-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>125.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>47.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim iialah setiap 1 (satu) saham akan memperoleh Rp 47,8 (empat puluh tujuh Rupiah koma delapan)</td>
+			<td>KSEI-16312/JKU/0518</td>
+			<td>16-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>126.</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk, PT</td>
+			<td>PJAA</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>PJAA</td>
+			<td>52</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 52,- (lima puluh dua Rupiah)</td>
+			<td>KSEI-16303/JKU/0518</td>
+			<td>16-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>127.</td>
+			<td>PT. AUSTINDO NUSANTARA JAYA, Tbk</td>
+			<td>ANJT</td>
+			<td>AUSTINDO NUSANTARA JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>ANJT</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-16308/JKU/0518</td>
+			<td>16-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>128.</td>
+			<td>ELNUSA Tbk, PT</td>
+			<td>ELSA</td>
+			<td>ELNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>ELSA</td>
+			<td>5.08</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 5,08 (lima Rupiah koma nol delapan)</td>
+			<td>KSEI-15982/JKU/0518</td>
+			<td>15-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>129.</td>
+			<td>DELTA DJAKARTA Tbk, PT</td>
+			<td>DLTA</td>
+			<td>DELTA DJAKARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>1</td>
+			<td>DLTA</td>
+			<td>260</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 260,- (dua ratus enam puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>130.</td>
+			<td>EMDEKI UTAMA Tbk, PT</td>
+			<td>MDKI</td>
+			<td>EMDEKI UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>04-JUN-2018</td>
+			<td>1</td>
+			<td>MDKI</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 17,- (tujuh belas Rupiah)</td>
+			<td>KSEI-16301/JKU/0518</td>
+			<td>16-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>131.</td>
+			<td>ASURANSI JASA TANIA Tbk, PT</td>
+			<td>ASJT</td>
+			<td>ASURANSI JASA TANIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2018</td>
+			<td>24-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>ASJT</td>
+			<td>18.89</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 18,89 (delapan belas Rupiah koma delapan sembilan)</td>
+			<td>KSEI-17255/JKU/0518</td>
+			<td>18-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>132.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-16310/JKU/0518</td>
+			<td>16-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>133.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>130</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 130,- (seratus tiga puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>134.</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk, PT</td>
+			<td>EPMT</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-MAY-2018</td>
+			<td>25-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>EPMT</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai iialah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-16555/JKU/0518</td>
+			<td>17-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>135.</td>
+			<td>MASKAPAI REASURANSI Tbk, PT</td>
+			<td>MREI</td>
+			<td>MASKAPAI REASURANSI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-MAY-2018</td>
+			<td>28-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>MREI</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 55,- (lima puluh lima Rupiah)</td>
+			<td>KSEI-17253/JKU/0518</td>
+			<td>18-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>136.</td>
+			<td>EKADHARMA INTERNATIONAL Tbk, PT</td>
+			<td>EKAD</td>
+			<td>EKADHARMA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-MAY-2018</td>
+			<td>30-MAY-2018</td>
+			<td>20-JUN-2018</td>
+			<td>1</td>
+			<td>EKAD</td>
+			<td>18</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 18,- (delapan belas Rupiah).</td>
+			<td>KSEI-17654/JKU/0518</td>
+			<td>21-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>137.</td>
+			<td>SRI REJEKI ISMAN Tbk. PT</td>
+			<td>SRIL</td>
+			<td>SRI REJEKI ISMAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>21-JUN-2018</td>
+			<td>1</td>
+			<td>SRIL</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 8,- (delapan Rupiah).</td>
+			<td>KSEI-17882/JKU/0518</td>
+			<td>22-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>138.</td>
+			<td>ACE HARDWARE INDONESIA Tbk, PT</td>
+			<td>ACES</td>
+			<td>ACE HARDWARE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>21-JUN-2018</td>
+			<td>1</td>
+			<td>ACES</td>
+			<td>22.81</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 22,81 (dua puluh dua Rupiah koma delapan satu).</td>
+			<td>KSEI-17880/JKU/0518</td>
+			<td>22-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>139.</td>
+			<td>VICTORIA INSURANCE Tbk, PT</td>
+			<td>VINS</td>
+			<td>VICTORIA INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2018</td>
+			<td>31-MAY-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>VINS</td>
+			<td>1.6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,6 (satu Rupiah koma enam).</td>
+			<td>KSEI-17878/JKU/0518</td>
+			<td>22-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>140.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2018</td>
+			<td>04-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>330</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 330,- (tiga ratus tiga puluh Rupiah).</td>
+			<td>KSEI-18099/JKU/0518</td>
+			<td>23-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>141.</td>
+			<td>BANK MAYAPADA INTERNASIONAL Tbk, PT</td>
+			<td>MAYA</td>
+			<td>BANK MAYAPADA INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2018</td>
+			<td>04-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>MAYA</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 50,- (lima puluh Rupiah).</td>
+			<td>KSEI-18101/JKU/0518</td>
+			<td>23-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>142.</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk, PT</td>
+			<td>INTP</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2018</td>
+			<td>05-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>INTP</td>
+			<td>700</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 700,- (tujuh ratus Rupiah).</td>
+			<td>KSEI-18104/JKU/0518</td>
+			<td>23-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>143.</td>
+			<td>ALKINDO NARATAMA Tbk, PT.</td>
+			<td>ALDO</td>
+			<td>ALKINDO NARATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2018</td>
+			<td>05-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>ALDO</td>
+			<td>1.6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,6 (satu Rupiah koma enam).</td>
+			<td>KSEI-18585/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>144.</td>
+			<td>MULTI INDOCITRA Tbk, PT</td>
+			<td>MICE</td>
+			<td>MULTI INDOCITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2018</td>
+			<td>05-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>MICE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-18355/JKU/0518</td>
+			<td>24-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>145.</td>
+			<td>WILMAR CAHAYA INDONESIA Tbk, PT</td>
+			<td>CEKA</td>
+			<td>WILMAR CAHAYA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>CEKA</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45,- (empat puluh lima Rupiah).</td>
+			<td>KSEI-18589/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>146.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>505</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 505,- (lima ratus lima Rupiah).</td>
+			<td>KSEI-18359/JKU/0518</td>
+			<td>24-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>147.</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk, PT</td>
+			<td>CPIN</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>CPIN</td>
+			<td>56</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 56,- (lima puluh enam Rupiah)</td>
+			<td>KSEI-18597/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>148.</td>
+			<td>TRANS POWER MARINE Tbk, PT</td>
+			<td>TPMA</td>
+			<td>TRANS POWER MARINE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>TPMA</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah).</td>
+			<td>KSEI-18587/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>149.</td>
+			<td>BUANA FINANCE Tbk, PT</td>
+			<td>BBLD</td>
+			<td>BUANA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>1</td>
+			<td>BBLD</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 16,-(enam belas Rupiah)</td>
+			<td>KSEI-18592/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>150.</td>
+			<td>HARUM ENERGY Tbk. PT</td>
+			<td>HRUM</td>
+			<td>HARUM ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>HRUM</td>
+			<td>248.58</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 248,58,- (dua ratus empat puluh delapan Rupiah koma lima delapan)</td>
+			<td>KSEI-18599/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>151.</td>
+			<td>KINO INDONESIA Tbk, PT</td>
+			<td>KINO</td>
+			<td>KINO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2018</td>
+			<td>06-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>1</td>
+			<td>KINO</td>
+			<td>27</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 27,- (dua puluh tujuh Rupiah)</td>
+			<td>KSEI-18594/JKU/0518</td>
+			<td>25-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>152.</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk, PT</td>
+			<td>RALS</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>1</td>
+			<td>RALS</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-18945/JKU/0518</td>
+			<td>30-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>153.</td>
+			<td>SUPRA BOGA LESTARI Tbk, PT</td>
+			<td>RANC</td>
+			<td>SUPRA BOGA LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>1</td>
+			<td>RANC</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-18938/JKU/0518</td>
+			<td>30-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>154.</td>
+			<td>KMI WIRE AND CABLE Tbk, PT</td>
+			<td>KBLI</td>
+			<td>KMI Wire and Cable Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>1</td>
+			<td>KBLI</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-18934/JKU/0518</td>
+			<td>30-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>155.</td>
+			<td>MODERNLAND REALTY Tbk, PT</td>
+			<td>MDLN</td>
+			<td>MODERNLAND REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>1</td>
+			<td>MDLN</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-18948/JKU/0518</td>
+			<td>30-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>156.</td>
+			<td>MAYORA INDAH Tbk, PT</td>
+			<td>MYOR</td>
+			<td>MAYORA INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>1</td>
+			<td>MYOR</td>
+			<td>27</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 27,- (dua puluh tujuh Rupiah)</td>
+			<td>KSEI-18936/JKU/0518</td>
+			<td>30-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>157.</td>
+			<td>BANK MESTIKA DHARMA Tbk, PT</td>
+			<td>BBMD</td>
+			<td>BANK MESTIKA DHARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2018</td>
+			<td>08-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>1</td>
+			<td>BBMD</td>
+			<td>14.67</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 14,67 (empat belas Rupiah koma enam tujuh).</td>
+			<td>KSEI-18750/JKU/0518</td>
+			<td>28-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>158.</td>
+			<td>BISI INTERNATIONAL Tbk, PT</td>
+			<td>BISI</td>
+			<td>BISI INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2018</td>
+			<td>20-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>1</td>
+			<td>BISI</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-19203/JKU/0518</td>
+			<td>31-MAY-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>159.</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk, PT</td>
+			<td>LSIP</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>03-JUL-2018</td>
+			<td>1</td>
+			<td>LSIP</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45,- (empat puluh lima Rupiah).</td>
+			<td>KSEI-19496/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>160.</td>
+			<td>PT. PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>NELY</td>
+			<td>PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>1</td>
+			<td>NELY</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah).</td>
+			<td>KSEI-19492/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>161.</td>
+			<td>PANCA GLOBAL KAPITAL Tbk, PT</td>
+			<td>PEGE</td>
+			<td>PANCA GLOBAL KAPITAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>03-JUL-2018</td>
+			<td>1</td>
+			<td>PEGE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-19494/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>162.</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk, PT</td>
+			<td>SIDO</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>1</td>
+			<td>SIDO</td>
+			<td>29</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 29,- (dua puluh sembilan Rupiah).</td>
+			<td>KSEI-19503/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>163.</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>BYAN</td>
+			<td>BAYAN RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>1</td>
+			<td>BYAN</td>
+			<td>634.05</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 634,05 (enam ratus tiga puluh empat Rupiah koma nol lima)</td>
+			<td>KSEI-19704/JKU/0618</td>
+			<td>05-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>164.</td>
+			<td>SALIM IVOMAS PRATAMA Tbk, PT</td>
+			<td>SIMP</td>
+			<td>SALIM IVOMAS PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>1</td>
+			<td>SIMP</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-19498/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>165.</td>
+			<td>PAN BROTHERS Tbk, PT</td>
+			<td>PBRX</td>
+			<td>PAN BROTHERS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2018</td>
+			<td>21-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>1</td>
+			<td>PBRX</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,- (dua Rupiah).</td>
+			<td>KSEI-19500/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>166.</td>
+			<td>COLORPAK INDONESIA Tbk, PT</td>
+			<td>CLPI</td>
+			<td>COLORPAK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>CLPI</td>
+			<td>63.87</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 63,87 (enam puluh tiga Rupiah koma delapan tujuh).</td>
+			<td>KSEI-19701/JKU/0618</td>
+			<td>05-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>167.</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk, PT</td>
+			<td>ICBP</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>03-JUL-2018</td>
+			<td>1</td>
+			<td>ICBP</td>
+			<td>162</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 162,- (seratus enam puluh dua Rupiah).</td>
+			<td>KSEI-19710/JKU/0618</td>
+			<td>05-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>168.</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk, PT</td>
+			<td>INDF</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>INDF</td>
+			<td>237</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 237,- (dua ratus tiga puluh tujuh Rupiah).</td>
+			<td>KSEI-19712/JKU/0618</td>
+			<td>05-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>169.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Kedua adalah setiap 1 (satu) saham akan memperoleh Rp 68,- (enam puluh delapan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>170.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah).</td>
+			<td>KSEI-19706/JKU/0618</td>
+			<td>05-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>171.</td>
+			<td>INDONESIA PONDASI RAYA Tbk, PT</td>
+			<td>IDPR</td>
+			<td>INDONESIA PONDASI RAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2018</td>
+			<td>22-JUN-2018</td>
+			<td>03-JUL-2018</td>
+			<td>1</td>
+			<td>IDPR</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah).</td>
+			<td>KSEI-19506/JKU/0618</td>
+			<td>04-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>172.</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk, PT</td>
+			<td>AMRT</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>1</td>
+			<td>AMRT</td>
+			<td>2.17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,17 (dua Rupiah koma satu tujuh).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>173.</td>
+			<td>RICKY PUTRA GLOBALINDO Tbk, PT</td>
+			<td>RICY</td>
+			<td>RICKY PUTRA GLOBALINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>RICY</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>174.</td>
+			<td>INDOSPRING Tbk, PT</td>
+			<td>INDS</td>
+			<td>INDOSPRING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>INDS</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-19916/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>175.</td>
+			<td>PERDANA GAPURAPRIMA Tbk, PT</td>
+			<td>GPRA</td>
+			<td>PERDANA GAPURAPRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>GPRA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-19910/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>176.</td>
+			<td>TUNAS ALFIN Tbk, PT</td>
+			<td>TALF</td>
+			<td>TUNAS ALFIN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>1</td>
+			<td>TALF</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-19912/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>177.</td>
+			<td>BANK BUMI ARTA Tbk, PT</td>
+			<td>BNBA</td>
+			<td>BANK BUMI ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>BNBA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-19922/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>178.</td>
+			<td>PT ASAHIMAS FLAT GLASS Tbk</td>
+			<td>AMFG</td>
+			<td>ASAHIMAS FLAT GLASS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>AMFG</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td>KSEI-19918/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>179.</td>
+			<td>CIPUTRA DEVELOPMENT Tbk, PT</td>
+			<td>CTRA</td>
+			<td>CIPUTRA DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUN-2018</td>
+			<td>25-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>CTRA</td>
+			<td>9.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 9,50 (sembilan Rupiah koma lima nol).</td>
+			<td>KSEI-19708/JKU/0618</td>
+			<td>05-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>180.</td>
+			<td>BUDI STARCH & SWEETENER Tbk</td>
+			<td>BUDI</td>
+			<td>BUDI STARCH & SWEETENER Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>1</td>
+			<td>BUDI</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>181.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-20367/JKU/0618</td>
+			<td>07-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>182.</td>
+			<td>KALBE FARMA Tbk, PT</td>
+			<td>KLBF</td>
+			<td>KALBE FARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>KLBF</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>183.</td>
+			<td>MANDALA MULTIFINANCE Tbk, PT</td>
+			<td>MFIN</td>
+			<td>MANDALA MULTIFINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>MFIN</td>
+			<td>150</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 150,- (seratus lima puluh Rupiah)</td>
+			<td>KSEI-20352/JKU/0618</td>
+			<td>07-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>184.</td>
+			<td>PT. LIPPO KARAWACI Tbk</td>
+			<td>LPKR</td>
+			<td>LIPPO KARAWACI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>LPKR</td>
+			<td>2.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 2,7 (dua Rupiah koma tujuh)</td>
+			<td>KSEI-19920/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>185.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45,- (empat puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>186.</td>
+			<td>SEKAR LAUT Tbk, PT</td>
+			<td>SKLT</td>
+			<td>SEKAR LAUT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>05-JUL-2018</td>
+			<td>1</td>
+			<td>SKLT</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td>KSEI-20350/JKU/0618</td>
+			<td>07-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>187.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.98</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,98 (satu Rupiah koma sembilan delapan)</td>
+			<td>KSEI-19908/JKU/0618</td>
+			<td>06-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>188.</td>
+			<td>BUYUNG POETRA SEMBADA Tbk, PT</td>
+			<td>HOKI</td>
+			<td>BUYUNG POETRA SEMBADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2018</td>
+			<td>26-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>HOKI</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td>KSEI-20356/JKU/0618</td>
+			<td>07-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>189.</td>
+			<td>FKS MULTI AGRO Tbk, PT</td>
+			<td>FISH</td>
+			<td>FKS MULTI AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>FISH</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-20354/JKU/0618</td>
+			<td>07-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>190.</td>
+			<td>FAST FOOD INDONESIA Tbk, PT</td>
+			<td>FAST</td>
+			<td>FAST FOOD INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>FAST</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>191.</td>
+			<td>MIDI UTAMA INDONESIA Tbk, PT</td>
+			<td>MIDI</td>
+			<td>MIDI UTAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>1</td>
+			<td>MIDI</td>
+			<td>10.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,7 (sepuluh Rupiah koma tujuh).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>192.</td>
+			<td>GEMA GRAHA SARANA Tbk, PT</td>
+			<td>GEMA</td>
+			<td>GEMA GRAHASARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>GEMA</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah).</td>
+			<td>KSEI-20638/JKU/0618</td>
+			<td>08-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>193.</td>
+			<td>BLUE BIRD Tbk, PT</td>
+			<td>BIRD</td>
+			<td>BLUE BIRD Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>1</td>
+			<td>BIRD</td>
+			<td>51</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 51,- (lima puluh satu Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>194.</td>
+			<td>NUSANTARA INFRASTRUCTURE Tbk, PT</td>
+			<td>META</td>
+			<td>NUSANTARA INFRASTRUCTURE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>1</td>
+			<td>META</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>195.</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk, PT</td>
+			<td>JSPT</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>1</td>
+			<td>JSPT</td>
+			<td>19</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 19,- (sembilan belas Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>196.</td>
+			<td>JASA ARMADA INDONESIA Tbk, PT</td>
+			<td>IPCM</td>
+			<td>JASA ARMADA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>IPCM</td>
+			<td>6.75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,75 (enam Rupiah koma tujuh lima).</td>
+			<td>KSEI-20633/JKU/0618</td>
+			<td>08-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>197.</td>
+			<td>JAYA REAL PROPERTY Tbk, PT</td>
+			<td>JRPT</td>
+			<td>JAYA REAL PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>JRPT</td>
+			<td>26</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 26,- (dua puluh enam Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>198.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2018</td>
+			<td>27-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>400</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 400,- (empat ratus Rupiah).</td>
+			<td>KSEI-20636/JKU/0618</td>
+			<td>08-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>199.</td>
+			<td>SUMMARECON AGUNG Tbk, PT</td>
+			<td>SMRA</td>
+			<td>SUMMARECON AGUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>SMRA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-20781/JKU/0618</td>
+			<td>20-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>200.</td>
+			<td>SURYA SEMESTA INTERNUSA Tbk, PT</td>
+			<td>SSIA</td>
+			<td>SURYA SEMESTA INTERNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>SSIA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td>KSEI-20642/JKU/0618</td>
+			<td>08-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>201.</td>
+			<td>METRODATA ELECTRONICS Tbk, PT</td>
+			<td>MTDL</td>
+			<td>METRODATA ELECTRONICS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>16-JUL-2018</td>
+			<td>1</td>
+			<td>MTDL</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-20772/JKU/0618</td>
+			<td>20-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>202.</td>
+			<td>TIFA FINANCE, PT</td>
+			<td>TIFA</td>
+			<td>TIFA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>11-JUL-2018</td>
+			<td>1</td>
+			<td>TIFA</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td>KSEI-20777/JKU/0618</td>
+			<td>20-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>203.</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk, PT</td>
+			<td>JKON</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2018</td>
+			<td>28-JUN-2018</td>
+			<td>20-JUL-2018</td>
+			<td>1</td>
+			<td>JKON</td>
+			<td>5.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,80 (lima Rupiah koma delapan nol)</td>
+			<td>KSEI-20779/JKU/0618</td>
+			<td>20-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>204.</td>
+			<td>LIPPO GENERAL INSURANCE Tbk, PT</td>
+			<td>LPGI</td>
+			<td>LIPPO GENERAL INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>19-JUL-2018</td>
+			<td>1</td>
+			<td>LPGI</td>
+			<td>245</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 245,- (dua ratus empat puluh lima Rupiah)</td>
+			<td>KSEI-20768/JKU/0618</td>
+			<td>20-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>205.</td>
+			<td>ASURANSI DAYIN MITRA Tbk, PT</td>
+			<td>ASDM</td>
+			<td>ASURANSI DAYIN MITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>11-JUL-2018</td>
+			<td>1</td>
+			<td>ASDM</td>
+			<td>69</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 69,- (enam puluh sembilan Rupiah)</td>
+			<td>KSEI-20950/JKU/0618</td>
+			<td>21-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>206.</td>
+			<td>PANCA BUDI IDAMAN Tbk, PT</td>
+			<td>PBID</td>
+			<td>PANCA BUDI IDAMAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>11-JUL-2018</td>
+			<td>1</td>
+			<td>PBID</td>
+			<td>43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 43,- (empat puluh tiga Rupiah)</td>
+			<td>KSEI-20952/JKU/0618</td>
+			<td>21-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>207.</td>
+			<td>BARITO PACIFIC Tbk, PT</td>
+			<td>BRPT</td>
+			<td>BARITO PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>18-JUL-2018</td>
+			<td>1</td>
+			<td>BRPT</td>
+			<td>24.43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 24,43 (dua puluh empat Rupiah koma empat tiga)</td>
+			<td>KSEI-20956/JKU/0618</td>
+			<td>21-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>208.</td>
+			<td>SINAR MAS MULTIARTHA Tbk, PT</td>
+			<td>SMMA</td>
+			<td>SINAR MAS MULTIARTHA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>06-JUL-2018</td>
+			<td>1</td>
+			<td>SMMA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-20770/JKU/0618</td>
+			<td>20-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>209.</td>
+			<td>DUTA PERTIWI NUSANTARA Tbk, PT</td>
+			<td>DPNS</td>
+			<td>DUTA PERTIWI NUSANTARA</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2018</td>
+			<td>29-JUN-2018</td>
+			<td>20-JUL-2018</td>
+			<td>1</td>
+			<td>DPNS</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-21212/JKU/0618</td>
+			<td>22-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>210.</td>
+			<td>PT. RODA VIVATEX Tbk</td>
+			<td>RDTX</td>
+			<td>RODA VIVATEX Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>RDTX</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 55,- (lima puluh lima Rupiah).</td>
+			<td>KSEI-21701/JKU/0618</td>
+			<td>26-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>211.</td>
+			<td>PELANGI INDAH CANINDO Tbk, PT</td>
+			<td>PICO</td>
+			<td>PELANGI INDAH CANINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>PICO</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 2,- (dua Rupiah).</td>
+			<td>KSEI-21703/JKU/0618</td>
+			<td>26-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>212.</td>
+			<td>ATMINDO Tbk, PT</td>
+			<td>AMIN</td>
+			<td>ATELIERS MECANIQUES D`INDONESIE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2018</td>
+			<td>04-JUL-2018</td>
+			<td>20-JUL-2018</td>
+			<td>1</td>
+			<td>AMIN</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 8,- (delapan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>213.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2018</td>
+			<td>05-JUL-2018</td>
+			<td>25-JUL-2018</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 35,- (tiga puluh lima Rupiah).</td>
+			<td>KSEI-21952/JKU/0618</td>
+			<td>27-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>214.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2018</td>
+			<td>05-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>260</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 260,- (dua ratus enam puluh Rupiah).</td>
+			<td>KSEI-21699/JKU/0618</td>
+			<td>26-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>215.</td>
+			<td>JASUINDO TIGA PERKASA Tbk , PT</td>
+			<td>JTPE</td>
+			<td>JASUINDO TIGA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2018</td>
+			<td>05-JUL-2018</td>
+			<td>25-JUL-2018</td>
+			<td>1</td>
+			<td>JTPE</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 17,- (tujuh belas Rupiah).</td>
+			<td>KSEI-21934/JKU/0618</td>
+			<td>27-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>216.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2018</td>
+			<td>05-JUL-2018</td>
+			<td>12-JUL-2018</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td>KSEI-21948/JKU/0618</td>
+			<td>27-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>217.</td>
+			<td>GUDANG GARAM Tbk, PT</td>
+			<td>GGRM</td>
+			<td>GUDANG GARAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>GGRM</td>
+			<td>2600</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2.600,- (dua ribu enam ratus Rupiah)</td>
+			<td>KSEI-22140/JKU/0618</td>
+			<td>28-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>218.</td>
+			<td>ASURANSI BINTANG Tbk, PT</td>
+			<td>ASBI</td>
+			<td>ASURANSI BINTANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>ASBI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-22142/JKU/0618</td>
+			<td>28-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>219.</td>
+			<td>INDONESIAN PARADISE PROPERTY Tbk, PT</td>
+			<td>INPP</td>
+			<td>INDONESIAN PARADISE PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>INPP</td>
+			<td>1.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,50 (satu Rupiah koma lima nol).</td>
+			<td>KSEI-22286/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>220.</td>
+			<td>UNGGUL INDAH CAHAYA Tbk, PT</td>
+			<td>UNIC</td>
+			<td>UNGGUL INDAH CAHAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>UNIC</td>
+			<td>92</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 92,- (sembilan puluh dua Rupiah)</td>
+			<td>KSEI-22138/JKU/0618</td>
+			<td>28-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>221.</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk, PT</td>
+			<td>SRTG</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>SRTG</td>
+			<td>74</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 74,- (tujuh puluh empat Rupiah).</td>
+			<td>KSEI-21942/JKU/0618</td>
+			<td>27-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>222.</td>
+			<td>LIONMESH PRIMA Tbk, PT</td>
+			<td>LMSH</td>
+			<td>LIONMESH PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>LMSH</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-22134/JKU/0618</td>
+			<td>28-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>223.</td>
+			<td>INTERMEDIA CAPITAL Tbk. PT</td>
+			<td>MDIA</td>
+			<td>INTERMEDIA CAPITAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>06-AUG-2018</td>
+			<td>1</td>
+			<td>MDIA</td>
+			<td>2.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 2,80 (dua koma delapan nol Rupiah).</td>
+			<td>KSEI-22506/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>224.</td>
+			<td>PT. PAKUWON JATI Tbk</td>
+			<td>PWON</td>
+			<td>PAKUWON JATI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>PWON</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6 (enam Rupiah)</td>
+			<td>KSEI-22652/JKU/0718</td>
+			<td>03-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>225.</td>
+			<td>MEDIA NUSANTARA CITRA Tbk, PT</td>
+			<td>MNCN</td>
+			<td>MEDIA NUSANTARA CITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>25-JUL-2018</td>
+			<td>1</td>
+			<td>MNCN</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 15,- (lima belas Rupiah).</td>
+			<td>KSEI-22297/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>226.</td>
+			<td>LION METAL WORKS Tbk, PT</td>
+			<td>LION</td>
+			<td>LION METAL WORKS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2018</td>
+			<td>06-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>LION</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td>KSEI-22136/JKU/0618</td>
+			<td>28-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>227.</td>
+			<td>BANK YUDHA BHAKTI Tbk, PT</td>
+			<td>BBYB</td>
+			<td>BANK YUDHA BHAKTI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>BBYB</td>
+			<td>1.11</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 1,11 (satu Rupiah koma satu satu).</td>
+			<td>KSEI-22282/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>228.</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk, PT</td>
+			<td>SMAR</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>19-JUL-2018</td>
+			<td>1</td>
+			<td>SMAR</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 30,- (tiga puluh Rupiah).</td>
+			<td>KSEI-22277/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>229.</td>
+			<td>CAMPINA ICE CREAM INDUSTRY Tbk, PT</td>
+			<td>CAMP</td>
+			<td>CAMPINA ICE CREAM INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>CAMP</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 3,- (tiga Rupiah).</td>
+			<td>KSEI-22295/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>230.</td>
+			<td>PT INDAH KIAT PULP & PAPER Tbk</td>
+			<td>INKP</td>
+			<td>INDAH KIAT PULP AND PAPER Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>INKP</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 100,- (seratus Rupiah).</td>
+			<td>KSEI-22293/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>231.</td>
+			<td>SOECHI LINES Tbk, PT</td>
+			<td>SOCI</td>
+			<td>SOECHI LINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>26-JUL-2018</td>
+			<td>1</td>
+			<td>SOCI</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 2,- (dua Rupiah).</td>
+			<td>KSEI-22518/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>232.</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk, PT</td>
+			<td>TKIM</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>TKIM</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 30,- (tiga puluh Rupiah).</td>
+			<td>KSEI-22289/JKU/0618</td>
+			<td>29-JUN-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>233.</td>
+			<td>GLOBAL MEDIACOM Tbk, PT</td>
+			<td>BMTR</td>
+			<td>GLOBAL MEDIACOM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUL-2018</td>
+			<td>09-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>BMTR</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-22520/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>234.</td>
+			<td>RESOURCE ALAM INDONESIA Tbk, PT</td>
+			<td>KKGI</td>
+			<td>RESOURCE ALAM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>30-JUL-2018</td>
+			<td>1</td>
+			<td>KKGI</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 2,- (dua Rupiah).</td>
+			<td>KSEI-22516/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>235.</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk, PT</td>
+			<td>IMAS</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>01-AUG-2018</td>
+			<td>1</td>
+			<td>IMAS</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-22510/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>236.</td>
+			<td>MAHAKA RADIO INTEGRA Tbk, PT</td>
+			<td>MARI</td>
+			<td>MAHAKA RADIO INTEGRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>01-AUG-2018</td>
+			<td>1</td>
+			<td>MARI</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah).</td>
+			<td>KSEI-22502/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>237.</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk, PT</td>
+			<td>RUIS</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>01-AUG-2018</td>
+			<td>1</td>
+			<td>RUIS</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 5,- (lima Rupiah).</td>
+			<td>KSEI-22504/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>238.</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk, PT</td>
+			<td>CSAP</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>01-AUG-2018</td>
+			<td>1</td>
+			<td>CSAP</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td>KSEI-22514/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>239.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>27-JUL-2018</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>5.55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,55 (lima Rupiah koma lima puluh lima)</td>
+			<td>KSEI-22512/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>240.</td>
+			<td>KIRANA MEGATARA Tbk, PT</td>
+			<td>KMTR</td>
+			<td>KIRANA MEGATARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>18-JUL-2018</td>
+			<td>1</td>
+			<td>KMTR</td>
+			<td>17.27</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 17,27 (tujuh belas Rupiah koma dua tujuh)</td>
+			<td>KSEI-22650/JKU/0718</td>
+			<td>03-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>241.</td>
+			<td>SAMUDERA INDONESIA Tbk, PT</td>
+			<td>SMDR</td>
+			<td>SAMUDERA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>31-JUL-2018</td>
+			<td>1</td>
+			<td>SMDR</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>242.</td>
+			<td>INDOMOBIL MULTI JASA Tbk, PT</td>
+			<td>IMJS</td>
+			<td>INDOMOBIL MULTI JASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2018</td>
+			<td>10-JUL-2018</td>
+			<td>01-AUG-2018</td>
+			<td>1</td>
+			<td>IMJS</td>
+			<td>1.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,2 (satu Rupiah koma dua)</td>
+			<td>KSEI-22648/JKU/0718</td>
+			<td>03-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>243.</td>
+			<td>INDAL ALUMINIUM INDUSTRY Tbk, PT</td>
+			<td>INAI</td>
+			<td>INDAL ALUMINIUM INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2018</td>
+			<td>11-JUL-2018</td>
+			<td>02-AUG-2018</td>
+			<td>1</td>
+			<td>INAI</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td>KSEI-22644/JKU/0718</td>
+			<td>03-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>244.</td>
+			<td>BANK MASPION INDONESIA Tbk, PT</td>
+			<td>BMAS</td>
+			<td>BANK MASPION INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2018</td>
+			<td>11-JUL-2018</td>
+			<td>02-AUG-2018</td>
+			<td>1</td>
+			<td>BMAS</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-22642/JKU/0718</td>
+			<td>03-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>245.</td>
+			<td>CARDIG AERO SERVICES Tbk, PT</td>
+			<td>CASS</td>
+			<td>CARDIG AERO SERVICES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2018</td>
+			<td>11-JUL-2018</td>
+			<td>02-AUG-2018</td>
+			<td>1</td>
+			<td>CASS</td>
+			<td>15.65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,65 (lima belas Rupiah koma enam lima).</td>
+			<td>KSEI-22646/JKU/0718</td>
+			<td>03-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>246.</td>
+			<td>ULTRAJAYA MILK INDUSTRY & TRADING COMPANY Tbk, PT</td>
+			<td>ULTJ</td>
+			<td>ULTRAJAYA MILK INDUSTRY AND TRADING COMPANY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2018</td>
+			<td>11-JUL-2018</td>
+			<td>01-AUG-2018</td>
+			<td>1</td>
+			<td>ULTJ</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-22500/JKU/0718</td>
+			<td>02-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>247.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2018</td>
+			<td>16-JUL-2018</td>
+			<td>03-AUG-2018</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>120</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 120,- (seratus dua puluh Rupiah)</td>
+			<td>KSEI-22968/JKU/0718</td>
+			<td>05-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>248.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2018</td>
+			<td>16-JUL-2018</td>
+			<td>18-JUL-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.99</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,99 (satu Rupiah koma sembilan sembilan)</td>
+			<td>KSEI-22834/JKU/0718</td>
+			<td>04-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>249.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-AUG-2018</td>
+			<td>06-AUG-2018</td>
+			<td>21-AUG-2018</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.4603</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) unit kan memperoleh Rp 1,4603 (satu Rupiah koma empat enam  nol tiga).</td>
+			<td>KSEI-24198/JKU/0718</td>
+			<td>24-JUL-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>250.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-AUG-2018</td>
+			<td>10-AUG-2018</td>
+			<td>28-AUG-2018</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim  adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (Lima belas Rupiah)</td>
+			<td>KSEI-24656/JKU/0818</td>
+			<td>01-AUG-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>251.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-AUG-2018</td>
+			<td>16-AUG-2018</td>
+			<td>21-AUG-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.98</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,98 (satu Rupiah koma sembilan delapan)</td>
+			<td>KSEI-24967/JKU/0818</td>
+			<td>07-AUG-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>252.</td>
+			<td>PT. PROVIDENT AGRO Tbk</td>
+			<td>PALM</td>
+			<td>PROVIDENT AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-AUG-2018</td>
+			<td>27-AUG-2018</td>
+			<td>10-SEP-2018</td>
+			<td>1</td>
+			<td>PALM</td>
+			<td>36.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 36,5 (tiga puluh enam koma lima Rupiah)</td>
+			<td>KSEI-25455/JKU/0818</td>
+			<td>15-AUG-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>253.</td>
+			<td>JAPFA COMFEED INDONESIA Tbk, PT</td>
+			<td>JPFA</td>
+			<td>JAPFA COMFEED INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-SEP-2018</td>
+			<td>10-SEP-2018</td>
+			<td>24-SEP-2018</td>
+			<td>1</td>
+			<td>JPFA</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td>KSEI-26451/JKU/0818</td>
+			<td>31-AUG-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>254.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-SEP-2018</td>
+			<td>18-SEP-2018</td>
+			<td>20-SEP-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.98</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,98 (satu Rupiah koma sembilan delapan)</td>
+			<td>KSEI-26796/JKU/0918</td>
+			<td>06-SEP-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>255.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-SEP-2018</td>
+			<td>20-SEP-2018</td>
+			<td>27-SEP-2018</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>73</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Ketiga adalah setiap 1 (satu) saham akan memperoleh Rp 73,- (tujuh puluh tiga Rupiah).</td>
+			<td>KSEI-31501/JKU/1118</td>
+			<td>23-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>256.</td>
+			<td>SUMI INDO KABEL Tbk, PT</td>
+			<td>IKBI</td>
+			<td>SUMI INDO KABEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-SEP-2018</td>
+			<td>21-SEP-2018</td>
+			<td>10-OCT-2018</td>
+			<td>1</td>
+			<td>IKBI</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td>KSEI-27241/JKU/0918</td>
+			<td>13-SEP-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>257.</td>
+			<td>HEXINDO ADIPERKASA Tbk, PT</td>
+			<td>HEXA</td>
+			<td>HEXINDO ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-SEP-2018</td>
+			<td>28-SEP-2018</td>
+			<td>19-OCT-2018</td>
+			<td>1</td>
+			<td>HEXA</td>
+			<td>320.67</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham  akan memperoleh Rp320.67,- (tiga ratus dua puluh Rupiah koma enam tujuh).</td>
+			<td>KSEI-27713/JKU/0918</td>
+			<td>20-SEP-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>258.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2018</td>
+			<td>03-OCT-2018</td>
+			<td>24-OCT-2018</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>23.94</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 23,94 (dua puluh tiga Rupiah koma sembilan empat)</td>
+			<td>KSEI-27883/JKU/0918</td>
+			<td>24-SEP-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>259.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-OCT-2018</td>
+			<td>05-OCT-2018</td>
+			<td>19-OCT-2018</td>
+			<td>1000000</td>
+			<td>BSSR</td>
+			<td>151226829</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 151,226829 (seratus lima puluh satu Rupiah koma dua dua enam delapan dua sembilan)</td>
+			<td>KSEI-28153/JKU/0918</td>
+			<td>27-SEP-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>260.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-OCT-2018</td>
+			<td>05-OCT-2018</td>
+			<td>26-OCT-2018</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>37</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 37,-(tiga puluh tujuh Rupiah)</td>
+			<td>KSEI-28232/JKU/0918</td>
+			<td>28-SEP-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>261.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-OCT-2018</td>
+			<td>09-OCT-2018</td>
+			<td>31-OCT-2018</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 60,- (enam puluh Rupiah)</td>
+			<td>KSEI-28310/JKU/1018</td>
+			<td>01-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>262.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-OCT-2018</td>
+			<td>09-OCT-2018</td>
+			<td>19-OCT-2018</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>112</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 112,- (seratus dua belas Rupiah)</td>
+			<td>KSEI-28308/JKU/1018</td>
+			<td>01-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>263.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-OCT-2018</td>
+			<td>09-OCT-2018</td>
+			<td>22-OCT-2018</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>365</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 365,- (tiga ratus enam puluh lima Rupiah)</td>
+			<td>KSEI-28306/JKU/1018</td>
+			<td>01-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>264.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-OCT-2018</td>
+			<td>10-OCT-2018</td>
+			<td>22-OCT-2018</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td>KSEI-28397/JKU/1018</td>
+			<td>02-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>265.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-OCT-2018</td>
+			<td>11-OCT-2018</td>
+			<td>22-OCT-2018</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td>KSEI-28534/JKU/1018</td>
+			<td>03-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>266.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-OCT-2018</td>
+			<td>18-OCT-2018</td>
+			<td>22-OCT-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 2,00 (dua Rupiah)</td>
+			<td>KSEI-28748/JKU/1018</td>
+			<td>08-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>267.</td>
+			<td>MALINDO FEEDMILL Tbk, PT</td>
+			<td>MAIN</td>
+			<td>MALINDO FEEDMILL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-OCT-2018</td>
+			<td>22-OCT-2018</td>
+			<td>09-NOV-2018</td>
+			<td>1</td>
+			<td>MAIN</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 16,- (enam belas Rupiah)</td>
+			<td>KSEI-29025/JKU/1018</td>
+			<td>12-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>268.</td>
+			<td>UNGGUL INDAH CAHAYA Tbk, PT</td>
+			<td>UNIC</td>
+			<td>UNGGUL INDAH CAHAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-OCT-2018</td>
+			<td>02-NOV-2018</td>
+			<td>15-NOV-2018</td>
+			<td>1</td>
+			<td>UNIC</td>
+			<td>360</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 360,- (tiga ratus enam puluh Rupiah)</td>
+			<td>KSEI-29815/JKU/1018</td>
+			<td>26-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>269.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-OCT-2018</td>
+			<td>02-NOV-2018</td>
+			<td>16-NOV-2018</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>1420</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 1.420,-(seribu empat ratus dua puluh Rupiah)</td>
+			<td>KSEI-29659/JKU/1018</td>
+			<td>24-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>270.</td>
+			<td>CIKARANG LISTRINDO Tbk, PT</td>
+			<td>POWR</td>
+			<td>CIKARANG LISTRINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-OCT-2018</td>
+			<td>05-NOV-2018</td>
+			<td>23-NOV-2018</td>
+			<td>10000000</td>
+			<td>POWR</td>
+			<td>236104505</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham akan memperoleh dividen interim sebesar Rp 23,6104505 (dua puluh tiga Rupiah koma enam satu nol empat lima nol lima)</td>
+			<td>KSEI-29817/JKU/1018</td>
+			<td>26-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>271.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-NOV-2018</td>
+			<td>06-NOV-2018</td>
+			<td>21-NOV-2018</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.6144</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) unit kan memperoleh Rp 1,6144 (satu Rupiah koma enam satu empat empat).</td>
+			<td>KSEI-29657/JKU/1018</td>
+			<td>24-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>272.</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk, PT</td>
+			<td>SIDO</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-NOV-2018</td>
+			<td>06-NOV-2018</td>
+			<td>28-NOV-2018</td>
+			<td>1</td>
+			<td>SIDO</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah).</td>
+			<td>KSEI-29911/JKU/1018</td>
+			<td>29-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>273.</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk, PT</td>
+			<td>INDF</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-NOV-2018</td>
+			<td>08-NOV-2018</td>
+			<td>29-NOV-2018</td>
+			<td>1</td>
+			<td>INDF</td>
+			<td>65</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham akan mendapatkan dividen interim sebesar Rp 65,- (enam puluh lima Rupiah)</td>
+			<td>KSEI-30084/JKU/1018</td>
+			<td>31-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>274.</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk, PT</td>
+			<td>ICBP</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-NOV-2018</td>
+			<td>08-NOV-2018</td>
+			<td>28-NOV-2018</td>
+			<td>1</td>
+			<td>ICBP</td>
+			<td>58</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham akan mendapatkan dividen interim sebesar Rp 58,- (lima puluh delapan Rupiah)</td>
+			<td>KSEI-30081/JKU/1018</td>
+			<td>31-OCT-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>275.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-NOV-2018</td>
+			<td>09-NOV-2018</td>
+			<td>23-NOV-2018</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim a Ketiga dalah setiap 1 (satu) saham akan memperoleh Rp 15,- (Lima belas Rupiah)</td>
+			<td>KSEI-30167/JKU/1118</td>
+			<td>01-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>276.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-NOV-2018</td>
+			<td>13-NOV-2018</td>
+			<td>29-NOV-2018</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>47</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 47,- (empat puluh tujuh Rupiah)</td>
+			<td>KSEI-30235/JKU/1118</td>
+			<td>02-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>277.</td>
+			<td>PELITA SAMUDERA SHIPPING Tbk, PT</td>
+			<td>PSSI</td>
+			<td>PELITA SAMUDERA SHIPPING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-NOV-2018</td>
+			<td>13-NOV-2018</td>
+			<td>30-NOV-2018</td>
+			<td>1</td>
+			<td>PSSI</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 5,-(lima Rupiah)</td>
+			<td>KSEI-30298/JKU/1118</td>
+			<td>05-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>278.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-NOV-2018</td>
+			<td>14-NOV-2018</td>
+			<td>04-DEC-2018</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 8 (delapan Rupiah).</td>
+			<td>KSEI-30366/JKU/1118</td>
+			<td>06-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>279.</td>
+			<td>FAJAR SURYA WISESA Tbk, PT</td>
+			<td>FASW</td>
+			<td>FAJAR SURYA WISESA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-NOV-2018</td>
+			<td>19-NOV-2018</td>
+			<td>04-DEC-2018</td>
+			<td>1</td>
+			<td>FASW</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-30628/JKU/1118</td>
+			<td>09-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>280.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-NOV-2018</td>
+			<td>19-NOV-2018</td>
+			<td>26-NOV-2018</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>173</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Keempat adalah setiap 1 (satu) saham akan memperoleh Rp 173,- (seratus tujuh puluh tiga Rupiah).</td>
+			<td>KSEI-31495/JKU/1118</td>
+			<td>23-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>281.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-NOV-2018</td>
+			<td>21-NOV-2018</td>
+			<td>23-NOV-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.98</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 unit akan memperoleh Rp 1,98 (satu Rupiah koma sembilan delapan)</td>
+			<td>KSEI-30489/JKU/1118</td>
+			<td>07-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>282.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-NOV-2018</td>
+			<td>21-NOV-2018</td>
+			<td>05-DEC-2018</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>410</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 410,- (empat ratus sepuluh Rupiah).</td>
+			<td>KSEI-30799/JKU/1118</td>
+			<td>13-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>283.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-NOV-2018</td>
+			<td>21-NOV-2018</td>
+			<td>12-DEC-2018</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-30801/JKU/1118</td>
+			<td>13-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>284.</td>
+			<td>SURYA PERTIWI Tbk, PT</td>
+			<td>SPTO</td>
+			<td>SURYA PERTIWI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-NOV-2018</td>
+			<td>22-NOV-2018</td>
+			<td>12-DEC-2018</td>
+			<td>1</td>
+			<td>SPTO</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td>KSEI-30803/JKU/1118</td>
+			<td>13-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>285.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA STATE-OWNED COMPANIES</td>
+			<td>XISC</td>
+			<td>RD PREMIER ETF INDONESIA STATE-OWNED COMPANIES</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-NOV-2018</td>
+			<td>23-NOV-2018</td>
+			<td>27-NOV-2018</td>
+			<td>1</td>
+			<td>XISC</td>
+			<td>13.38</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 13,38 (tiga belas Rupiah koma tiga delapan)</td>
+			<td>KSEI-31497/JKU/1118</td>
+			<td>23-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>286.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-NOV-2018</td>
+			<td>23-NOV-2018</td>
+			<td>30-NOV-2018</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 200,- (dua ratus Rupiah)</td>
+			<td>KSEI-30905/JKU/1118</td>
+			<td>14-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>287.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA STATE-OWNED COMPANIES</td>
+			<td>XISC</td>
+			<td>RD PREMIER ETF INDONESIA STATE-OWNED COMPANIES</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-NOV-2018</td>
+			<td>23-NOV-2018</td>
+			<td>27-NOV-2018</td>
+			<td>1</td>
+			<td>XISC</td>
+			<td>13.38</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 13,38 (tiga belas Rupiah koma tiga delapan)</td>
+			<td>KSEI-31499/JKU/1118</td>
+			<td>23-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>288.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-NOV-2018</td>
+			<td>04-DEC-2018</td>
+			<td>21-DEC-2018</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 85,- (delapan puluh lima Rupiah)</td>
+			<td>KSEI-31557/JKU/1118</td>
+			<td>26-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>289.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-NOV-2018</td>
+			<td>04-DEC-2018</td>
+			<td>07-DEC-2018</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>240</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 240,- (dua ratus empat puluh Rupiah).</td>
+			<td>KSEI-31473/JKU/1118</td>
+			<td>23-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>290.</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk, PT</td>
+			<td>AMRT</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-DEC-2018</td>
+			<td>05-DEC-2018</td>
+			<td>14-DEC-2018</td>
+			<td>1</td>
+			<td>AMRT</td>
+			<td>3.6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 3,60 (tiga koma enam nol Rupiah ).</td>
+			<td>KSEI-31555/JKU/1118</td>
+			<td>26-NOV-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>291.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-DEC-2018</td>
+			<td>12-DEC-2018</td>
+			<td>28-DEC-2018</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim  adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td>KSEI-32127/JKU/1218</td>
+			<td>04-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>292.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-DEC-2018</td>
+			<td>13-DEC-2018</td>
+			<td>21-DEC-2018</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>8.71</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 8,71 (delapan Rupiah koma tujuh satu)</td>
+			<td>KSEI-32232/JKU/1218</td>
+			<td>05-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>293.</td>
+			<td>INDIKA ENERGY Tbk, PT</td>
+			<td>INDY</td>
+			<td>INDIKA ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-DEC-2018</td>
+			<td>13-DEC-2018</td>
+			<td>28-DEC-2018</td>
+			<td>1</td>
+			<td>INDY</td>
+			<td>54.43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim  ialah setiap 1 (satu) lembar saham akan mendapatkan Rp 54.43 (lima puluh empat koma empat tiga Rupiah)</td>
+			<td>KSEI-32230/JKU/1218</td>
+			<td>05-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>294.</td>
+			<td>BARITO PACIFIC Tbk, PT</td>
+			<td>BRPT</td>
+			<td>BARITO PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-DEC-2018</td>
+			<td>18-DEC-2018</td>
+			<td>21-DEC-2018</td>
+			<td>1</td>
+			<td>BRPT</td>
+			<td>14.13</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim  ialah setiap 1 (satu) saham akan memperoleh Rp 14,13 (empat belas Rupiah koma satu tiga)</td>
+			<td>KSEI-32426/JKU/1218</td>
+			<td>07-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>295.</td>
+			<td>SARANA MENARA NUSANTARA Tbk, PT</td>
+			<td>TOWR</td>
+			<td>SARANA MENARA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-DEC-2018</td>
+			<td>18-DEC-2018</td>
+			<td>21-DEC-2018</td>
+			<td>1</td>
+			<td>TOWR</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah setiap 1 (satu) saham akan memperoleh Rp 6 (enam Rupiah)</td>
+			<td>KSEI-32518/JKU/1218</td>
+			<td>10-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>296.</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>XISB</td>
+			<td>REKSA DANA PREMIER ETF INDONESIA SOVEREIGN BONDS</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-DEC-2018</td>
+			<td>19-DEC-2018</td>
+			<td>26-DEC-2018</td>
+			<td>1</td>
+			<td>XISB</td>
+			<td>1.92</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Final adalah setiap 1 unit akan memperoleh Rp 1,92 (satu Rupiah koma sembilan dua)</td>
+			<td>KSEI-32522/JKU/1218</td>
+			<td>10-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>297.</td>
+			<td>JASUINDO TIGA PERKASA Tbk , PT</td>
+			<td>JTPE</td>
+			<td>JASUINDO TIGA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-DEC-2018</td>
+			<td>20-DEC-2018</td>
+			<td>08-JAN-2019</td>
+			<td>1</td>
+			<td>JTPE</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah).</td>
+			<td>KSEI-32596/JKU/1218</td>
+			<td>11-DEC-2018</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>298.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-DEC-2018</td>
+			<td>21-DEC-2018</td>
+			<td>28-DEC-2018</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>67</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Kelima adalah setiap 1 (satu) saham akan memperoleh Rp 67,- (enam puluh tujuh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>299.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-DEC-2018</td>
+			<td>26-DEC-2018</td>
+			<td>28-DEC-2018</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>2565</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 2.565,- (dua ribu lima ratus enam puluh lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		</table>	</body>
+</html>

@@ -1,0 +1,3138 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+		xmlns:x="urn:schemas-microsoft-com:office:excel" 
+		xmlns="http://www.w3.org/TR/REC-html40">
+	<HEAD>
+		<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; charset=ISO-8859-1"> 
+		<STYLE type=text/css>
+			table tr#header td{font-weight: bold;} 
+			table tr#isi td#rdCode{text-align: left;} 
+			table tr#isi td{vertical-align: top;} 
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=1>
+			<TR id=header align ='center'>
+				<TD colspan='12'><font size='+1' color=red>Schedule of Cash Dividend  Recording Date Year 2010</font></TD>
+			</TR>
+			<TR id=header>
+				<TD>No.</TD>
+				<TD>Issuer</TD>
+				<TD>Security Code</TD>
+				<TD>Security Name</TD>
+				<TD>Type of CA</TD>
+				<TD>Cum Date</TD>
+				<TD>Recording Date</TD>
+				<TD>Distribution Date</TD>
+				<TD>Exercise Ratio</TD>
+				<TD>Exercise Intrument</TD>
+				<TD>Proceed Ratio</TD>
+				<TD>Proceed Instrument</TD>
+				<TD>Description</TD>
+			</TR>
+		<tr id=isi>
+			<td align='center'>1.</td>
+			<td>ELNUSA Tbk, PT</td>
+			<td>ELSA</td>
+			<td>ELNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JAN-2010</td>
+			<td>12-JAN-2010</td>
+			<td>26-JAN-2010</td>
+			<td>1</td>
+			<td>ELSA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>2.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JAN-2010</td>
+			<td>15-JAN-2010</td>
+			<td>29-JAN-2010</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>57</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 57,- (Lima Puluh Tujuh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>3.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-FEB-2010</td>
+			<td>11-FEB-2010</td>
+			<td>25-FEB-2010</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>150</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 150,- (Seratus Lima Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>4.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-APR-2010</td>
+			<td>14-APR-2010</td>
+			<td>28-APR-2010</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 50,- (Lima Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>5.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2010</td>
+			<td>30-APR-2010</td>
+			<td>17-MAY-2010</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>1339</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1.339,- (Seribu Tiga Ratus Tiga Puluh Sembilan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>6.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2010</td>
+			<td>03-MAY-2010</td>
+			<td>12-MAY-2010</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>180</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 180,- (seratus delapan puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>7.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-APR-2010</td>
+			<td>04-MAY-2010</td>
+			<td>19-MAY-2010</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>1286</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1.286,- (Seribu Dua ratus Delapan Puluh Enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>8.</td>
+			<td>PELAT TIMAH NUSANTARA Tbk, PT</td>
+			<td>NIKL</td>
+			<td>PELAT TIMAH NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2010</td>
+			<td>05-MAY-2010</td>
+			<td>20-MAY-2010</td>
+			<td>1</td>
+			<td>NIKL</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 6,- (Enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>9.</td>
+			<td>GOZCO PLANTATIONS Tbk, PT</td>
+			<td>GZCO</td>
+			<td>GOZCO PLANTATIONS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2010</td>
+			<td>05-MAY-2010</td>
+			<td>12-MAY-2010</td>
+			<td>1</td>
+			<td>GZCO</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 12,- (Dua Belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>10.</td>
+			<td>BANK BUKOPIN Tbk, PT</td>
+			<td>BBKP</td>
+			<td>BANK BUKOPIN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2010</td>
+			<td>17-MAY-2010</td>
+			<td>01-JUN-2010</td>
+			<td>1</td>
+			<td>BBKP</td>
+			<td>30.1415</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30,1415 (Tiga Puluh Rupiah koma Satu Empat Satu Lima Sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>11.</td>
+			<td>MANDOM INDONESIA Tbk, PT</td>
+			<td>TCID</td>
+			<td>MANDOM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2010</td>
+			<td>18-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>1</td>
+			<td>TCID</td>
+			<td>320</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 320,- (Tiga Ratus Dua Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>12.</td>
+			<td>METROPOLITAN KENTJANA Tbk. PT</td>
+			<td>MKPI</td>
+			<td>METROPOLITAN KENTJANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2010</td>
+			<td>18-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>1</td>
+			<td>MKPI</td>
+			<td>110</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 110,- (Seratus Sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>13.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2010</td>
+			<td>20-MAY-2010</td>
+			<td>04-JUN-2010</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>78</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 78,- (Tujuh Puluh Delapan Rupiah</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>14.</td>
+			<td>JASA ANGKASA SEMESTA Tbk, PT</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2010</td>
+			<td>21-MAY-2010</td>
+			<td>27-MAY-2010</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>151</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 151,- (Seratus Lima Puluh Satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>15.</td>
+			<td>GOODYEAR INDONESIA Tbk, PT</td>
+			<td>GDYR</td>
+			<td>GOODYEAR INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2010</td>
+			<td>25-MAY-2010</td>
+			<td>09-JUN-2010</td>
+			<td>1</td>
+			<td>GDYR</td>
+			<td>225</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 225,- (Dua Ratus Dua Puluh Lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>16.</td>
+			<td>BANK DANAMON Tbk , PT</td>
+			<td>BDMN</td>
+			<td>BANK DANAMON INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2010</td>
+			<td>26-MAY-2010</td>
+			<td>10-JUN-2010</td>
+			<td>1</td>
+			<td>BDMN</td>
+			<td>91.12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 91,12 (sembilan puluh satu Rupiah koma duabelas sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>17.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2010</td>
+			<td>31-MAY-2010</td>
+			<td>14-JUN-2010</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>18.</td>
+			<td>SORINI AGRO ASIA CORPORINDO Tbk, PT</td>
+			<td>SOBI</td>
+			<td>SORINI AGRO ASIA CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2010</td>
+			<td>31-MAY-2010</td>
+			<td>14-JUN-2010</td>
+			<td>1</td>
+			<td>SOBI</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 55,- (lima puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>19.</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) PT, Tbk</td>
+			<td>PTBA</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2010</td>
+			<td>01-JUN-2010</td>
+			<td>15-JUN-2010</td>
+			<td>1</td>
+			<td>PTBA</td>
+			<td>466.65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 466,65 (Empat Ratus Enam Puluh Enam Rupiah koma Enam Lima Sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>20.</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk, PT</td>
+			<td>JSPT</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2010</td>
+			<td>01-JUN-2010</td>
+			<td>15-JUN-2010</td>
+			<td>1</td>
+			<td>JSPT</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>21.</td>
+			<td>TRIAS SENTOSA Tbk, PT</td>
+			<td>TRST</td>
+			<td>TRIAS SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2010</td>
+			<td>01-JUN-2010</td>
+			<td>15-JUN-2010</td>
+			<td>1</td>
+			<td>TRST</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>22.</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk, PT</td>
+			<td>ADMF</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>16-JUN-2010</td>
+			<td>1</td>
+			<td>ADMF</td>
+			<td>242.48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 242,48 (Dua Ratus Empat Puluh Dua Rupiah koma Empat Puluh Delapan Sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>23.</td>
+			<td>ACE HARDWARE INDONESIA Tbk, PT</td>
+			<td>ACES</td>
+			<td>ACE HARDWARE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>16-JUN-2010</td>
+			<td>1</td>
+			<td>ACES</td>
+			<td>9.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 9,2,- (sembilan Rupiah koma dua)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>24.</td>
+			<td>FAJAR SURYA WISESA Tbk, PT</td>
+			<td>FASW</td>
+			<td>FAJAR SURYA WISESA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>16-JUN-2010</td>
+			<td>1</td>
+			<td>FASW</td>
+			<td>23</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 23,- (dua puluh tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>25.</td>
+			<td>SUMMARECON AGUNG Tbk, PT</td>
+			<td>SMRA</td>
+			<td>SUMMARECON AGUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>15-JUN-2010</td>
+			<td>1</td>
+			<td>SMRA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 8 (delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>26.</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk, PT</td>
+			<td>WIKA</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2010</td>
+			<td>02-JUN-2010</td>
+			<td>16-JUN-2010</td>
+			<td>1</td>
+			<td>WIKA</td>
+			<td>10.0182</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 10,0182,- (sepuluh Rupiah koma nol satu delapan dua)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>27.</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk, PT</td>
+			<td>PJAA</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2010</td>
+			<td>03-JUN-2010</td>
+			<td>17-JUN-2010</td>
+			<td>1</td>
+			<td>PJAA</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 40 (Empat Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>28.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2010</td>
+			<td>03-JUN-2010</td>
+			<td>17-JUN-2010</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 70,- (tujuh puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>29.</td>
+			<td>DELTA DJAKARTA Tbk, PT</td>
+			<td>DLTA</td>
+			<td>DELTA DJAKARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2010</td>
+			<td>04-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>1</td>
+			<td>DLTA</td>
+			<td>9500</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 9.500,- (Sembilan ribu lima ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>30.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2010</td>
+			<td>04-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 16 (enam belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>31.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2010</td>
+			<td>07-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 17 (Tujuh Belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>32.</td>
+			<td>INTRACO PENTA Tbk, PT</td>
+			<td>INTA</td>
+			<td>INTRACO PENTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2010</td>
+			<td>07-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>1</td>
+			<td>INTA</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30 (tiga puluh  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>33.</td>
+			<td>TIGARAKSA SATRIA Tbk , PT</td>
+			<td>TGKA</td>
+			<td>TIGARAKSA SATRIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2010</td>
+			<td>07-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>1</td>
+			<td>TGKA</td>
+			<td>39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 39 (tiga puluh sembilan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>34.</td>
+			<td>PT TRIKOMSEL OKE TBK</td>
+			<td>TRIO</td>
+			<td>TRIKOMSEL OKE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2010</td>
+			<td>07-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>1</td>
+			<td>TRIO</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 8 (delapn Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>35.</td>
+			<td>YANAPRIMA HASTAPERSADA Tbk, PT</td>
+			<td>YPAS</td>
+			<td>YANAPRIMA HASTAPERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2010</td>
+			<td>10-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>1</td>
+			<td>YPAS</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>36.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2010</td>
+			<td>10-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 16,- (enam belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>37.</td>
+			<td>BANK HIMPUNAN SAUDARA 1906 Tbk, PT</td>
+			<td>SDRA</td>
+			<td>BANK HIMPUNAN SAUDARA 1906 Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2010</td>
+			<td>11-JUN-2010</td>
+			<td>25-JUN-2010</td>
+			<td>1</td>
+			<td>SDRA</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 6,- (Enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>38.</td>
+			<td>INDIKA ENERGY Tbk, PT</td>
+			<td>INDY</td>
+			<td>INDIKA ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2010</td>
+			<td>11-JUN-2010</td>
+			<td>25-JUN-2010</td>
+			<td>1</td>
+			<td>INDY</td>
+			<td>69.68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 69,68 (enam puluh sembilan Rupiah koma enam puluh delapan sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>39.</td>
+			<td>BANK NEGARA INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBNI</td>
+			<td>BANK NEGARA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2010</td>
+			<td>11-JUN-2010</td>
+			<td>25-JUN-2010</td>
+			<td>1</td>
+			<td>BBNI</td>
+			<td>47.48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 47,48 (empat puluh tujuh Rupiah koma empat puluh delapan sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>40.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2010</td>
+			<td>11-JUN-2010</td>
+			<td>25-JUN-2010</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>465</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 465,- (Empat Ratus Enam Puluh Lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>41.</td>
+			<td>MULTIPOLAR Tbk, PT</td>
+			<td>MLPL</td>
+			<td>MULTIPOLAR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2010</td>
+			<td>14-JUN-2010</td>
+			<td>28-JUN-2010</td>
+			<td>1</td>
+			<td>MLPL</td>
+			<td>2.15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,15  (dua koma lima belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>42.</td>
+			<td>BAKRIELAND DEVELOPMENT Tbk, PT</td>
+			<td>ELTY</td>
+			<td>BAKRIELAND DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2010</td>
+			<td>14-JUN-2010</td>
+			<td>28-JUN-2010</td>
+			<td>1</td>
+			<td>ELTY</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>43.</td>
+			<td>TOTAL BANGUN PERSADA Tbk, PT</td>
+			<td>TOTL</td>
+			<td>TOTAL BANGUN PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2010</td>
+			<td>14-JUN-2010</td>
+			<td>28-JUN-2010</td>
+			<td>1</td>
+			<td>TOTL</td>
+			<td>7.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 7,5  (tujuh setengah Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>44.</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk, PT</td>
+			<td>BMRI</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2010</td>
+			<td>14-JUN-2010</td>
+			<td>28-JUN-2010</td>
+			<td>1</td>
+			<td>BMRI</td>
+			<td>100.10841</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 100,10841</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>45.</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO), PT</td>
+			<td>BBTN</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2010</td>
+			<td>15-JUN-2010</td>
+			<td>29-JUN-2010</td>
+			<td>1</td>
+			<td>BBTN</td>
+			<td>15.09397</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 15, 09397 (lima belas Rupiah koma nol sembilan tiga sembilan tujuh)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>46.</td>
+			<td>ASIA KAPITALINDO SECURITIES Tbk, PT</td>
+			<td>AKSI</td>
+			<td>ASIA KAPITALINDO SECURITIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2010</td>
+			<td>15-JUN-2010</td>
+			<td>29-JUN-2010</td>
+			<td>1</td>
+			<td>AKSI</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 3 (tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>47.</td>
+			<td>EKADHARMA INTERNATIONAL Tbk, PT</td>
+			<td>EKAD</td>
+			<td>EKADHARMA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUN-2010</td>
+			<td>16-JUN-2010</td>
+			<td>30-JUN-2010</td>
+			<td>1</td>
+			<td>EKAD</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai  adalah setiap 1 Saham akan memperoleh Rp 3,-  (tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>48.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2010</td>
+			<td>17-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>330</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 330,- (tiga ratus tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>49.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2010</td>
+			<td>17-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 14,- (empat belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>50.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2010</td>
+			<td>17-JUN-2010</td>
+			<td>30-JUN-2010</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>478</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 478,-  (empat ratus tujuh puluh delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>51.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>29-JUN-2010</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 2,-  (dua Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>52.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>29-JUN-2010</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>53.</td>
+			<td>PETROSEA Tbk, PT</td>
+			<td>PTRO</td>
+			<td>PETROSEA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>1</td>
+			<td>PTRO</td>
+			<td>143.03</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 143,03 (seratus empat puluh tiga koma nol tiga Rupiah )</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>54.</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk, PT</td>
+			<td>IGAR</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>02-JUL-2010</td>
+			<td>1</td>
+			<td>IGAR</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 3,- ( tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>55.</td>
+			<td>BUDI ACID JAYA Tbk, PT</td>
+			<td>BUDI</td>
+			<td>BUDI ACID JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2010</td>
+			<td>18-JUN-2010</td>
+			<td>29-JUN-2010</td>
+			<td>1</td>
+			<td>BUDI</td>
+			<td>9.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh  Rp 9,7 (sembilan Rupiah koma tujuh)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>56.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>170</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 170,- (seratus tujuh puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>57.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>830</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 830,- (delapan ratus tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>58.</td>
+			<td>METRODATA ELECTRONICS Tbk, PT</td>
+			<td>MTDL</td>
+			<td>METRODATA ELECTRONICS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>1</td>
+			<td>MTDL</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>59.</td>
+			<td>LION METAL WORKS Tbk, PT</td>
+			<td>LION</td>
+			<td>LION METAL WORKS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>1</td>
+			<td>LION</td>
+			<td>125</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 125,-  (seratus dua puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>60.</td>
+			<td>LIONMESH PRIMA Tbk, PT</td>
+			<td>LMSH</td>
+			<td>LIONMESH PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2010</td>
+			<td>21-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>1</td>
+			<td>LMSH</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>61.</td>
+			<td>ASURANSI RAMAYANA Tbk, PT</td>
+			<td>ASRM</td>
+			<td>ASURANSI RAMAYANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2010</td>
+			<td>22-JUN-2010</td>
+			<td>06-JUL-2010</td>
+			<td>1</td>
+			<td>ASRM</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 70,- (tujuh puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>62.</td>
+			<td>PP. LONDON SUMATRA INDONESIA Tbk, PT</td>
+			<td>LSIP</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2010</td>
+			<td>22-JUN-2010</td>
+			<td>06-JUL-2010</td>
+			<td>1</td>
+			<td>LSIP</td>
+			<td>209</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 209,- (dua ratus sembilan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>63.</td>
+			<td>MASKAPAI REASURANSI Tbk, PT</td>
+			<td>MREI</td>
+			<td>MASKAPAI REASURANSI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2010</td>
+			<td>22-JUN-2010</td>
+			<td>06-JUL-2010</td>
+			<td>1</td>
+			<td>MREI</td>
+			<td>18</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 18,- (delapan  belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>64.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2010</td>
+			<td>22-JUN-2010</td>
+			<td>06-JUL-2010</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>3650</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 3.650,- (tiga ribu enam ratus lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>65.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2010</td>
+			<td>22-JUN-2010</td>
+			<td>28-JUN-2010</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>180</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim II akan memperoleh Rp. 180,- (seratus delapan puluh Rupiah) per lembar saham.</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>66.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBB</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI B</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>SQBB</td>
+			<td>8500</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 8.500,- (delapan ribu lima ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>67.</td>
+			<td>ANCORA INDONESIA RESOURCES Tbk</td>
+			<td>OKAS</td>
+			<td>ANCORA INDONESIA RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>OKAS</td>
+			<td>0.53</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 0,53  (nol koma lima puluh tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>68.</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk, PT</td>
+			<td>RALS</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>RALS</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>69.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBI</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI A</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>SQBI</td>
+			<td>8500</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 8.500,- (delapan ribu lima ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>70.</td>
+			<td>SUMI INDO KABEL Tbk, PT</td>
+			<td>IKBI</td>
+			<td>SUMI INDO KABEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>IKBI</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 14,- (empat belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>71.</td>
+			<td>GAJAH TUNGGAL Tbk, PT</td>
+			<td>GJTL</td>
+			<td>GAJAH TUNGGAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>GJTL</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>72.</td>
+			<td>JAYA REAL PROPERTY Tbk, PT</td>
+			<td>JRPT</td>
+			<td>JAYA REAL PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2010</td>
+			<td>23-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>JRPT</td>
+			<td>24</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 24,-  (duapuluh empat Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>73.</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk, PT</td>
+			<td>INTP</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2010</td>
+			<td>24-JUN-2010</td>
+			<td>07-JUL-2010</td>
+			<td>1</td>
+			<td>INTP</td>
+			<td>225</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 225 (dua ratus dua puluh lima  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>74.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2010</td>
+			<td>24-JUN-2010</td>
+			<td>08-JUL-2010</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>12.6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 12,6 (dua belas Rupiah koma enam)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>75.</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk, PT</td>
+			<td>CPIN</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2010</td>
+			<td>25-JUN-2010</td>
+			<td>09-JUL-2010</td>
+			<td>1</td>
+			<td>CPIN</td>
+			<td>196</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 196,- (seratus sembilan puluh enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>76.</td>
+			<td>ASURANSI HARTA AMAN PRATAMA Tbk, PT</td>
+			<td>AHAP</td>
+			<td>ASURANSI HARTA AMAN PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2010</td>
+			<td>25-JUN-2010</td>
+			<td>09-JUL-2010</td>
+			<td>1</td>
+			<td>AHAP</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 7,-  (tujuh  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>77.</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk, PT</td>
+			<td>RUIS</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2010</td>
+			<td>28-JUN-2010</td>
+			<td>12-JUL-2010</td>
+			<td>1</td>
+			<td>RUIS</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 12,-  (dua belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>78.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2010</td>
+			<td>30-JUN-2010</td>
+			<td>13-JUL-2010</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>1200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1.200,- (seribu dua ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>79.</td>
+			<td>SINAR MAS MULTIARTHA Tbk, PT</td>
+			<td>SMMA</td>
+			<td>SINAR MAS MULTIARTHA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2010</td>
+			<td>30-JUN-2010</td>
+			<td>14-JUL-2010</td>
+			<td>1</td>
+			<td>SMMA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>80.</td>
+			<td>UNGGUL INDAH CAHAYA Tbk, PT</td>
+			<td>UNIC</td>
+			<td>UNGGUL INDAH CAHAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2010</td>
+			<td>30-JUN-2010</td>
+			<td>14-JUL-2010</td>
+			<td>1</td>
+			<td>UNIC</td>
+			<td>48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 48,-  (empat puluh delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>81.</td>
+			<td>LAUTAN LUAS Tbk, PT</td>
+			<td>LTLS</td>
+			<td>LAUTAN LUAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>1</td>
+			<td>LTLS</td>
+			<td>34</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 34,- (tiga puluh empat Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>82.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>1</td>
+			<td>BBRI</td>
+			<td>132.08</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 132,08 (seratus tiga puluh dua Rupiah koma nol delapan)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>83.</td>
+			<td>TEMBAGA MULIA SEMANAN Tbk, PT</td>
+			<td>TBMS</td>
+			<td>TEMBAGA MULIA SEMANAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>1</td>
+			<td>TBMS</td>
+			<td>700</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 700,- (tujuh ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>84.</td>
+			<td>ANEKA TAMBANG Tbk, PT</td>
+			<td>ANTM</td>
+			<td>ANEKA TAMBANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>1</td>
+			<td>ANTM</td>
+			<td>25.383</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,3830  (dua puluh lima koma tiga delapan tiga nol Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>85.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>13-JUL-2010</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>299</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 299,- (dua ratus sembilan puluh sembilan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>86.</td>
+			<td>JASA MARGA ( PERSERO) Tbk, PT</td>
+			<td>JSMR</td>
+			<td>JASA MARGA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>1</td>
+			<td>JSMR</td>
+			<td>87.9076</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 87,9076  (delapan puluh tujuh Rupiah koma sembilan nol tujuh enam)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>87.</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk, PT</td>
+			<td>AMRT</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>1</td>
+			<td>AMRT</td>
+			<td>13.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 13,5  (tigabelas koma lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>88.</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk, PT</td>
+			<td>JKON</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2010</td>
+			<td>01-JUL-2010</td>
+			<td>14-JUL-2010</td>
+			<td>1</td>
+			<td>JKON</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 14,- (empat belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>89.</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMM Tbk, PT</td>
+			<td>SCCO</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMMERCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2010</td>
+			<td>02-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>1</td>
+			<td>SCCO</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>90.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2010</td>
+			<td>02-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>1070</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1.070,-  (seribu tujuh puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>91.</td>
+			<td>PT. SAMPOERNA AGRO, Tbk</td>
+			<td>SGRO</td>
+			<td>SAMPOERNA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2010</td>
+			<td>02-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>1</td>
+			<td>SGRO</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 45,-  (empat puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>92.</td>
+			<td>BANK BUMI ARTA Tbk, PT</td>
+			<td>BNBA</td>
+			<td>BANK BUMI ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>1</td>
+			<td>BNBA</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 3,-  (tiga  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>93.</td>
+			<td>PT SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk (PT. SMART Tbk)</td>
+			<td>SMAR</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>19-JUL-2010</td>
+			<td>1</td>
+			<td>SMAR</td>
+			<td>75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 75,- (tujuh puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>94.</td>
+			<td>JASUINDO TIGA PERKASA Tbk , PT</td>
+			<td>JTPE</td>
+			<td>JASUINDO TIGA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>19-JUL-2010</td>
+			<td>1</td>
+			<td>JTPE</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30,-  (tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>95.</td>
+			<td>ADHI KARYA (PERSERO) Tbk, PT</td>
+			<td>ADHI</td>
+			<td>ADHI KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2010</td>
+			<td>05-JUL-2010</td>
+			<td>19-JUL-2010</td>
+			<td>1</td>
+			<td>ADHI</td>
+			<td>28.2598</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 28, 2598 (dua puluh delapan Rupiah koma dua lima sembilan delapan)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>96.</td>
+			<td>BUMI SERPONG DAMAI Tbk, PT</td>
+			<td>BSDE</td>
+			<td>BUMI SERPONG DAMAI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2010</td>
+			<td>06-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>1</td>
+			<td>BSDE</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 6,-  (enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>97.</td>
+			<td>POOL ADVISTA INDONESIA Tbk, PT</td>
+			<td>POOL</td>
+			<td>POOL ADVISTA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2010</td>
+			<td>06-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>1</td>
+			<td>POOL</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 70,-  (tujuh puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>98.</td>
+			<td>JAPFA COMFEED INDONESIA Tbk, PT</td>
+			<td>JPFA</td>
+			<td>JAPFA COMFEED INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2010</td>
+			<td>06-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>1</td>
+			<td>JPFA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 5,-  (lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>99.</td>
+			<td>MUSTIKA RATU Tbk, PT</td>
+			<td>MRAT</td>
+			<td>MUSTIKA RATU Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2010</td>
+			<td>06-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>1</td>
+			<td>MRAT</td>
+			<td>9.82</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 9,82 (sembilan Rupiah koma delapan puluh dua sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>100.</td>
+			<td>MULTIBREEDER ADIRAMA INDONESIA Tbk, PT</td>
+			<td>MBAI</td>
+			<td>MULTIBREEDER ADIRAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2010</td>
+			<td>06-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>1</td>
+			<td>MBAI</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 5,-  (lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>101.</td>
+			<td>DUTA GRAHA INDAH Tbk, PT</td>
+			<td>DGIK</td>
+			<td>DUTA GRAHA INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2010</td>
+			<td>07-JUL-2010</td>
+			<td>21-JUL-2010</td>
+			<td>1</td>
+			<td>DGIK</td>
+			<td>2.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh kurang lebih Rp 2,50 (dua Rupiah koma lima nol sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>102.</td>
+			<td>PANORAMA TRANSPORTASI Tbk, PT</td>
+			<td>WEHA</td>
+			<td>PANORAMA TRANSPORTASI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2010</td>
+			<td>08-JUL-2010</td>
+			<td>21-JUL-2010</td>
+			<td>1</td>
+			<td>WEHA</td>
+			<td>2.35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,35 (Dua Rupiah koma Tiga Puluh Lima Sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>103.</td>
+			<td>ASURANSI BINA DANA ARTA Tbk, PT</td>
+			<td>ABDA</td>
+			<td>ASURANSI BINA DANA ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2010</td>
+			<td>08-JUL-2010</td>
+			<td>22-JUL-2010</td>
+			<td>1</td>
+			<td>ABDA</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>104.</td>
+			<td>AQUA GOLDEN MISSISSIPPI Tbk, PT</td>
+			<td>AQUA</td>
+			<td>AQUA GOLDEN MISSISSIPPI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2010</td>
+			<td>08-JUL-2010</td>
+			<td>22-JUL-2010</td>
+			<td>1</td>
+			<td>AQUA</td>
+			<td>1800</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1.800,-  (seribu delapan ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>105.</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk, PT</td>
+			<td>EPMT</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUL-2010</td>
+			<td>08-JUL-2010</td>
+			<td>22-JUL-2010</td>
+			<td>1</td>
+			<td>EPMT</td>
+			<td>27.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 27,50  (dua puluh tujuh Rupiah koma lima puluh sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>106.</td>
+			<td>ASURANSI JASA TANIA Tbk, PT</td>
+			<td>ASJT</td>
+			<td>ASURANSI JASA TANIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2010</td>
+			<td>12-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>1</td>
+			<td>ASJT</td>
+			<td>16.26</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 16,26  (enam belas Rupiah koma dua puluh enam sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>107.</td>
+			<td>TUNAS ALFIN Tbk, PT</td>
+			<td>TALFA</td>
+			<td>TUNAS ALFIN Tbk KELAS A</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2010</td>
+			<td>12-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>1</td>
+			<td>TALFA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>108.</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2010</td>
+			<td>12-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>261.4149</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 261,4149  (dua ratus enam puluh satu Rupiah koma empat satu empat sembilan)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>109.</td>
+			<td>TUNAS ALFIN Tbk, PT</td>
+			<td>TALFB</td>
+			<td>TUNAS ALFIN Tbk KELAS B</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2010</td>
+			<td>12-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>1</td>
+			<td>TALFB</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>110.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2010</td>
+			<td>13-JUL-2010</td>
+			<td>27-JUL-2010</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>111.</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk, PT</td>
+			<td>PGAS</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2010</td>
+			<td>13-JUL-2010</td>
+			<td>27-JUL-2010</td>
+			<td>1</td>
+			<td>PGAS</td>
+			<td>144.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 144,2 (seratus empat puluh empat Rupiah koma dua)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>112.</td>
+			<td>MITRA ADIPERKASA Tbk, PT</td>
+			<td>MAPI</td>
+			<td>MITRA ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2010</td>
+			<td>13-JUL-2010</td>
+			<td>27-JUL-2010</td>
+			<td>1</td>
+			<td>MAPI</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 15,-  (lima belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>113.</td>
+			<td>LIPPO GENERAL INSURANCE Tbk, PT</td>
+			<td>LPGI</td>
+			<td>LIPPO GENERAL INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUL-2010</td>
+			<td>13-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>1</td>
+			<td>LPGI</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30 (tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>114.</td>
+			<td>TRADA MARITIME , PT</td>
+			<td>TRAM</td>
+			<td>TRADA MARITIME Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUL-2010</td>
+			<td>14-JUL-2010</td>
+			<td>28-JUL-2010</td>
+			<td>1</td>
+			<td>TRAM</td>
+			<td>4.57</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 4,57  (empat Rupiah koma lima puluh tujuh sen).</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>115.</td>
+			<td>TRIMEGAH SECURITIES Tbk, PT</td>
+			<td>TRIM</td>
+			<td>TRIMEGAH SECURITIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUL-2010</td>
+			<td>14-JUL-2010</td>
+			<td>28-JUL-2010</td>
+			<td>1</td>
+			<td>TRIM</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,-  (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>116.</td>
+			<td>TIMAH (PERSERO) Tbk, PT</td>
+			<td>TINS</td>
+			<td>TIMAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUL-2010</td>
+			<td>14-JUL-2010</td>
+			<td>28-JUL-2010</td>
+			<td>1</td>
+			<td>TINS</td>
+			<td>31.17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 31,17,- (tiga puluh satu Rupiah koma tujuhbelas sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>117.</td>
+			<td>PANORAMA SENTRAWISATA Tbk, PT</td>
+			<td>PANR</td>
+			<td>PANORAMA SENTRAWISATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUL-2010</td>
+			<td>14-JUL-2010</td>
+			<td>28-JUL-2010</td>
+			<td>1</td>
+			<td>PANR</td>
+			<td>0.72</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 0,72  (nol koma tujuh puluh dua Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>118.</td>
+			<td>PEMBANGUNAN PERUMAHAN (PERSERO), PT</td>
+			<td>PTPP</td>
+			<td>PP (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUL-2010</td>
+			<td>14-JUL-2010</td>
+			<td>28-JUL-2010</td>
+			<td>1</td>
+			<td>PTPP</td>
+			<td>10.11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 10,11  (sepuluh Rupiah koma sebelas sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>119.</td>
+			<td>MAYORA INDAH Tbk, PT</td>
+			<td>MYOR</td>
+			<td>MAYORA INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUL-2010</td>
+			<td>15-JUL-2010</td>
+			<td>29-JUL-2010</td>
+			<td>1</td>
+			<td>MYOR</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>120.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>30-JUL-2010</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 45,- (Empat Puluh Lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>121.</td>
+			<td>BANK ICB BUMIPUTERA Tbk, PT</td>
+			<td>BABP</td>
+			<td>BANK ICB BUMIPUTERA TBK</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>30-JUL-2010</td>
+			<td>1</td>
+			<td>BABP</td>
+			<td>0.45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 0,45 (nol koma empat puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>122.</td>
+			<td>GUDANG GARAM Tbk, PT</td>
+			<td>GGRM</td>
+			<td>GUDANG GARAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>29-JUL-2010</td>
+			<td>1</td>
+			<td>GGRM</td>
+			<td>650</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 650,-  (enam ratus lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>123.</td>
+			<td>PANCA GLOBAL SECURITIES Tbk, PT</td>
+			<td>PEGE</td>
+			<td>PANCA GLOBAL SECURITIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2010</td>
+			<td>16-JUL-2010</td>
+			<td>30-JUL-2010</td>
+			<td>1</td>
+			<td>PEGE</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 8,-  (delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>124.</td>
+			<td>INDOSAT Tbk, PT</td>
+			<td>ISAT</td>
+			<td>INDOSAT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUL-2010</td>
+			<td>19-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>1</td>
+			<td>ISAT</td>
+			<td>137.86</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 137,86,  (seratus tiga puluh tujuh Rupiah delapan puluh enam sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>125.</td>
+			<td>COWELL DEVELOPMENT Tbk, PT</td>
+			<td>COWL</td>
+			<td>COWELL DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>03-AUG-2010</td>
+			<td>1</td>
+			<td>COWL</td>
+			<td>2.72</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham PT Cowell Development Tbk akan mendapatkan deviden tunai sebesar Rp. 2.72 (Dua Rupiah koma Tujuh Puluh Dua)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>126.</td>
+			<td>PERDANA GAPURAPRIMA Tbk, PT</td>
+			<td>GPRA</td>
+			<td>PERDANA GAPURAPRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>03-AUG-2010</td>
+			<td>1</td>
+			<td>GPRA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,-  (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>127.</td>
+			<td>KALBE FARMA Tbk, PT</td>
+			<td>KLBF</td>
+			<td>KALBE FARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>30-JUL-2010</td>
+			<td>1</td>
+			<td>KLBF</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,-  (dua puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>128.</td>
+			<td>DUTA PERTIWI NUSANTARA Tbk, PT</td>
+			<td>DPNS</td>
+			<td>DUTA PERTIWI NUSANTARA</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>03-AUG-2010</td>
+			<td>1</td>
+			<td>DPNS</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 6,-  (enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>129.</td>
+			<td>DYNAPLAST Tbk, PT</td>
+			<td>DYNA</td>
+			<td>DYNAPLAST Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUL-2010</td>
+			<td>20-JUL-2010</td>
+			<td>03-AUG-2010</td>
+			<td>1</td>
+			<td>DYNA</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>130.</td>
+			<td>ASAHIMAS FLAT GLASS Tbk, PT</td>
+			<td>AMFG</td>
+			<td>ASAHIMAS FLAT GLASS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUL-2010</td>
+			<td>21-JUL-2010</td>
+			<td>04-AUG-2010</td>
+			<td>1</td>
+			<td>AMFG</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>131.</td>
+			<td>BANK SWADESI Tbk, PT</td>
+			<td>BSWD</td>
+			<td>BANK SWADESI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-JUL-2010</td>
+			<td>22-JUL-2010</td>
+			<td>05-AUG-2010</td>
+			<td>1</td>
+			<td>BSWD</td>
+			<td>24</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 24,- (Dua Puluh Empat Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>132.</td>
+			<td>SEMEN GRESIK (PERSERO) Tbk, PT</td>
+			<td>SMGR</td>
+			<td>SEMEN GRESIK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-JUL-2010</td>
+			<td>22-JUL-2010</td>
+			<td>05-AUG-2010</td>
+			<td>1</td>
+			<td>SMGR</td>
+			<td>250.45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 250,45 (Dua Ratus Lima Puluh Rupiah koma Empat Puluh Lima Sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>133.</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk, PT</td>
+			<td>INDF</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-JUL-2010</td>
+			<td>22-JUL-2010</td>
+			<td>05-AUG-2010</td>
+			<td>1</td>
+			<td>INDF</td>
+			<td>93</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 93,-  (sembilan puluh tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>134.</td>
+			<td>FAST FOOD INDONESIA Tbk, PT</td>
+			<td>FAST</td>
+			<td>FAST FOOD INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUL-2010</td>
+			<td>23-JUL-2010</td>
+			<td>06-AUG-2010</td>
+			<td>1</td>
+			<td>FAST</td>
+			<td>83</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 83,-  (delapan puluh tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>135.</td>
+			<td>FORTUNE INDONESIA Tbk, PT</td>
+			<td>FORU</td>
+			<td>FORTUNE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUL-2010</td>
+			<td>23-JUL-2010</td>
+			<td>06-AUG-2010</td>
+			<td>1</td>
+			<td>FORU</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 4,-  (empat  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>136.</td>
+			<td>ALAM SUTERA REALTY Tbk, PT</td>
+			<td>ASRI</td>
+			<td>ALAM SUTERA REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-JUL-2010</td>
+			<td>23-JUL-2010</td>
+			<td>06-AUG-2010</td>
+			<td>1</td>
+			<td>ASRI</td>
+			<td>1.05</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,05  (satu Rupiah koma nol lima)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>137.</td>
+			<td>ASURANSI DAYIN MITRA Tbk, PT</td>
+			<td>ASDM</td>
+			<td>ASURANSI DAYIN MITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>09-AUG-2010</td>
+			<td>1</td>
+			<td>ASDM</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham yang terdaftar dalam DPS akan mendapatkan deviden tunai sebesar Rp. 20,- (Dua Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>138.</td>
+			<td>MULTISTRADA ARAH SARANA Tbk, PT</td>
+			<td>MASA</td>
+			<td>MULTISTRADA ARAH SARANA TBK</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>09-AUG-2010</td>
+			<td>1</td>
+			<td>MASA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>139.</td>
+			<td>CLIPAN FINANCE INDONESIA Tbk, PT</td>
+			<td>CFIN</td>
+			<td>CLIPAN FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>09-AUG-2010</td>
+			<td>1</td>
+			<td>CFIN</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham akan mendapatkan deviden tunai sebesar Rp. 15.00 (lima belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>140.</td>
+			<td>CITRA MARGA NUSAPHALA PERSADA Tbk, PT</td>
+			<td>CMNP</td>
+			<td>CITRA MARGA NUSAPHALA PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUL-2010</td>
+			<td>26-JUL-2010</td>
+			<td>09-AUG-2010</td>
+			<td>1</td>
+			<td>CMNP</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 10,-  (Sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>141.</td>
+			<td>CITA MINERAL INVESTINDO Tbk, PT</td>
+			<td>CITA</td>
+			<td>CITA MINERAL INVESTINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUL-2010</td>
+			<td>27-JUL-2010</td>
+			<td>10-AUG-2010</td>
+			<td>1</td>
+			<td>CITA</td>
+			<td>20.77</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 20,77  (dua puluh  Rupiah koma tujuh puluh tujuh)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>142.</td>
+			<td>PANIN SEKURITAS Tbk, PT</td>
+			<td>PANS</td>
+			<td>PANIN SEKURITAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUL-2010</td>
+			<td>28-JUL-2010</td>
+			<td>10-AUG-2010</td>
+			<td>1</td>
+			<td>PANS</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham akan mendapatkan deviden tunai sebesar Rp. 50.00 (lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>143.</td>
+			<td>ARWANA CITRAMULIA Tbk, PT</td>
+			<td>ARNA</td>
+			<td>ARWANA CITRAMULIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>13-AUG-2010</td>
+			<td>1</td>
+			<td>ARNA</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 7,- (Tujuh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>144.</td>
+			<td>BERLINA Tbk, PT</td>
+			<td>BRNA</td>
+			<td>BERLINA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>16-AUG-2010</td>
+			<td>1</td>
+			<td>BRNA</td>
+			<td>87</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 87,- (Delapan Puluh Tujuh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>145.</td>
+			<td>EVER SHINE TEX Tbk, PT</td>
+			<td>ESTI</td>
+			<td>EVER SHINE TEXTILE INDUSTRY</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>16-AUG-2010</td>
+			<td>1</td>
+			<td>ESTI</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,-  (dua Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>146.</td>
+			<td>ELNUSA Tbk, PT</td>
+			<td>ELSA</td>
+			<td>ELNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>16-AUG-2010</td>
+			<td>1</td>
+			<td>ELSA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 5,-  (lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>147.</td>
+			<td>MULTI INDOCITRA Tbk, PT</td>
+			<td>MICE</td>
+			<td>MULTI INDOCITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>12-AUG-2010</td>
+			<td>1</td>
+			<td>MICE</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 20,- (dua puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>148.</td>
+			<td>BUMI RESOURCES Tbk, PT</td>
+			<td>BUMI</td>
+			<td>BUMI RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2010</td>
+			<td>02-AUG-2010</td>
+			<td>16-AUG-2010</td>
+			<td>1</td>
+			<td>BUMI</td>
+			<td>27.68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 27,68 (dua puluh tujuh Rupiah koma enam puluh delapan sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>149.</td>
+			<td>BAKRIE SUMATERA PLANTATIONS Tbk, PT</td>
+			<td>UNSP</td>
+			<td>BAKRIE SUMATERA PLANTATIONS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUL-2010</td>
+			<td>04-AUG-2010</td>
+			<td>19-AUG-2010</td>
+			<td>1</td>
+			<td>UNSP</td>
+			<td>3.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 3,8  (tiga koma delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>150.</td>
+			<td>RESOURCE ALAM INDONESIA Tbk, PT</td>
+			<td>KKGI</td>
+			<td>RESOURCE ALAM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-AUG-2010</td>
+			<td>05-AUG-2010</td>
+			<td>19-AUG-2010</td>
+			<td>1</td>
+			<td>KKGI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 10,-  (sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>151.</td>
+			<td>PT CIPUTRA PROPERTY Tbk</td>
+			<td>CTRP</td>
+			<td>CIPUTRA PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-AUG-2010</td>
+			<td>09-AUG-2010</td>
+			<td>24-AUG-2010</td>
+			<td>1</td>
+			<td>CTRP</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>152.</td>
+			<td>PUDJIADI AND SONS Tbk, PT</td>
+			<td>PNSE</td>
+			<td>PUDJIADI AND SONS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2010</td>
+			<td>10-AUG-2010</td>
+			<td>25-AUG-2010</td>
+			<td>1</td>
+			<td>PNSE</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 60,- (Enam Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>153.</td>
+			<td>KRESNA GRAHA SEKURINDO Tbk, PT</td>
+			<td>KREN</td>
+			<td>KRESNA GRAHA SEKURINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-AUG-2010</td>
+			<td>10-AUG-2010</td>
+			<td>25-AUG-2010</td>
+			<td>1</td>
+			<td>KREN</td>
+			<td>3.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 3.20 (Tiga Rupiah koma Dua Puluh Sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>154.</td>
+			<td>CENTRIN ONLINE Tbk, PT</td>
+			<td>CENT</td>
+			<td>CENTRIN ONLINE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-AUG-2010</td>
+			<td>11-AUG-2010</td>
+			<td>26-AUG-2010</td>
+			<td>1</td>
+			<td>CENT</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>155.</td>
+			<td>JEMBO CABLE COMPANY Tbk, PT</td>
+			<td>JECC</td>
+			<td>JEMBO CABLE COMPANY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-AUG-2010</td>
+			<td>12-AUG-2010</td>
+			<td>27-AUG-2010</td>
+			<td>1</td>
+			<td>JECC</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30,-  (tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>156.</td>
+			<td>PERDANA KARYA PERKASA Tbk, PT</td>
+			<td>PKPK</td>
+			<td>PERDANA KARYA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-AUG-2010</td>
+			<td>12-AUG-2010</td>
+			<td>27-AUG-2010</td>
+			<td>1</td>
+			<td>PKPK</td>
+			<td>10.84</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 10,84  (sepuluh Rupiah koma delapan puluh empat sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>157.</td>
+			<td>PLAZA INDONESIA REALTY Tbk, PT</td>
+			<td>PLIN</td>
+			<td>PLAZA INDONESIA REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-AUG-2010</td>
+			<td>16-AUG-2010</td>
+			<td>31-AUG-2010</td>
+			<td>1</td>
+			<td>PLIN</td>
+			<td>1.25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,25  (satu Rupiah koma dua puluh lima sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>158.</td>
+			<td>COLORPAK INDONESIA Tbk, PT</td>
+			<td>CLPI</td>
+			<td>COLORPAK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-AUG-2010</td>
+			<td>19-AUG-2010</td>
+			<td>02-SEP-2010</td>
+			<td>1</td>
+			<td>CLPI</td>
+			<td>30.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 30,2  (tiga puluh Rupiah koma dua)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>159.</td>
+			<td>INDOSPRING Tbk, PT</td>
+			<td>INDS</td>
+			<td>INDOSPRING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-AUG-2010</td>
+			<td>19-AUG-2010</td>
+			<td>02-SEP-2010</td>
+			<td>1</td>
+			<td>INDS</td>
+			<td>250</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 250,- (Dua Ratus Lima Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>160.</td>
+			<td>JASA ANGKASA SEMESTA Tbk, PT</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-AUG-2010</td>
+			<td>20-AUG-2010</td>
+			<td>27-AUG-2010</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>105</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 105,- (seratus lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>161.</td>
+			<td>MANDALA MULTIFINANCE Tbk, PT</td>
+			<td>MFIN</td>
+			<td>MANDALA MULTIFINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-AUG-2010</td>
+			<td>23-AUG-2010</td>
+			<td>06-SEP-2010</td>
+			<td>1</td>
+			<td>MFIN</td>
+			<td>24.48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 24,48  (dua puluh empat  Rupiah koma empat puluh delapan sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>162.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-AUG-2010</td>
+			<td>24-AUG-2010</td>
+			<td>31-AUG-2010</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>163.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-SEP-2010</td>
+			<td>07-SEP-2010</td>
+			<td>28-SEP-2010</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Setiap satu saham PT Tempo Scan Pacific Tbk akan mendapatkan deviden tunai sebesar Rp. 35,- (Tiga Puluh Lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>164.</td>
+			<td>MALINDO FEEDMILL Tbk, PT</td>
+			<td>MAIN</td>
+			<td>MALINDO FEEDMILL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-SEP-2010</td>
+			<td>16-SEP-2010</td>
+			<td>30-SEP-2010</td>
+			<td>1</td>
+			<td>MAIN</td>
+			<td>56</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 56,-  (lima puluh enam Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>165.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-SEP-2010</td>
+			<td>17-SEP-2010</td>
+			<td>29-SEP-2010</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>615</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 615,- (Enam Ratus Lima Belas Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>166.</td>
+			<td>BATAVIA PROSPERINDO FINANCE Tbk.</td>
+			<td>BPFI</td>
+			<td>BATAVIA PROSPERINDO FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-SEP-2010</td>
+			<td>17-SEP-2010</td>
+			<td>01-OCT-2010</td>
+			<td>1</td>
+			<td>BPFI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>167.</td>
+			<td>INDO PREMIER SECURITIES, PT</td>
+			<td>R-LQ45X</td>
+			<td>REKSA DANA PREMIER ETF LQ-45</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-SEP-2010</td>
+			<td>21-SEP-2010</td>
+			<td>05-OCT-2010</td>
+			<td>1</td>
+			<td>R-LQ45X</td>
+			<td>9.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Reksadana akan memperoleh Rp 9,50- (sembilan koma lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>168.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-SEP-2010</td>
+			<td>21-SEP-2010</td>
+			<td>04-OCT-2010</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>3570</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai  Interim adalah setiap 1 Saham akan memperoleh Rp 3.570,- (Tiga Ribu Lima Ratus Tujuh Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>169.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2010</td>
+			<td>01-OCT-2010</td>
+			<td>15-OCT-2010</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>795</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 795,- (tujuh ratus sembilan puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>170.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-OCT-2010</td>
+			<td>14-OCT-2010</td>
+			<td>28-OCT-2010</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 75,- (tujuh puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>171.</td>
+			<td>FKS MULTI AGRO Tbk, PT</td>
+			<td>FISH</td>
+			<td>FKS MULTI AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-OCT-2010</td>
+			<td>20-OCT-2010</td>
+			<td>28-OCT-2010</td>
+			<td>1</td>
+			<td>FISH</td>
+			<td>6.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 6,5 (enam koma lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>172.</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk, PT</td>
+			<td>TKIM</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-OCT-2010</td>
+			<td>22-OCT-2010</td>
+			<td>04-NOV-2010</td>
+			<td>1</td>
+			<td>TKIM</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 10,- (sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>173.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-OCT-2010</td>
+			<td>29-OCT-2010</td>
+			<td>04-NOV-2010</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>158</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 158,- (seratus lima puluh delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>174.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-OCT-2010</td>
+			<td>29-OCT-2010</td>
+			<td>12-NOV-2010</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>190</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 190,- (seratus sembilan puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>175.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-OCT-2010</td>
+			<td>01-NOV-2010</td>
+			<td>12-NOV-2010</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>160</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 160 (seratus enam puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>176.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-OCT-2010</td>
+			<td>01-NOV-2010</td>
+			<td>15-NOV-2010</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>470</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Interim adalah setiap 1 Saham akan memperoleh Rp 470,- (empat ratus tujuh puluh  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>177.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-OCT-2010</td>
+			<td>01-NOV-2010</td>
+			<td>12-NOV-2010</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>178.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-NOV-2010</td>
+			<td>09-NOV-2010</td>
+			<td>24-NOV-2010</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 30,- (tiga Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>179.</td>
+			<td>PUDJIADI PRESTIGE Tbk, PT</td>
+			<td>PUDP</td>
+			<td>PUDJIADI PRESTIGE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-NOV-2010</td>
+			<td>10-NOV-2010</td>
+			<td>25-NOV-2010</td>
+			<td>1</td>
+			<td>PUDP</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,- (Dua Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>180.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-NOV-2010</td>
+			<td>11-NOV-2010</td>
+			<td>23-NOV-2010</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 60,- (enam puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>181.</td>
+			<td>INDIKA ENERGY Tbk, PT</td>
+			<td>INDY</td>
+			<td>INDIKA ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-NOV-2010</td>
+			<td>15-NOV-2010</td>
+			<td>30-NOV-2010</td>
+			<td>1</td>
+			<td>INDY</td>
+			<td>48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 48,- (empat puluh delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>182.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-NOV-2010</td>
+			<td>16-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 65,- (enam puluh lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>183.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-NOV-2010</td>
+			<td>16-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 10,- (sepuluh  Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>184.</td>
+			<td>LIPPO KARAWACI Tbk, PT</td>
+			<td>LPKR</td>
+			<td>LIPPO KARAWACI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-NOV-2010</td>
+			<td>16-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>1</td>
+			<td>LPKR</td>
+			<td>2.88</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 2,88  (dua Rupiah delapan puluh delapan sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>185.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-NOV-2010</td>
+			<td>24-NOV-2010</td>
+			<td>09-DEC-2010</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>42.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 42,50 (empat puluh dua koma lima puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>186.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-NOV-2010</td>
+			<td>24-NOV-2010</td>
+			<td>09-DEC-2010</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>187.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-NOV-2010</td>
+			<td>25-NOV-2010</td>
+			<td>10-DEC-2010</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>188.</td>
+			<td>GLOBAL LAND DEVELOPMENT Tbk, PT</td>
+			<td>KPIG</td>
+			<td>GLOBAL LAND DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-NOV-2010</td>
+			<td>26-NOV-2010</td>
+			<td>13-DEC-2010</td>
+			<td>1</td>
+			<td>KPIG</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,- (dua Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>189.</td>
+			<td>GOWA MAKASSAR TOURISM DEVELOPMENT Tbk, PT</td>
+			<td>GMTD</td>
+			<td>GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-NOV-2010</td>
+			<td>30-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>1</td>
+			<td>GMTD</td>
+			<td>38</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 38,-  (tiga puluh delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>190.</td>
+			<td>BW PLANTATION TBK, PT</td>
+			<td>BWPT</td>
+			<td>BW PLANTATION Tbk.</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-NOV-2010</td>
+			<td>30-NOV-2010</td>
+			<td>13-DEC-2010</td>
+			<td>1</td>
+			<td>BWPT</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai  adalah setiap 1 Saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>191.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>15-DEC-2010</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>192.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>10-DEC-2010</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>9.85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 9,85  (sembilan Rupiah koma delapan puluh lima sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>193.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-NOV-2010</td>
+			<td>01-DEC-2010</td>
+			<td>15-DEC-2010</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>194.</td>
+			<td>MEDIA NUSANTARA CITRA Tbk, PT</td>
+			<td>MNCN</td>
+			<td>MEDIA NUSANTARA CITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-NOV-2010</td>
+			<td>02-DEC-2010</td>
+			<td>17-DEC-2010</td>
+			<td>1</td>
+			<td>MNCN</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>195.</td>
+			<td>GLOBAL MEDIACOM Tbk, PT</td>
+			<td>BMTR</td>
+			<td>GLOBAL MEDIACOM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-DEC-2010</td>
+			<td>09-DEC-2010</td>
+			<td>23-DEC-2010</td>
+			<td>1</td>
+			<td>BMTR</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 5,- (lima Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>196.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-DEC-2010</td>
+			<td>10-DEC-2010</td>
+			<td>16-DEC-2010</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>1300</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 1.300,- (seribu tiga ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>197.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-DEC-2010</td>
+			<td>15-DEC-2010</td>
+			<td>28-DEC-2010</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 25,- (dua puluh lima Rupiah).</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>198.</td>
+			<td>BHAKTI CAPITAL INDONESIA Tbk, PT</td>
+			<td>BCAP</td>
+			<td>BHAKTI CAPITAL INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-DEC-2010</td>
+			<td>16-DEC-2010</td>
+			<td>30-DEC-2010</td>
+			<td>1</td>
+			<td>BCAP</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 2,- (dua Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>199.</td>
+			<td>MALINDO FEEDMILL Tbk, PT</td>
+			<td>MAIN</td>
+			<td>MALINDO FEEDMILL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-DEC-2010</td>
+			<td>22-DEC-2010</td>
+			<td>28-DEC-2010</td>
+			<td>1</td>
+			<td>MAIN</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 70,- (tujuh puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>200.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-DEC-2010</td>
+			<td>22-DEC-2010</td>
+			<td>30-DEC-2010</td>
+			<td>1</td>
+			<td>BBRI</td>
+			<td>45.93</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim  adalah setiap 1 Saham akan memperoleh Rp 45,93 (empat puluh lima Rupiah koma sembilan puluh tiga sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>201.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-DEC-2010</td>
+			<td>22-DEC-2010</td>
+			<td>05-JAN-2011</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>700</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 700,- (tujuh ratus Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>202.</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) PT, Tbk</td>
+			<td>PTBA</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-DEC-2010</td>
+			<td>23-DEC-2010</td>
+			<td>29-DEC-2010</td>
+			<td>1</td>
+			<td>PTBA</td>
+			<td>66.75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 66,75 (enam puluh enam Rupiah koma tujuh puluh lima sen)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>203.</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk, PT</td>
+			<td>BMRI</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-DEC-2010</td>
+			<td>27-DEC-2010</td>
+			<td>30-DEC-2010</td>
+			<td>1</td>
+			<td>BMRI</td>
+			<td>19.64286</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 19,64286 (sembilan belas Rupiah koma enam empat dua delapan enam)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>204.</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-DEC-2010</td>
+			<td>28-DEC-2010</td>
+			<td>11-JAN-2011</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>26.75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 26,75 (dua puluh enam Rupiah koma tujuh puluh lima)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>205.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-DEC-2010</td>
+			<td>29-DEC-2010</td>
+			<td>10-JAN-2011</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>180</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim III adalah setiap 1 Saham akan memperoleh Rp 180 (Seratus Delapan Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>206.</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk, PT</td>
+			<td>PGAS</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-DEC-2010</td>
+			<td>30-DEC-2010</td>
+			<td>04-JAN-2011</td>
+			<td>1</td>
+			<td>PGAS</td>
+			<td>10.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 10,20 (Sepuluh Koma Dua Puluh Rupiah)</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>207.</td>
+			<td>SEMEN GRESIK (PERSERO) Tbk, PT</td>
+			<td>SMGR</td>
+			<td>SEMEN GRESIK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-DEC-2010</td>
+			<td>30-DEC-2010</td>
+			<td>04-JAN-2011</td>
+			<td>1</td>
+			<td>SMGR</td>
+			<td>58</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 58 (Lima Puluh Delapan Rupiah)</td>
+		</tr>
+		</table>	</body>
+</html>

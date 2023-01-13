@@ -1,0 +1,88 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+		xmlns:x="urn:schemas-microsoft-com:office:excel" 
+		xmlns="http://www.w3.org/TR/REC-html40">
+	<HEAD>
+		<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; charset=ISO-8859-1"> 
+		<STYLE type=text/css>
+			table tr#header td{font-weight: bold;} 
+			table tr#isi td#rdCode{text-align: left;} 
+			table tr#isi td{vertical-align: top;} 
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=1>
+			<TR id=header align ='center'>
+				<TD colspan='15'><font size='+1' color=red>Schedule of Cash Dividend  Recording Date Year 2023</font></TD>
+			</TR>
+			<TR id=header>
+				<TD>No.</TD>
+				<TD>Issuer</TD>
+				<TD>Security Code</TD>
+				<TD>Security Name</TD>
+				<TD>Type of CA</TD>
+				<TD>Cum Date</TD>
+				<TD>Recording Date</TD>
+				<TD>Distribution Date</TD>
+				<TD>Exercise Ratio</TD>
+				<TD>Exercise Intrument</TD>
+				<TD>Proceed Ratio</TD>
+				<TD>Proceed Instrument</TD>
+				<TD>Description</TD>
+				<TD>Refference No</TD>
+				<TD>Letter Date</TD>
+			</TR>
+		<tr id=isi>
+			<td align='center'>1.</td>
+			<td>ADARO ENERGY INDONESIA Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-DEC-2022</td>
+			<td>03-JAN-2023</td>
+			<td>13-JAN-2023</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Dividen interim untuk tahun buku 2022 sebesar AS$500.000.000 (Lima ratus juta Dolar Amerika Serikat) 
+
+Pembagian Dividen Interim kepada pemegang paham akan dilakukan dalam mata uang Rupiah dengan mengacu pada kurs tengah Bank Indonesia pada tanggal 3 Januari 2023 (Recording Date) sebagai kurs konversi.</td>
+			<td>KSEI-24471/JKU/1222</td>
+			<td>23-DEC-2022</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>2.</td>
+			<td>PT. RODA VIVATEX Tbk</td>
+			<td>RDTX</td>
+			<td>RODA VIVATEX Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JAN-2023</td>
+			<td>11-JAN-2023</td>
+			<td>27-JAN-2023</td>
+			<td>1</td>
+			<td>RDTX</td>
+			<td>280</td>
+			<td>IDR</td>
+			<td>Setiap 1 (Satu) saham akan mendapatkan dividen Interim sebesar Rp.280,- (dua ratus delapan puluh Rupiah)</td>
+			<td>KSEI-50/JKU/0123</td>
+			<td>02-JAN-2023</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>3.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JAN-2023</td>
+			<td>11-JAN-2023</td>
+			<td>27-JAN-2023</td>
+			<td>1</td>
+			<td>BBRI</td>
+			<td>57</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan sebesar Rp 57,- (lima puluh tujuh Rupiah)</td>
+			<td>KSEI-24898/JKU/1222</td>
+			<td>30-DEC-2022</td>
+		</tr>
+		</table>	</body>
+</html>

@@ -1,0 +1,4407 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+		xmlns:x="urn:schemas-microsoft-com:office:excel" 
+		xmlns="http://www.w3.org/TR/REC-html40">
+	<HEAD>
+		<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; charset=ISO-8859-1"> 
+		<STYLE type=text/css>
+			table tr#header td{font-weight: bold;} 
+			table tr#isi td#rdCode{text-align: left;} 
+			table tr#isi td{vertical-align: top;} 
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=1>
+			<TR id=header align ='center'>
+				<TD colspan='15'><font size='+1' color=red>Schedule of Cash Dividend  Recording Date Year 2015</font></TD>
+			</TR>
+			<TR id=header>
+				<TD>No.</TD>
+				<TD>Issuer</TD>
+				<TD>Security Code</TD>
+				<TD>Security Name</TD>
+				<TD>Type of CA</TD>
+				<TD>Cum Date</TD>
+				<TD>Recording Date</TD>
+				<TD>Distribution Date</TD>
+				<TD>Exercise Ratio</TD>
+				<TD>Exercise Intrument</TD>
+				<TD>Proceed Ratio</TD>
+				<TD>Proceed Instrument</TD>
+				<TD>Description</TD>
+				<TD>Refference No</TD>
+				<TD>Letter Date</TD>
+			</TR>
+		<tr id=isi>
+			<td align='center'>1.</td>
+			<td>TIGA PILAR SEJAHTERA FOOD Tbk, PT</td>
+			<td>AISA</td>
+			<td>TIGA PILAR SEJAHTERA FOOD Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-DEC-2014</td>
+			<td>02-JAN-2015</td>
+			<td>14-JAN-2015</td>
+			<td>1</td>
+			<td>AISA</td>
+			<td>8.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 8,5  (delapan koma lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>2.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-DEC-2014</td>
+			<td>02-JAN-2015</td>
+			<td>16-JAN-2015</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>11.73</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 11,73 (sebelas koma tujuh tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>3.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JAN-2015</td>
+			<td>07-JAN-2015</td>
+			<td>15-JAN-2015</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>138</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim tahun buku 2014 adalah setiap 1 Saham akan memperoleh sebesar Rp 138,-  (seratus tiga puluh delapan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>4.</td>
+			<td>BENAKAT INTEGRA Tbk, PT</td>
+			<td>BIPI</td>
+			<td>BENAKAT INTEGRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JAN-2015</td>
+			<td>16-JAN-2015</td>
+			<td>30-JAN-2015</td>
+			<td>1</td>
+			<td>BIPI</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>5.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-MAR-2015</td>
+			<td>06-MAR-2015</td>
+			<td>20-MAR-2015</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.9487</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap unit penyertaan akan memperoleh Rp 1,9487 (satu Rupiah koma sembilan empat delapan tujuh)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>6.</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk, PT</td>
+			<td>BMRI</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-MAR-2015</td>
+			<td>26-MAR-2015</td>
+			<td>17-APR-2015</td>
+			<td>1</td>
+			<td>BMRI</td>
+			<td>212.91292</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 212.91292 (dua ratus dua belas koma sembilan satu dua sembilan dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>7.</td>
+			<td>BANK NEGARA INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBNI</td>
+			<td>BANK NEGARA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-MAR-2015</td>
+			<td>27-MAR-2015</td>
+			<td>17-APR-2015</td>
+			<td>1000000</td>
+			<td>BBNI</td>
+			<td>144549658</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 144,549658 (seratus empat puluh empat koma lima empat sembilan enam lima delapan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>8.</td>
+			<td>DHARMA SATYA NUSANTARA Tbk, PT</td>
+			<td>DSNG</td>
+			<td>DHARMA SATYA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAR-2015</td>
+			<td>30-MAR-2015</td>
+			<td>17-APR-2015</td>
+			<td>1</td>
+			<td>DSNG</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 50,-(lima puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>9.</td>
+			<td>JASA MARGA ( PERSERO) Tbk, PT</td>
+			<td>JSMR</td>
+			<td>JASA MARGA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAR-2015</td>
+			<td>30-MAR-2015</td>
+			<td>17-APR-2015</td>
+			<td>1</td>
+			<td>JSMR</td>
+			<td>72.2353</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 72,2353 (tujuh puluh dua koma dua tiga lima tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>10.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAR-2015</td>
+			<td>31-MAR-2015</td>
+			<td>22-APR-2015</td>
+			<td>1</td>
+			<td>BBRI</td>
+			<td>294.801</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 294,8010 (dua ratus sembilan puluh empat Rupiah koma delapan nol satu nol).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>11.</td>
+			<td>ADHI KARYA (PERSERO) Tbk, PT</td>
+			<td>ADHI</td>
+			<td>ADHI KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAR-2015</td>
+			<td>01-APR-2015</td>
+			<td>22-APR-2015</td>
+			<td>1</td>
+			<td>ADHI</td>
+			<td>35.982</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 35,982 tiga puluh lima Rupiah koma sembilan delapan dua).</td>
+			<td>KSEI-6908/JKU/0315</td>
+			<td>24-MAR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>12.</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk, PT</td>
+			<td>BBTN</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAR-2015</td>
+			<td>06-APR-2015</td>
+			<td>24-APR-2015</td>
+			<td>1000000</td>
+			<td>BBTN</td>
+			<td>21113195</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 21,113195 (dua puluh satu Rupiah koma satu satu tiga satu sembilan lima)</td>
+			<td>KSEI-7318/JKU/0315</td>
+			<td>27-MAR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>13.</td>
+			<td>BANK RAKYAT INDONESIA AGRONIAGA Tbk, PT</td>
+			<td>AGRO</td>
+			<td>BANK RAKYAT INDONESIA AGRONIAGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-APR-2015</td>
+			<td>07-APR-2015</td>
+			<td>24-APR-2015</td>
+			<td>1</td>
+			<td>AGRO</td>
+			<td>0.8155</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 0,8155 (nol koma delapan satu lima lima Rupiah).</td>
+			<td>KSEI-7415/JKU/0315</td>
+			<td>30-MAR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>14.</td>
+			<td>TIMAH (PERSERO) Tbk, PT</td>
+			<td>TINS</td>
+			<td>TIMAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-APR-2015</td>
+			<td>08-APR-2015</td>
+			<td>29-APR-2015</td>
+			<td>1</td>
+			<td>TINS</td>
+			<td>25.6977</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 25,6977 (dua puluh lima Rupiah koma enam sembilan tujuh tujuh)</td>
+			<td>KSEI-7522/JKU/0315</td>
+			<td>31-MAR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>15.</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) PT, Tbk</td>
+			<td>PTBA</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2015</td>
+			<td>10-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>1</td>
+			<td>PTBA</td>
+			<td>324.57</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 sebesar setiap 1 Saham akan memperoleh Rp 324,570(tiga ratus dua puluh empat Rupiah koma lima tujuh nol)</td>
+			<td>KSEI-7824/JKU/0415</td>
+			<td>02-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>16.</td>
+			<td>LOGINDO SAMUDRAMAKMUR Tbk. PT</td>
+			<td>LEAD</td>
+			<td>LOGINDO SAMUDRAMAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2015</td>
+			<td>10-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>1</td>
+			<td>LEAD</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 sebesar setiap 1 Saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-7826/JKU/0415</td>
+			<td>02-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>17.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-APR-2015</td>
+			<td>13-APR-2015</td>
+			<td>24-APR-2015</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>645</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 645 (enam ratus empat puluh lima Rupiah).</td>
+			<td>KSEI-7822/JKU/0415</td>
+			<td>02-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>18.</td>
+			<td>BANK JABAR, PT</td>
+			<td>BJBR</td>
+			<td>BANK JABAR BANTEN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-APR-2015</td>
+			<td>13-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>1</td>
+			<td>BJBR</td>
+			<td>71.6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 71,6 (tujuh puluh satu Rupiah koma enam).</td>
+			<td>KSEI-7821/JKU/0415</td>
+			<td>02-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>19.</td>
+			<td>SEMEN BATURAJA ( PERSERO),PT</td>
+			<td>SMBR</td>
+			<td>SEMEN BATURAJA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-APR-2015</td>
+			<td>13-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>1</td>
+			<td>SMBR</td>
+			<td>8.34385</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp. 8,34385 (delapan Rupiah koma tiga empat tiga delapan lima)</td>
+			<td>KSEI-7934/JKU/0415</td>
+			<td>06-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>20.</td>
+			<td>WIJAYA KARYA BETON Tbk, PT</td>
+			<td>WTON</td>
+			<td>WIJAYA KARYA BETON Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-APR-2015</td>
+			<td>14-APR-2015</td>
+			<td>05-MAY-2015</td>
+			<td>1</td>
+			<td>WTON</td>
+			<td>11.82</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 11,82 (sebelas Rupiah koma delapan dua)</td>
+			<td>KSEI-8068/JKU/0415</td>
+			<td>07-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>21.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-APR-2015</td>
+			<td>15-APR-2015</td>
+			<td>05-MAY-2015</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>6500</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 6.500,- (enam ribu lima ratus Rupiah)</td>
+			<td>KSEI-8208/JKU/0415</td>
+			<td>08-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>22.</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk, PT</td>
+			<td>PGAS</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2015</td>
+			<td>16-APR-2015</td>
+			<td>08-MAY-2015</td>
+			<td>1</td>
+			<td>PGAS</td>
+			<td>144.84</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 144,84 (seratus empat puluh empat Rupiah koma delapan empat).</td>
+			<td>KSEI-8348/JKU/0415</td>
+			<td>09-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>23.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2015</td>
+			<td>16-APR-2015</td>
+			<td>23-APR-2015</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>159</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 159 (seratur lima puluh sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>24.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2015</td>
+			<td>16-APR-2015</td>
+			<td>20-APR-2015</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>3.36</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim untuk tahun buku 2015 adalah setiap 1 Saham akan memperoleh Rp 3,36 (tiga Rupiah koma tiga enam).</td>
+			<td>KSEI-8349/JKU/0415</td>
+			<td>09-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>25.</td>
+			<td>BANK DANAMON Tbk , PT</td>
+			<td>BDMN</td>
+			<td>BANK DANAMON INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-APR-2015</td>
+			<td>17-APR-2015</td>
+			<td>08-MAY-2015</td>
+			<td>1</td>
+			<td>BDMN</td>
+			<td>81.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 81,50 (delapan puluh satu Rupia hkoma lima nol).</td>
+			<td>KSEI-8347/JKU/0415</td>
+			<td>09-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>26.</td>
+			<td>KIMIA FARMA (PERSERO) Tbk, PT</td>
+			<td>KAEF</td>
+			<td>KIMIA FARMA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-APR-2015</td>
+			<td>20-APR-2015</td>
+			<td>08-MAY-2015</td>
+			<td>1</td>
+			<td>KAEF</td>
+			<td>8.4488</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 8,4488 (deapan Rupiah koma empat empat delapan delapan)</td>
+			<td>KSEI-8602/JKU/0415</td>
+			<td>13-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>27.</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR, PT</td>
+			<td>BJTM</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-APR-2015</td>
+			<td>20-APR-2015</td>
+			<td>08-MAY-2015</td>
+			<td>1</td>
+			<td>BJTM</td>
+			<td>41.86</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 41,86 (empat puluh satu Rupiah koma delapan enam)</td>
+			<td>KSEI-8596/JKU/0415</td>
+			<td>13-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>28.</td>
+			<td>ACSET INDONUSA Tbk, PT</td>
+			<td>ACST</td>
+			<td>ACSET INDONUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-APR-2015</td>
+			<td>20-APR-2015</td>
+			<td>04-MAY-2015</td>
+			<td>1</td>
+			<td>ACST</td>
+			<td>42</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 42 (empat puluh dua Rupiah)</td>
+			<td>KSEI-8589/JKU/0415</td>
+			<td>13-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>29.</td>
+			<td>PLAZA INDONESIA REALTY Tbk, PT</td>
+			<td>PLIN</td>
+			<td>PLAZA INDONESIA REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-APR-2015</td>
+			<td>20-APR-2015</td>
+			<td>07-MAY-2015</td>
+			<td>1</td>
+			<td>PLIN</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 70 (tujuh puluh Rupiah)</td>
+			<td>KSEI-8601/JKU/0415</td>
+			<td>13-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>30.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-APR-2015</td>
+			<td>21-APR-2015</td>
+			<td>13-MAY-2015</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>98</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 98 (sembilan puluh delapan Rupiah)</td>
+			<td>KSEI-8720/JKU/0415</td>
+			<td>14-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>31.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-APR-2015</td>
+			<td>24-APR-2015</td>
+			<td>15-MAY-2015</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>472</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 472,- (empat ratus tujuh puluh dua Rupiah)</td>
+			<td>KSEI-8837/JKU/0415</td>
+			<td>15-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>32.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-APR-2015</td>
+			<td>27-APR-2015</td>
+			<td>15-MAY-2015</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>54</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai tahun buku 2014 adalah setiap 1 Saham akan memperoleh sebesar Rp 54,- (lima puluh empat Rupiah).</td>
+			<td>KSEI-9101/JKU/0415</td>
+			<td>17-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>33.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-APR-2015</td>
+			<td>27-APR-2015</td>
+			<td>15-MAY-2015</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai tahun buku 2014 adalah setiap 1 Saham akan memperoleh sebesar Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-9102/JKU/0415</td>
+			<td>17-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>34.</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk, PT</td>
+			<td>SMGR</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2015</td>
+			<td>28-APR-2015</td>
+			<td>20-MAY-2015</td>
+			<td>1</td>
+			<td>SMGR</td>
+			<td>375.34</td>
+			<td>IDR</td>
+			<td>Pembagian Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan memperoleh Rp 375,34 (tiga ratus tujuh puluh lima Rupiah koma tiga empat)</td>
+			<td>KSEI-9327/JKU/0415</td>
+			<td>21-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>35.</td>
+			<td>TOBA BARA SEJAHTRA Tbk, PT</td>
+			<td>TOBA</td>
+			<td>TOBA BARA SEJAHTRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2015</td>
+			<td>28-APR-2015</td>
+			<td>20-MAY-2015</td>
+			<td>1</td>
+			<td>TOBA</td>
+			<td>22.01946</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan Rp 22,01946 (dua puluh dua Rupiah koma nol satu sembilan empat enam)</td>
+			<td>KSEI-9330/JKU/0415</td>
+			<td>21-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>36.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2015</td>
+			<td>28-APR-2015</td>
+			<td>07-MAY-2015</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Pembagian Dividen Interim Tahun Buku 2015 adalah setiap 1 (satu) saham akan memperoleh Rp 100 (seratus Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>37.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-APR-2015</td>
+			<td>28-APR-2015</td>
+			<td>20-MAY-2015</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>52</td>
+			<td>IDR</td>
+			<td>Pembagian Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan memperoleh Rp 52 (lima puluh dua Rupiah)</td>
+			<td>KSEI-9326/JKU/0415</td>
+			<td>21-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>38.</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2015</td>
+			<td>29-APR-2015</td>
+			<td>21-MAY-2015</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>89.46</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 89,46 (delapan puluh sembilan Rupiah koma empat enam) yang terdiri dari Dividen Tunai Rp 74,55  per saham dan Dividen Spesial Rp 14,91 per saham</td>
+			<td>KSEI-9499/JKU/0415</td>
+			<td>22-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>39.</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk, PT</td>
+			<td>SSMS</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2015</td>
+			<td>29-APR-2015</td>
+			<td>21-MAY-2015</td>
+			<td>1</td>
+			<td>SSMS</td>
+			<td>22.65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 22,65 (dua puluh dua Rupiah koma enam lima)</td>
+			<td>KSEI-9496/JKU/0415</td>
+			<td>22-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>40.</td>
+			<td>INTERMEDIA CAPITAL Tbk. PT</td>
+			<td>MDIA</td>
+			<td>INTERMEDIA CAPITAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-APR-2015</td>
+			<td>29-APR-2015</td>
+			<td>21-MAY-2015</td>
+			<td>1</td>
+			<td>MDIA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10 (sepuluh Rupiah)</td>
+			<td>KSEI-9495/JKU/0415</td>
+			<td>22-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>41.</td>
+			<td>TRISULA INTERNATIONAL Tbk, PT</td>
+			<td>TRIS</td>
+			<td>TRISULA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>TRIS</td>
+			<td>9.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 9,5 (sembilan Rupiah koma lima)</td>
+			<td>KSEI-9598/JKU/0415</td>
+			<td>23-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>42.</td>
+			<td>CHITOSE INTERNASIONAL Tbk, PT</td>
+			<td>CINT</td>
+			<td>CHITOSE INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>CINT</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td>KSEI-9600/JKU/0415</td>
+			<td>23-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>43.</td>
+			<td>PETROSEA Tbk, PT</td>
+			<td>PTRO</td>
+			<td>PETROSEA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>PTRO</td>
+			<td>21.674</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 21,674 (dua puluh satu Rupiah koma enam tujuh empat)</td>
+			<td>KSEI-9605/JKU/0415</td>
+			<td>23-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>44.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 48,- (empat puluh delapan Rupiah)</td>
+			<td>KSEI-9597/JKU/0415</td>
+			<td>23-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>45.</td>
+			<td>PT TIGARAKSA SATRIA Tbk ,</td>
+			<td>TGKA</td>
+			<td>TIGARAKSA SATRIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2015</td>
+			<td>30-APR-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>TGKA</td>
+			<td>94.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 94,5 (sembilan puluh empat Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>46.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2015</td>
+			<td>04-MAY-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>545</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 545,- (lima ratus empat puluh lima Rupiah)</td>
+			<td>KSEI-9718/JKU/0415</td>
+			<td>24-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>47.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2015</td>
+			<td>04-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 Saham akan memperoleh Rp 70,- (tujuh puluh Rupiah)</td>
+			<td>KSEI-9719/JKU/0415</td>
+			<td>24-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>48.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-APR-2015</td>
+			<td>05-MAY-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>350</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 350 (tiga ratus lima puluh Rupiah)</td>
+			<td>KSEI-9881/JKU/0415</td>
+			<td>27-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>49.</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk, PT</td>
+			<td>WIKA</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-APR-2015</td>
+			<td>05-MAY-2015</td>
+			<td>22-MAY-2015</td>
+			<td>1</td>
+			<td>WIKA</td>
+			<td>20.0281</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20,0281 (dua puluh Rupiah koma nol dua delapan satu)</td>
+			<td>KSEI-9882/JKU/0415</td>
+			<td>27-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>50.</td>
+			<td>MITRABAHTERA SEGARA SEJATI Tbk. PT</td>
+			<td>MBSS</td>
+			<td>MITRABAHTERA SEGARA SEJATI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2015</td>
+			<td>06-MAY-2015</td>
+			<td>27-MAY-2015</td>
+			<td>1</td>
+			<td>MBSS</td>
+			<td>120.00386</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp. 120,00386 (seratus dua puluh Rupiah koma nol nol tiga delapan enam)</td>
+			<td>KSEI-10029/JKU/0415</td>
+			<td>28-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>51.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2015</td>
+			<td>06-MAY-2015</td>
+			<td>27-MAY-2015</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>18.52</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 18,52 (delapan belas Rupiah koma lima dua)</td>
+			<td>KSEI-10026/JKU/0415</td>
+			<td>28-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>52.</td>
+			<td>MANDOM INDONESIA Tbk, PT</td>
+			<td>TCID</td>
+			<td>MANDOM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2015</td>
+			<td>06-MAY-2015</td>
+			<td>27-MAY-2015</td>
+			<td>1</td>
+			<td>TCID</td>
+			<td>390</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp390 (tiga ratus sembilan puluh Rupiah)</td>
+			<td>KSEI-9880/JKU/0415</td>
+			<td>27-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>53.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-APR-2015</td>
+			<td>06-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.8388</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap unit penyertaan akan memperoleh Rp 1,8388 (satu Rupiah koma delapan tiga delapan delapan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>54.</td>
+			<td>WASKITA KARYA (PERSERO) Tbk, PT</td>
+			<td>WSKT</td>
+			<td>WASKITA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2015</td>
+			<td>07-MAY-2015</td>
+			<td>28-MAY-2015</td>
+			<td>1000000</td>
+			<td>WSKT</td>
+			<td>10311597</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 10,311597 (sepuluh Rupiah koma tiga satu satu lima sembilan tujuh)</td>
+			<td>KSEI-10168/JKU/0415</td>
+			<td>29-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>55.</td>
+			<td>BANK PERMATA Tbk, PT</td>
+			<td>BNLI</td>
+			<td>BANK PERMATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2015</td>
+			<td>07-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>1</td>
+			<td>BNLI</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 14,- (empat belas Rupiah)</td>
+			<td>KSEI-10167/JKU/0415</td>
+			<td>29-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>56.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-MAY-2015</td>
+			<td>08-MAY-2015</td>
+			<td>28-MAY-2015</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>975</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 975,- (sembilan ratus tujuh puluh lima Rupiah)</td>
+			<td>KSEI-10166/JKU/0415</td>
+			<td>29-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>57.</td>
+			<td>ASURANSI BINA DANA ARTA Tbk, PT</td>
+			<td>ABDA</td>
+			<td>ASURANSI BINA DANA ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-MAY-2015</td>
+			<td>08-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>1</td>
+			<td>ABDA</td>
+			<td>85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 85,- (delapan puluh lima Rupiah)</td>
+			<td>KSEI-10354/JKU/0415</td>
+			<td>30-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>58.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-MAY-2015</td>
+			<td>11-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>152</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 152,- (seratus lima puluh dua Rupiah)</td>
+			<td>KSEI-10353/JKU/0415</td>
+			<td>30-APR-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>59.</td>
+			<td>NUSA RAYA CIPTA Tbk, PT</td>
+			<td>NRCA</td>
+			<td>NUSA RAYA CIPTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-MAY-2015</td>
+			<td>11-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>1</td>
+			<td>NRCA</td>
+			<td>30.04</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 30,04 (tiga puluh Rupiah koma nol empat)</td>
+			<td>KSEI-10704/JKU/0515</td>
+			<td>05-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>60.</td>
+			<td>ELNUSA Tbk, PT</td>
+			<td>ELSA</td>
+			<td>ELNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2015</td>
+			<td>12-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>1</td>
+			<td>ELSA</td>
+			<td>39.55602</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 39,55602 (tiga puluh sembilan Rupiah koma lima lima enam nol dua)</td>
+			<td>KSEI-10652/JKU/0515</td>
+			<td>05-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>61.</td>
+			<td>RUKUN RAHARJA Tbk, PT</td>
+			<td>RAJA</td>
+			<td>RUKUN RAHARJA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-MAY-2015</td>
+			<td>12-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>1</td>
+			<td>RAJA</td>
+			<td>12.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 12,20 (dua belas Rupiah koma dua nol)</td>
+			<td>KSEI-10651/JKU/0515</td>
+			<td>05-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>62.</td>
+			<td>TOTAL BANGUN PERSADA Tbk, PT</td>
+			<td>TOTL</td>
+			<td>TOTAL BANGUN PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2015</td>
+			<td>13-MAY-2015</td>
+			<td>04-JUN-2015</td>
+			<td>1</td>
+			<td>TOTL</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 30 (tiga puluh Rupiah)</td>
+			<td>KSEI-10829/JKU/0515</td>
+			<td>06-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>63.</td>
+			<td>ASURANSI BINTANG Tbk, PT</td>
+			<td>ASBI</td>
+			<td>ASURANSI BINTANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-MAY-2015</td>
+			<td>13-MAY-2015</td>
+			<td>04-JUN-2015</td>
+			<td>1</td>
+			<td>ASBI</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20 (dua puluh Rupiah)</td>
+			<td>KSEI-10828/JKU/0515</td>
+			<td>06-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>64.</td>
+			<td>SALIM IVOMAS PRATAMA Tbk, PT</td>
+			<td>SIMP</td>
+			<td>SALIM IVOMAS PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2015</td>
+			<td>18-MAY-2015</td>
+			<td>05-JUN-2015</td>
+			<td>1</td>
+			<td>SIMP</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 16,- (enam belas Rupiah)</td>
+			<td>KSEI-10996/JKU/0515</td>
+			<td>07-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>65.</td>
+			<td>PP. LONDON SUMATRA INDONESIA Tbk, PT</td>
+			<td>LSIP</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2015</td>
+			<td>18-MAY-2015</td>
+			<td>05-JUN-2015</td>
+			<td>1</td>
+			<td>LSIP</td>
+			<td>53</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 53,- (lima puluh tiga Rupiah)</td>
+			<td>KSEI-10995/JKU/0515</td>
+			<td>07-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>66.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2015</td>
+			<td>18-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td>KSEI-11125/JKU/0515</td>
+			<td>08-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>67.</td>
+			<td>BUMI SERPONG DAMAI, PT</td>
+			<td>BSDE</td>
+			<td>BUMI SERPONG DAMAI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAY-2015</td>
+			<td>19-MAY-2015</td>
+			<td>05-JUN-2015</td>
+			<td>1</td>
+			<td>BSDE</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan Rp 15,-  (lima belas Rupiah).</td>
+			<td>KSEI-11252/JKU/0515</td>
+			<td>11-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>68.</td>
+			<td>BANK MEGA Tbk, PT</td>
+			<td>MEGA</td>
+			<td>BANK MEGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-MAY-2015</td>
+			<td>20-MAY-2015</td>
+			<td>10-JUN-2015</td>
+			<td>1</td>
+			<td>MEGA</td>
+			<td>14.36</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 14,36 (empat belas Rupiah koma tiga enam).</td>
+			<td>KSEI-11431/JKU/0515</td>
+			<td>12-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>69.</td>
+			<td>PUDJIADI AND SONS Tbk, PT</td>
+			<td>PNSE</td>
+			<td>PUDJIADI AND SONS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-MAY-2015</td>
+			<td>20-MAY-2015</td>
+			<td>10-JUN-2015</td>
+			<td>1</td>
+			<td>PNSE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-11430/JKU/0515</td>
+			<td>12-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>70.</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk, PT</td>
+			<td>EPMT</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>11-JUN-2015</td>
+			<td>1</td>
+			<td>EPMT</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-11771/JKU/0515</td>
+			<td>15-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>71.</td>
+			<td>PUDJIADI PRESTIGE Tbk, PT</td>
+			<td>PUDP</td>
+			<td>PUDJIADI PRESTIGE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>11-JUN-2015</td>
+			<td>1</td>
+			<td>PUDP</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-11613/JKU/0515</td>
+			<td>13-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>72.</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk, PT</td>
+			<td>INDF</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>11-JUN-2015</td>
+			<td>1</td>
+			<td>INDF</td>
+			<td>220</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 220,- (dua ratus dua puluh Rupiah)</td>
+			<td>KSEI-11618/JKU/0515</td>
+			<td>13-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>73.</td>
+			<td>MNC KAPITAL INDONESIA Tbk, PT</td>
+			<td>BCAP</td>
+			<td>MNC KAPITAL INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>11-JUN-2015</td>
+			<td>1</td>
+			<td>BCAP</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-11619/JKU/0515</td>
+			<td>13-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>74.</td>
+			<td>MULTI INDOCITRA Tbk, PT</td>
+			<td>MICE</td>
+			<td>MULTI INDOCITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>11-JUN-2015</td>
+			<td>1</td>
+			<td>MICE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-11621/JKU/0515</td>
+			<td>13-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>75.</td>
+			<td>PT GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>GMTD</td>
+			<td>GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>11-JUN-2015</td>
+			<td>1</td>
+			<td>GMTD</td>
+			<td>65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 65,- (enam puluh lima Rupiah)</td>
+			<td>KSEI-11622/JKU/0515</td>
+			<td>13-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>76.</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk, PT</td>
+			<td>ICBP</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2015</td>
+			<td>21-MAY-2015</td>
+			<td>09-JUN-2015</td>
+			<td>1</td>
+			<td>ICBP</td>
+			<td>222</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 Saham akan memperoleh Rp 222,- (dua ratus dua puluh dua Rupiah)</td>
+			<td>KSEI-11614/JKU/0515</td>
+			<td>13-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>77.</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk, PT</td>
+			<td>SDRA</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2015</td>
+			<td>25-MAY-2015</td>
+			<td>12-JUN-2015</td>
+			<td>1</td>
+			<td>SDRA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-11772/JKU/0515</td>
+			<td>15-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>78.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>17-JUN-2015</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 70,- (tujuh puluh Rupiah).</td>
+			<td>KSEI-11921/JKU/0515</td>
+			<td>18-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>79.</td>
+			<td>TRIAS SENTOSA Tbk, PT</td>
+			<td>TRST</td>
+			<td>TRIAS SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>17-JUN-2015</td>
+			<td>1</td>
+			<td>TRST</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td>KSEI-11926/JKU/0515</td>
+			<td>18-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>80.</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk, PT</td>
+			<td>SIDO</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>12-JUN-2015</td>
+			<td>1</td>
+			<td>SIDO</td>
+			<td>24</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 24,- (dua puluh empat Rupiah)</td>
+			<td>KSEI-11773/JKU/0515</td>
+			<td>15-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>81.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>17-JUN-2015</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>36</td>
+			<td>IDR</td>
+			<td>Rasio Dividen adalah setiap 1 (satu) saham akan memperoleh Rp 36,- (tiga puluh enam Rupiah)</td>
+			<td>KSEI-12131/JKU/0515</td>
+			<td>19-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>82.</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk, PT</td>
+			<td>INTP</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>17-JUN-2015</td>
+			<td>1</td>
+			<td>INTP</td>
+			<td>1350</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 1.350,- (seribu tiga ratus lima puluh Rupiah).</td>
+			<td>KSEI-11922/JKU/0515</td>
+			<td>18-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>83.</td>
+			<td>LAUTAN LUAS Tbk, PT</td>
+			<td>LTLS</td>
+			<td>LAUTAN LUAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-MAY-2015</td>
+			<td>26-MAY-2015</td>
+			<td>15-JUN-2015</td>
+			<td>1</td>
+			<td>LTLS</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 17,- (tujuh belas Rupiah).</td>
+			<td>KSEI-11924/JKU/0515</td>
+			<td>18-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>84.</td>
+			<td>KALBE FARMA Tbk, PT</td>
+			<td>KLBF</td>
+			<td>KALBE FARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2015</td>
+			<td>28-MAY-2015</td>
+			<td>17-JUN-2015</td>
+			<td>1</td>
+			<td>KLBF</td>
+			<td>19</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 19,- (sembilan belas Rupiah)</td>
+			<td>KSEI-12249/JKU/0515</td>
+			<td>20-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>85.</td>
+			<td>SILOAM INTERNATIONAL HOSPITALS Tbk, PT</td>
+			<td>SILO</td>
+			<td>SILOAM INTERNATIONAL HOSPITALS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>18-JUN-2015</td>
+			<td>1</td>
+			<td>SILO</td>
+			<td>5.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp  5,2 (lima Rupiah koma dua).</td>
+			<td>KSEI-12631/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>86.</td>
+			<td>SAMINDO RESOURCES Tbk, PT</td>
+			<td>MYOH</td>
+			<td>SAMINDO RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>MYOH</td>
+			<td>47.96</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 47,96 (empat puluh tujuh Rupiah koma sembilan enam)</td>
+			<td>KSEI-12751/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>87.</td>
+			<td>FAJAR SURYA WISESA Tbk, PT</td>
+			<td>FASW</td>
+			<td>FAJAR SURYA WISESA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>FASW</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td>KSEI-12439/JKU/0515</td>
+			<td>21-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>88.</td>
+			<td>PT HOLCIM INDONESIA TbK</td>
+			<td>SMCB</td>
+			<td>HOLCIM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>SMCB</td>
+			<td>31</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 31,- (tiga puluh satu Rupiah)</td>
+			<td>KSEI-12440/JKU/0515</td>
+			<td>21-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>89.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2015</td>
+			<td>29-MAY-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>138</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp. 138 (seratus tiga puluh delapan Rupiah)</td>
+			<td>KSEI-12760/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>90.</td>
+			<td>GLOBAL MEDIACOM Tbk, PT</td>
+			<td>BMTR</td>
+			<td>GLOBAL MEDIACOM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>BMTR</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp25,- (dua puluh lima Rupiah).</td>
+			<td>KSEI-12629/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>91.</td>
+			<td>MEDIA NUSANTARA CITRA Tbk, PT</td>
+			<td>MNCN</td>
+			<td>MEDIA NUSANTARA CITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>17-JUN-2015</td>
+			<td>1</td>
+			<td>MNCN</td>
+			<td>63</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 63,- (delapan belas Rupiah koma sembilan).</td>
+			<td>KSEI-12628/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>92.</td>
+			<td>WISMILAK INTI MAKMUR Tbk</td>
+			<td>WIIM</td>
+			<td>WISMILAK INTI MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>WIIM</td>
+			<td>13.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 13,5 (tiga belas Rupiah koma lima)</td>
+			<td>KSEI-12745/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>93.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBI</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI A</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>SQBI</td>
+			<td>16000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp. 16.000 (enam belas ribu Rupiah)</td>
+			<td>KSEI-12761/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>94.</td>
+			<td>GEMA GRAHA SARANA Tbk, PT</td>
+			<td>GEMA</td>
+			<td>GEMA GRAHASARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>GEMA</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 7,- (tujuh Rupiah)</td>
+			<td>KSEI-12626/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>95.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBB</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI B</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>SQBB</td>
+			<td>16000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp. 16.000 (enam belas ribu Rupiah)</td>
+			<td>KSEI-12762/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>96.</td>
+			<td>ACE HARDWARE INDONESIA Tbk, PT</td>
+			<td>ACES</td>
+			<td>ACE HARDWARE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>ACES</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 16,- (enam belas Rupiah koma sembilan).</td>
+			<td>KSEI-12630/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>97.</td>
+			<td>PT. INDORITEL MAKMUR INTERNASIONAL Tbk</td>
+			<td>DNET</td>
+			<td>INDORITEL MAKMUR INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>DNET</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 2,- (dua Rupiah)</td>
+			<td>KSEI-12627/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>98.</td>
+			<td>METROPOLITAN KENTJANA Tbk. PT</td>
+			<td>MKPI</td>
+			<td>METROPOLITAN KENTJANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>05-JUN-2015</td>
+			<td>1</td>
+			<td>MKPI</td>
+			<td>223.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan Rp 223,70 (dua ratus dua puluh tiga Rupiah koma tujuh nol).</td>
+			<td>KSEI-11253/JKU/0515</td>
+			<td>11-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>99.</td>
+			<td>PEMBANGUNAN GRAHA LESTARI Tbk, PT</td>
+			<td>PGLI</td>
+			<td>PEMBANGUNAN GRAHA LESTARI INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2015</td>
+			<td>01-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>PGLI</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Waktu : -
+Tempat : -
+
+Bagi Pemegang Rekening yang akan hadir dalam Pelaksanaan RUPS diwajibkan untuk membawa Identitas Diri berupa KTP atau Anggaran Dasar Perseroan.</td>
+			<td>KSEI-12623/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>100.</td>
+			<td>MNC INVESTAMA Tbk, PT</td>
+			<td>BHIT</td>
+			<td>MNC INVESTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>1</td>
+			<td>BHIT</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-12873/JKU/0515</td>
+			<td>26-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>101.</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk, PT</td>
+			<td>ADMF</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>ADMF</td>
+			<td>396</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 396,- (tiga ratus sembilan puluh enam Rupiah)</td>
+			<td>KSEI-12744/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>102.</td>
+			<td>TIPHONE MOBILE INDONESIA Tbk, PT</td>
+			<td>TELE</td>
+			<td>TIPHONE MOBILE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>1</td>
+			<td>TELE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>103.</td>
+			<td>PEMBANGUNAN PERUMAHAN (PERSERO), PT</td>
+			<td>PTPP</td>
+			<td>PP (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>1</td>
+			<td>PTPP</td>
+			<td>21.97</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 21,97 (dua puluhsatuRupiah koma sembilan tujuh)</td>
+			<td>KSEI-12625/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>104.</td>
+			<td>MNC LAND Tbk, PT</td>
+			<td>KPIG</td>
+			<td>MNC LAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>23-JUN-2015</td>
+			<td>1</td>
+			<td>KPIG</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-12871/JKU/0515</td>
+			<td>26-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>105.</td>
+			<td>BANK MESTIKA DHARMA Tbk, PT</td>
+			<td>BBMD</td>
+			<td>BANK MESTIKA DHARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>1</td>
+			<td>BBMD</td>
+			<td>12.22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 12,22 (dua belas koma dua dua Rupiah)</td>
+			<td>KSEI-12624/JKU/0515</td>
+			<td>22-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>106.</td>
+			<td>PANCA GLOBAL SECURITIES Tbk, PT</td>
+			<td>PEGE</td>
+			<td>PANCA GLOBAL SECURITIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>1</td>
+			<td>PEGE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-12746/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>107.</td>
+			<td>ASURANSI RAMAYANA Tbk, PT</td>
+			<td>ASRM</td>
+			<td>ASURANSI RAMAYANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAY-2015</td>
+			<td>03-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>1</td>
+			<td>ASRM</td>
+			<td>85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 85,- (delapan puluh lima Rupiah)</td>
+			<td>KSEI-12749/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>108.</td>
+			<td>JAYA AGRA WATTIE Tbk</td>
+			<td>JAWA</td>
+			<td>JAYA AGRA WATTIE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-MAY-2015</td>
+			<td>04-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>1</td>
+			<td>JAWA</td>
+			<td>1.34</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 1,34 (satu Rupiah koma tiga empat)</td>
+			<td>KSEI-12874/JKU/0515</td>
+			<td>26-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>109.</td>
+			<td>METROPOLITAN LAND Tbk. PT</td>
+			<td>MTLA</td>
+			<td>METROPOLITAN LAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-MAY-2015</td>
+			<td>04-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>1</td>
+			<td>MTLA</td>
+			<td>3.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 3,5 (tiga Rupiah koma lima)</td>
+			<td>KSEI-12876/JKU/0515</td>
+			<td>26-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>110.</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk, PT</td>
+			<td>MPMX</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-MAY-2015</td>
+			<td>04-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>1</td>
+			<td>MPMX</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td>KSEI-12747/JKU/0515</td>
+			<td>25-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>111.</td>
+			<td>MASKAPAI REASURANSI Tbk, PT</td>
+			<td>MREI</td>
+			<td>MASKAPAI REASURANSI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2015</td>
+			<td>08-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>MREI</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-13013/JKU/0515</td>
+			<td>27-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>112.</td>
+			<td>MIDI UTAMA INDONESIA Tbk. PT</td>
+			<td>MIDI</td>
+			<td>MIDI UTAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2015</td>
+			<td>08-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>MIDI</td>
+			<td>14.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 14,5 (empat belas Rupiah koma lima)</td>
+			<td>KSEI-13164/JKU/0515</td>
+			<td>28-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>113.</td>
+			<td>SAMUDERA INDONESIA Tbk, PT</td>
+			<td>SMDR</td>
+			<td>SAMUDERA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2015</td>
+			<td>08-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>SMDR</td>
+			<td>380</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 380,- (tiga ratus delapan puluh Rupiah)</td>
+			<td>KSEI-13163/JKU/0515</td>
+			<td>28-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>114.</td>
+			<td>PT. MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>MLPT</td>
+			<td>MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUN-2015</td>
+			<td>09-JUN-2015</td>
+			<td>29-JUN-2015</td>
+			<td>1</td>
+			<td>MLPT</td>
+			<td>5.71</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,71 (lima Rupiah koma tujuh satu)</td>
+			<td>KSEI-13317/JKU/0515</td>
+			<td>29-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>115.</td>
+			<td>LIPPO GENERAL INSURANCE Tbk, PT</td>
+			<td>LPGI</td>
+			<td>LIPPO GENERAL INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUN-2015</td>
+			<td>09-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>1</td>
+			<td>LPGI</td>
+			<td>180</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 180,- (seratus delapan puluh Rupiah)</td>
+			<td>KSEI-13318/JKU/0515</td>
+			<td>29-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>116.</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk, PT</td>
+			<td>AMRT</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUN-2015</td>
+			<td>09-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>AMRT</td>
+			<td>3.85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 3,85 (tiga Rupiah koma delapan lima)</td>
+			<td>KSEI-13461/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>117.</td>
+			<td>GOODYEAR INDONESIA Tbk, PT</td>
+			<td>GDYR</td>
+			<td>GOODYEAR INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-JUN-2015</td>
+			<td>09-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>GDYR</td>
+			<td>300</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 300 (tiga ratus Rupiah)</td>
+			<td>KSEI-13319/JKU/0515</td>
+			<td>29-MAY-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>118.</td>
+			<td>ARWANA CITRAMULIA Tbk, PT</td>
+			<td>ARNA</td>
+			<td>ARWANA CITRAMULIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2015</td>
+			<td>10-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>ARNA</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-13463/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>119.</td>
+			<td>NIPPON INDOSARI CORPINDO, PT</td>
+			<td>ROTI</td>
+			<td>NIPPON INDOSARI CORPINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2015</td>
+			<td>10-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>ROTI</td>
+			<td>5.53</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,53 (lima Rupiah koma lima tiga)</td>
+			<td>KSEI-13470/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>120.</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk, PT</td>
+			<td>LPPF</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2015</td>
+			<td>10-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>LPPF</td>
+			<td>291.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 291,80 (dua ratus sembilan puluh satu Rupiah koma delapan nol)</td>
+			<td>KSEI-13469/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>121.</td>
+			<td>BANK BUKOPIN Tbk, PT</td>
+			<td>BBKP</td>
+			<td>BANK BUKOPIN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2015</td>
+			<td>10-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>BBKP</td>
+			<td>23.91802</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 23,91802 (dua puluh tiga Rupiah koma sembilan satu delapan nol dua)</td>
+			<td>KSEI-13466/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>122.</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk, PT</td>
+			<td>MFMI</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-JUN-2015</td>
+			<td>10-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>MFMI</td>
+			<td>1.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 1,8 (satu Rupiah koma delapan)</td>
+			<td>KSEI-13468/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>123.</td>
+			<td>MODERNLAND REALTY Tbk, PT</td>
+			<td>MDLN</td>
+			<td>MODERNLAND REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2015</td>
+			<td>11-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>MDLN</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-13467/JKU/0615</td>
+			<td>01-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>124.</td>
+			<td>MULTIPOLAR Tbk, PT</td>
+			<td>MLPL</td>
+			<td>MULTIPOLAR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2015</td>
+			<td>11-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>MLPL</td>
+			<td>9.4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 9,4 (sembilan Rupiah koma empat)</td>
+			<td>KSEI-13856/JKU/0615</td>
+			<td>04-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>125.</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk, PT</td>
+			<td>RALS</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2015</td>
+			<td>11-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>RALS</td>
+			<td>27</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 27- (dua puluh tujuh Rupiah).</td>
+			<td>KSEI-13664/JKU/0615</td>
+			<td>03-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>126.</td>
+			<td>TIFA FINANCE, PT</td>
+			<td>TIFA</td>
+			<td>TIFA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2015</td>
+			<td>11-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>TIFA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-13662/JKU/0615</td>
+			<td>03-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>127.</td>
+			<td>BISI INTERNATIONAL Tbk, PT</td>
+			<td>BISI</td>
+			<td>BISI INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2015</td>
+			<td>11-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>BISI</td>
+			<td>21</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 21,- (dua puluh satu Rupiah).</td>
+			<td>KSEI-13663/JKU/0615</td>
+			<td>03-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>128.</td>
+			<td>SEKAR LAUT Tbk, PT</td>
+			<td>SKLT</td>
+			<td>SEKAR LAUT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2015</td>
+			<td>15-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>SKLT</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 5,- (lima Rupiah).</td>
+			<td>KSEI-14342/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>129.</td>
+			<td>JASUINDO TIGA PERKASA Tbk , PT</td>
+			<td>JTPE</td>
+			<td>JASUINDO TIGA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2015</td>
+			<td>15-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>JTPE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-13855/JKU/0615</td>
+			<td>04-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>130.</td>
+			<td>INTAN BARUPRANA FINANCE, PT</td>
+			<td>IBFN</td>
+			<td>INTAN BARUPRANA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2015</td>
+			<td>15-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>IBFN</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 1,- (satu Rupiah).</td>
+			<td>KSEI-14033/JKU/0615</td>
+			<td>05-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>131.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2015</td>
+			<td>15-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td>KSEI-13854/JKU/0615</td>
+			<td>04-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>132.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2015</td>
+			<td>15-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>64</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 64,- (enam puluh empat Rupiah).</td>
+			<td>KSEI-14031/JKU/0615</td>
+			<td>05-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>133.</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk, PT</td>
+			<td>JKON</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2015</td>
+			<td>15-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>JKON</td>
+			<td>4.3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 4,3 (empat Rupiah koma tiga).</td>
+			<td>KSEI-14032/JKU/0615</td>
+			<td>05-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>134.</td>
+			<td>MITRA KELUARGA SEHAT Tbk, PT</td>
+			<td>MIKA</td>
+			<td>MITRA KELUARGA KARYASEHAT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUN-2015</td>
+			<td>16-JUN-2015</td>
+			<td>08-JUL-2015</td>
+			<td>1</td>
+			<td>MIKA</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 200,- (dua ratus Rupiah).</td>
+			<td>KSEI-14210/JKU/0615</td>
+			<td>08-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>135.</td>
+			<td>LIONMESH PRIMA Tbk, PT</td>
+			<td>LMSH</td>
+			<td>LIONMESH PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUN-2015</td>
+			<td>16-JUN-2015</td>
+			<td>08-JUL-2015</td>
+			<td>1</td>
+			<td>LMSH</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 100,- (seratus Rupiah).</td>
+			<td>KSEI-14208/JKU/0615</td>
+			<td>08-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>136.</td>
+			<td>BLUE BIRD Tbk, PT</td>
+			<td>BIRD</td>
+			<td>BLUE BIRD Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUN-2015</td>
+			<td>16-JUN-2015</td>
+			<td>08-JUL-2015</td>
+			<td>1</td>
+			<td>BIRD</td>
+			<td>42.83</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 42,83 (empat puluh dua Rupiah koma delapan tiga).</td>
+			<td>KSEI-14211/JKU/0615</td>
+			<td>08-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>137.</td>
+			<td>JAYA REAL PROPERTY Tbk, PT</td>
+			<td>JRPT</td>
+			<td>JAYA REAL PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUN-2015</td>
+			<td>16-JUN-2015</td>
+			<td>08-JUL-2015</td>
+			<td>1</td>
+			<td>JRPT</td>
+			<td>17.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 17,50 (tujuh belas Rupiah koma lima nol).</td>
+			<td>KSEI-14209/JKU/0615</td>
+			<td>08-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>138.</td>
+			<td>LION METAL WORKS Tbk, PT</td>
+			<td>LION</td>
+			<td>LION METAL WORKS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUN-2015</td>
+			<td>16-JUN-2015</td>
+			<td>08-JUL-2015</td>
+			<td>1</td>
+			<td>LION</td>
+			<td>400</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 400,- (empat ratus Rupiah).</td>
+			<td>KSEI-14207/JKU/0615</td>
+			<td>08-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>139.</td>
+			<td>BUANA FINANCE Tbk, PT</td>
+			<td>BBLD</td>
+			<td>BUANA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUN-2015</td>
+			<td>17-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>1</td>
+			<td>BBLD</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 60,- (enam puluh Rupiah).</td>
+			<td>KSEI-14341/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>140.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUN-2015</td>
+			<td>17-JUN-2015</td>
+			<td>08-JUL-2015</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>29</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 ialah setiap 1 (satu) saham akan memperoleh Rp 29,- (dua puluh sembilan Rupiah)</td>
+			<td>KSEI-14347/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>141.</td>
+			<td>PT ASAHIMAS FLAT GLASS Tbk</td>
+			<td>AMFG</td>
+			<td>ASAHIMAS FLAT GLASS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUN-2015</td>
+			<td>17-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>AMFG</td>
+			<td>80</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 80,- (delapan puluh Rupiah).</td>
+			<td>KSEI-14340/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>142.</td>
+			<td>MINNA PADI INVESTAMA Tbk, PT</td>
+			<td>PADI</td>
+			<td>MINNA PADI INVESTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUN-2015</td>
+			<td>17-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>PADI</td>
+			<td>0.9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 0,90 (sembilan puluh sent Rupiah).</td>
+			<td>KSEI-14345/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>143.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUN-2015</td>
+			<td>17-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 ialah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td>KSEI-14346/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>144.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>18.29</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 18,29 (delapan belas Rupiah koma dua sembilan)</td>
+			<td>KSEI-14643/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>145.</td>
+			<td>JEMBO CABLE COMPANY Tbk, PT</td>
+			<td>JECC</td>
+			<td>JEMBO CABLE COMPANY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>JECC</td>
+			<td>60</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 60,-  (enam puluh Rupiah).</td>
+			<td>KSEI-14482/JKU/0615</td>
+			<td>10-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>146.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>07-JUL-2015</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>416</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 416,- (empat ratus enam belas Rupiah).</td>
+			<td>KSEI-14344/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>147.</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk, PT</td>
+			<td>PJAA</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>PJAA</td>
+			<td>65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 65,- (enam puluh lima Rupiah).</td>
+			<td>KSEI-14475/JKU/0615</td>
+			<td>10-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>148.</td>
+			<td>CITRA TUBINDO Tbk, PT</td>
+			<td>CTBN</td>
+			<td>CITRA TUBINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>CTBN</td>
+			<td>333.39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 333,39 (tiga ratus tiga puluh tiga Rupiah koma tiga sembilan)</td>
+			<td>KSEI-14488/JKU/0615</td>
+			<td>10-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>149.</td>
+			<td>ADI SARANA ARMADA Tbk. PT</td>
+			<td>ASSA</td>
+			<td>ADI SARANA ARMADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>09-JUL-2015</td>
+			<td>1</td>
+			<td>ASSA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 5,- (lima Rupiah).</td>
+			<td>KSEI-14343/JKU/0615</td>
+			<td>09-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>150.</td>
+			<td>FAST FOOD INDONESIA Tbk, PT</td>
+			<td>FAST</td>
+			<td>FAST FOOD INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2015</td>
+			<td>18-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>FAST</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 30,- (tiga puluh Rupiah).</td>
+			<td>KSEI-14484/JKU/0615</td>
+			<td>10-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>151.</td>
+			<td>INTILAND DEVELOPMENT Tbk, PT</td>
+			<td>DILD</td>
+			<td>INTILAND DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>DILD</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-14637/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>152.</td>
+			<td>KABELINDO MURNI Tbk, PT</td>
+			<td>KBLM</td>
+			<td>KABELINDO MURNI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>KBLM</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-14647/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>153.</td>
+			<td>PAN BROTHERS Tbk, PT</td>
+			<td>PBRX</td>
+			<td>PAN BROTHERS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>PBRX</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-14648/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>154.</td>
+			<td>PERDANA GAPURAPRIMA Tbk, PT</td>
+			<td>GPRA</td>
+			<td>PERDANA GAPURAPRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>07-JUL-2015</td>
+			<td>1</td>
+			<td>GPRA</td>
+			<td>2.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 2,5 (dua Rupiah koma lima)</td>
+			<td>KSEI-14638/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>155.</td>
+			<td>SURYA SEMESTA INTERNUSA Tbk, PT</td>
+			<td>SSIA</td>
+			<td>SURYA SEMESTA INTERNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>09-JUL-2015</td>
+			<td>1</td>
+			<td>SSIA</td>
+			<td>18</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 18,- (delapan belas Rupiah)</td>
+			<td>KSEI-14645/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>156.</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>ERAA</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>ERAA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td>KSEI-14640/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>157.</td>
+			<td>PT. SAMPOERNA AGRO, Tbk</td>
+			<td>SGRO</td>
+			<td>SAMPOERNA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>1</td>
+			<td>SGRO</td>
+			<td>36</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun Buku 2014 adalah setiap 1 (satu ) saham akan mendapatkan Rp 36,- (tiga puluh enam Rupiah).</td>
+			<td>KSEI-14472/JKU/0615</td>
+			<td>10-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>158.</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk, PT</td>
+			<td>SMAR</td>
+			<td>SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>SMAR</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-14641/JKU/0615</td>
+			<td>11-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>159.</td>
+			<td>UNGGUL INDAH CAHAYA Tbk, PT</td>
+			<td>UNIC</td>
+			<td>UNGGUL INDAH CAHAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2015</td>
+			<td>19-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>UNIC</td>
+			<td>69</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 69,- (enam puluh sembilan Rupiah).</td>
+			<td>KSEI-14773/JKU/0615</td>
+			<td>12-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>160.</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMM Tbk, PT</td>
+			<td>SCCO</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMMERCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2015</td>
+			<td>22-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>SCCO</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 200,- (dua ratus Rupiah).</td>
+			<td>KSEI-14778/JKU/0615</td>
+			<td>12-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>161.</td>
+			<td>MAYORA INDAH Tbk, PT</td>
+			<td>MYOR</td>
+			<td>MAYORA INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2015</td>
+			<td>22-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>MYOR</td>
+			<td>160</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 160,- (seratus enam puluh Rupiah).</td>
+			<td>KSEI-14774/JKU/0615</td>
+			<td>12-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>162.</td>
+			<td>PT. BEKASI FAJAR INDUSTRIAL ESTATE, Tbk</td>
+			<td>BEST</td>
+			<td>BEKASI FAJAR INDUSTRIAL ESTATE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2015</td>
+			<td>22-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>BEST</td>
+			<td>2.28</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 2,28 (dua Rupiah koma dua delapan).</td>
+			<td>KSEI-14777/JKU/0615</td>
+			<td>12-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>163.</td>
+			<td>DWI ANEKA JAYA KEMASINDO Tbk. PT</td>
+			<td>DAJK</td>
+			<td>DWI ANEKA JAYA KEMASINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2015</td>
+			<td>22-JUN-2015</td>
+			<td>09-JUL-2015</td>
+			<td>1</td>
+			<td>DAJK</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 7,- (tujuh Rupiah).</td>
+			<td>KSEI-14775/JKU/0615</td>
+			<td>12-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>164.</td>
+			<td>SUMMARECON AGUNG Tbk, PT</td>
+			<td>SMRA</td>
+			<td>SUMMARECON AGUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2015</td>
+			<td>22-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>SMRA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td>KSEI-14912/JKU/0615</td>
+			<td>15-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>165.</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk, PT</td>
+			<td>JSPT</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2015</td>
+			<td>23-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>JSPT</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 16,- (enam belas Rupiah)</td>
+			<td>KSEI-14911/JKU/0615</td>
+			<td>15-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>166.</td>
+			<td>KMI WIRE AND CABLE Tbk, PT</td>
+			<td>KBLI</td>
+			<td>KMI Wire and Cable Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2015</td>
+			<td>23-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>KBLI</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td>KSEI-14903/JKU/0615</td>
+			<td>15-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>167.</td>
+			<td>DELTA DJAKARTA Tbk, PT</td>
+			<td>DLTA</td>
+			<td>DELTA DJAKARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2015</td>
+			<td>23-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>DLTA</td>
+			<td>6000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tuna iadalah setiap 1 saham akan memperoleh Rp 6.000,- (enam ribu Rupiah)</td>
+			<td>KSEI-15044/JKU/0615</td>
+			<td>16-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>168.</td>
+			<td>BANK BUMI ARTA Tbk, PT</td>
+			<td>BNBA</td>
+			<td>BANK BUMI ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-JUN-2015</td>
+			<td>23-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>BNBA</td>
+			<td>5.61</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,61 (lima Rupiah koma enam satu)</td>
+			<td>KSEI-14904/JKU/0615</td>
+			<td>15-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>169.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>7.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tuna iadalah setiap 1 saham akan memperoleh Rp 7,5 (tujuh Rupiah koma lima)</td>
+			<td>KSEI-15046/JKU/0615</td>
+			<td>16-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>170.</td>
+			<td>PT. LIPPO KARAWACI Tbk</td>
+			<td>LPKR</td>
+			<td>LIPPO KARAWACI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>14-JUL-2015</td>
+			<td>1</td>
+			<td>LPKR</td>
+			<td>16.68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 16,68 (enam belas Rupiah koma enam delapan)</td>
+			<td>KSEI-14909/JKU/0615</td>
+			<td>15-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>171.</td>
+			<td>SINAR MAS MULTIARTHA Tbk, PT</td>
+			<td>SMMA</td>
+			<td>SINAR MAS MULTIARTHA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-JUN-2015</td>
+			<td>24-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>SMMA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tuna iadalah setiap 1 saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-15045/JKU/0615</td>
+			<td>16-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>172.</td>
+			<td>ASURANSI DAYIN MITRA Tbk, PT</td>
+			<td>ASDM</td>
+			<td>ASURANSI DAYIN MITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>ASDM</td>
+			<td>65</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 65,- (enam puluh lima Rupiah).</td>
+			<td>KSEI-15378/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>173.</td>
+			<td>ASURANSI HARTA AMAN PRATAMA Tbk, PT</td>
+			<td>AHAP</td>
+			<td>ASURANSI HARTA AMAN PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>14-JUL-2015</td>
+			<td>1</td>
+			<td>AHAP</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 7,- (tujuh Rupiah).</td>
+			<td>KSEI-15182/JKU/0615</td>
+			<td>17-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>174.</td>
+			<td>TIRA AUSTENITE Tbk, PT</td>
+			<td>TIRA</td>
+			<td>TIRA AUSTENITE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>TIRA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td>KSEI-15375/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>175.</td>
+			<td>NUSA KONSTRUKSI ENJINIRING Tbk, PT</td>
+			<td>DGIK</td>
+			<td>NUSA KONSTRUKSI ENJINIRING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>DGIK</td>
+			<td>3.35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 3,35 (tiga Rupiah koma tiga lima).</td>
+			<td>KSEI-15383/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>176.</td>
+			<td>ASURANSI MULTI ARTHA GUNA Tbk, PT</td>
+			<td>AMAG</td>
+			<td>ASURANSI MULTI ARTHA GUNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>13-JUL-2015</td>
+			<td>1</td>
+			<td>AMAG</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-15384/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>177.</td>
+			<td>COLORPAK INDONESIA Tbk, PT</td>
+			<td>CLPI</td>
+			<td>COLORPAK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>09-JUL-2015</td>
+			<td>1</td>
+			<td>CLPI</td>
+			<td>53.29</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 53,29 (lima puluh tiga Rupiah koma dua sembilan)</td>
+			<td>KSEI-15188/JKU/0615</td>
+			<td>17-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>178.</td>
+			<td>RICKY PUTRA GLOBALINDO Tbk, PT</td>
+			<td>RICY</td>
+			<td>RICKY PUTRA GLOBALINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>RICY</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td>KSEI-15504/JKU/0615</td>
+			<td>19-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>179.</td>
+			<td>ASURANSI JASA TANIA Tbk, PT</td>
+			<td>ASJT</td>
+			<td>ASURANSI JASA TANIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2015</td>
+			<td>25-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>ASJT</td>
+			<td>17.54</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 17,54 (tujuh belas Rupiah koma lima empat).</td>
+			<td>KSEI-15377/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>180.</td>
+			<td>MULTISTRADA ARAH SARANA Tbk, PT</td>
+			<td>MASA</td>
+			<td>MULTISTRADA ARAH SARANA TBK</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>10-JUL-2015</td>
+			<td>1</td>
+			<td>MASA</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 2,- (dua Rupiah).</td>
+			<td>KSEI-15379/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>181.</td>
+			<td>POOL ADVISTA INDONESIA Tbk, PT</td>
+			<td>POOL</td>
+			<td>POOL ADVISTA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>POOL</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td>KSEI-15381/JKU/0615</td>
+			<td>18-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>182.</td>
+			<td>BETONJAYA MANUNGGAL Tbk, PT</td>
+			<td>BTON</td>
+			<td>BETONJAYA MANUNGGAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2015</td>
+			<td>26-JUN-2015</td>
+			<td>13-JUL-2015</td>
+			<td>1</td>
+			<td>BTON</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td>KSEI-15502/JKU/0615</td>
+			<td>19-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>183.</td>
+			<td>INDOSPRING Tbk, PT</td>
+			<td>INDS</td>
+			<td>INDOSPRING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-JUN-2015</td>
+			<td>29-JUN-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>INDS</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 55,- (lima puluh lima Rupiah)</td>
+			<td>KSEI-15505/JKU/0615</td>
+			<td>19-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>184.</td>
+			<td>SEKAR BUMI Tbk, PT</td>
+			<td>SKBM</td>
+			<td>SEKAR BUMI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2015</td>
+			<td>30-JUN-2015</td>
+			<td>22-JUL-2015</td>
+			<td>1</td>
+			<td>SKBM</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td>KSEI-15647/JKU/0615</td>
+			<td>22-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>185.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2015</td>
+			<td>30-JUN-2015</td>
+			<td>14-JUL-2015</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td>KSEI-15495/JKU/0615</td>
+			<td>19-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>186.</td>
+			<td>EKADHARMA INTERNATIONAL Tbk, PT</td>
+			<td>EKAD</td>
+			<td>EKADHARMA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-JUN-2015</td>
+			<td>30-JUN-2015</td>
+			<td>22-JUL-2015</td>
+			<td>1</td>
+			<td>EKAD</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 9,- (sembilan Rupiah)</td>
+			<td>KSEI-15648/JKU/0615</td>
+			<td>22-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>187.</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk, PT</td>
+			<td>CPIN</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>15-JUL-2015</td>
+			<td>1</td>
+			<td>CPIN</td>
+			<td>18</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 18,- (delapan belas Rupiah).</td>
+			<td>KSEI-15735/JKU/0615</td>
+			<td>23-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>188.</td>
+			<td>PT. PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>NELY</td>
+			<td>PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>23-JUL-2015</td>
+			<td>1</td>
+			<td>NELY</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td>KSEI-15893/JKU/0615</td>
+			<td>24-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>189.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>23-JUL-2015</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>3.4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 3,40 (tiga Rupiah koma empat nol).</td>
+			<td>KSEI-15736/JKU/0615</td>
+			<td>23-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>190.</td>
+			<td>MANDALA MULTIFINANCE Tbk, PT</td>
+			<td>MFIN</td>
+			<td>MANDALA MULTIFINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>23-JUL-2015</td>
+			<td>1</td>
+			<td>MFIN</td>
+			<td>23</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 23,- (dua puluh tiga Rupiah).</td>
+			<td>KSEI-15737/JKU/0615</td>
+			<td>23-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>191.</td>
+			<td>CARDIG AERO SERVICES Tbk, PT</td>
+			<td>CASS</td>
+			<td>CARDIG AERO SERVICES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUN-2015</td>
+			<td>01-JUL-2015</td>
+			<td>23-JUL-2015</td>
+			<td>1</td>
+			<td>CASS</td>
+			<td>21</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 21,- (dua p[uluh satu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>192.</td>
+			<td>AUSTINDO NUSANTARA JAYA Tbk</td>
+			<td>ANJT</td>
+			<td>AUSTINDO NUSANTARA JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2015</td>
+			<td>02-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>ANJT</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 35,- (tiga puluh lima Rupiah)</td>
+			<td>KSEI-15892/JKU/0615</td>
+			<td>24-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>193.</td>
+			<td>BERLINA Tbk, PT</td>
+			<td>BRNA</td>
+			<td>BERLINA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>BRNA</td>
+			<td>17.39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp17,39 (tujuh belas Rupiah koma tiga sembilan).</td>
+			<td>KSEI-16051/JKU/0615</td>
+			<td>25-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>194.</td>
+			<td>ALAM SUTERA REALTY Tbk, PT</td>
+			<td>ASRI</td>
+			<td>ALAM SUTERA REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>ASRI</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,- (tujuh Rupiah).</td>
+			<td>KSEI-16054/JKU/0615</td>
+			<td>25-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>195.</td>
+			<td>PANIN SEKURITAS Tbk, PT</td>
+			<td>PANS</td>
+			<td>PANIN SEKURITAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>PANS</td>
+			<td>420</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 420,- (empat ratus dua puluh Rupiah).</td>
+			<td>KSEI-16053/JKU/0615</td>
+			<td>25-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>196.</td>
+			<td>TUNAS ALFIN Tbk, PT</td>
+			<td>TALF</td>
+			<td>TUNAS ALFIN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2015</td>
+			<td>03-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>TALF</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah).</td>
+			<td>KSEI-16050/JKU/0615</td>
+			<td>25-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>197.</td>
+			<td>DUTA PERTIWI NUSANTARA Tbk, PT</td>
+			<td>DPNS</td>
+			<td>DUTA PERTIWI NUSANTARA</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2015</td>
+			<td>06-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>DPNS</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun adalah setiap 1 (satu) saham akan menmperoleh Rp 15,- (lima belas Rupiah).</td>
+			<td>KSEI-16164/JKU/0615</td>
+			<td>26-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>198.</td>
+			<td>MEGAPOLITAN DEVELOPMENTS Tbk, PT</td>
+			<td>EMDE</td>
+			<td>MEGAPOLITAN DEVELOPMENTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2015</td>
+			<td>06-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>EMDE</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td>KSEI-16299/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>199.</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk, PT</td>
+			<td>CSAP</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2015</td>
+			<td>06-JUL-2015</td>
+			<td>24-JUL-2015</td>
+			<td>1</td>
+			<td>CSAP</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td>KSEI-16298/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>200.</td>
+			<td>PANORAMA SENTRAWISATA Tbk, PT</td>
+			<td>PANR</td>
+			<td>PANORAMA SENTRAWISATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>PANR</td>
+			<td>6.07</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 6,07 (enam Rupiah koma nol tujuh)</td>
+			<td>KSEI-16291/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>201.</td>
+			<td>PT. PAKUWON JATI Tbk</td>
+			<td>PWON</td>
+			<td>PAKUWON JATI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>PWON</td>
+			<td>4.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 4,5 (empat Rupiah koma lima)</td>
+			<td>KSEI-16295/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>202.</td>
+			<td>SARANA MEDITAMA METROPOLITAN Tbk. PT</td>
+			<td>SAME</td>
+			<td>SARANA MEDITAMA METROPOLITAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>SAME</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td>KSEI-16294/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>203.</td>
+			<td>ARGHA KARYA PRIMA INDUSTRY Tbk, PT</td>
+			<td>AKPI</td>
+			<td>ARGHA KARYA PRIMA INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>28-JUL-2015</td>
+			<td>1</td>
+			<td>AKPI</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-16293/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>204.</td>
+			<td>INDAH KIAT PULP & PAPER Tbk, PT</td>
+			<td>INKP</td>
+			<td>INDAH KIAT PULP AND PAPER Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>INKP</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td>KSEI-16297/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>205.</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk, PT</td>
+			<td>TKIM</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>TKIM</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-16296/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>206.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUL-2015</td>
+			<td>07-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-16292/JKU/0615</td>
+			<td>29-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>207.</td>
+			<td>PELAYARAN TEMPURAN EMAS Tbk, PT</td>
+			<td>TMAS</td>
+			<td>PELAYARAN TEMPURAN EMAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2015</td>
+			<td>08-JUL-2015</td>
+			<td>30-JUL-2015</td>
+			<td>1</td>
+			<td>TMAS</td>
+			<td>17.81</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 17,81 (tujuh belas Rupiah koma delapan satu)</td>
+			<td>KSEI-16427/JKU/0615</td>
+			<td>30-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>208.</td>
+			<td>KERAMIKA INDONESIA ASSOSIASI Tbk, PT</td>
+			<td>KIAS</td>
+			<td>KERAMIKA INDONESIA ASSOSIASI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2015</td>
+			<td>08-JUL-2015</td>
+			<td>30-JUL-2015</td>
+			<td>1</td>
+			<td>KIAS</td>
+			<td>1.55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,55 (satu Rupiah koma lima lima)</td>
+			<td>KSEI-16591/JKU/0715</td>
+			<td>01-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>209.</td>
+			<td>PT. RODA VIVATEX Tbk</td>
+			<td>RDTX</td>
+			<td>RODA VIVATEX Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2015</td>
+			<td>08-JUL-2015</td>
+			<td>30-JUL-2015</td>
+			<td>1</td>
+			<td>RDTX</td>
+			<td>85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 85,- (delapan puluh lima Rupiah)</td>
+			<td>KSEI-16426/JKU/0615</td>
+			<td>30-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>210.</td>
+			<td>GUDANG GARAM Tbk, PT</td>
+			<td>GGRM</td>
+			<td>GUDANG GARAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2015</td>
+			<td>08-JUL-2015</td>
+			<td>30-JUL-2015</td>
+			<td>1</td>
+			<td>GGRM</td>
+			<td>800</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 800,- (delapan ratus Rupiah)</td>
+			<td>KSEI-16424/JKU/0615</td>
+			<td>30-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>211.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2015</td>
+			<td>08-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>5.62</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,62 (lima Rupiah koma enam dua)</td>
+			<td>KSEI-16421/JKU/0615</td>
+			<td>30-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>212.</td>
+			<td>BANK NUSANTARA PARAHYANGAN Tbk, PT</td>
+			<td>BBNP</td>
+			<td>BANK NUSANTARA PARAHYANGAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUL-2015</td>
+			<td>08-JUL-2015</td>
+			<td>30-JUL-2015</td>
+			<td>1</td>
+			<td>BBNP</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 14,- (empat belas Rupiah)</td>
+			<td>KSEI-16423/JKU/0615</td>
+			<td>30-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>213.</td>
+			<td>SRI REJEKI ISMAN Tbk. PT</td>
+			<td>SRIL</td>
+			<td>SRI REJEKI ISMAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2015</td>
+			<td>09-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>SRIL</td>
+			<td>5.38</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 5,38 (lima Rupiah koma tiga delapan)</td>
+			<td>KSEI-16545/JKU/0715</td>
+			<td>01-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>214.</td>
+			<td>GAJAH TUNGGAL Tbk, PT</td>
+			<td>GJTL</td>
+			<td>GAJAH TUNGGAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2015</td>
+			<td>09-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>GJTL</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-16549/JKU/0715</td>
+			<td>01-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>215.</td>
+			<td>INDOMOBIL MULTI JASA Tbk, PT</td>
+			<td>IMJS</td>
+			<td>INDOMOBIL MULTI JASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2015</td>
+			<td>09-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>IMJS</td>
+			<td>5.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,8 (lima  Rupiah koma delapan).</td>
+			<td>KSEI-16546/JKU/0715</td>
+			<td>01-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>216.</td>
+			<td>FKS MULTI AGRO Tbk, PT</td>
+			<td>FISH</td>
+			<td>FKS MULTI AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2015</td>
+			<td>09-JUL-2015</td>
+			<td>29-JUL-2015</td>
+			<td>1</td>
+			<td>FISH</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-16420/JKU/0615</td>
+			<td>30-JUN-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>217.</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk, PT</td>
+			<td>IMAS</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2015</td>
+			<td>09-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>IMAS</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td>KSEI-16548/JKU/0715</td>
+			<td>01-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>218.</td>
+			<td>ELECTRONIC CITY INDONESIA Tbk</td>
+			<td>ECII</td>
+			<td>ELECTRONIC CITY INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUL-2015</td>
+			<td>09-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>ECII</td>
+			<td>9.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 9,7 (sembilan Rupiah koma tujuh)</td>
+			<td>KSEI-16559/JKU/0715</td>
+			<td>01-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>219.</td>
+			<td>PT CIPUTRA PROPERTY Tbk</td>
+			<td>CTRP</td>
+			<td>CIPUTRA PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2015</td>
+			<td>10-JUL-2015</td>
+			<td>28-JUL-2015</td>
+			<td>1</td>
+			<td>CTRP</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td>KSEI-16717/JKU/0715</td>
+			<td>02-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>220.</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk, PT</td>
+			<td>RUIS</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2015</td>
+			<td>10-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>RUIS</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td>KSEI-16713/JKU/0715</td>
+			<td>02-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>221.</td>
+			<td>CIPUTRA SURYA Tbk, PT</td>
+			<td>CTRS</td>
+			<td>CIPUTRA SURYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2015</td>
+			<td>10-JUL-2015</td>
+			<td>28-JUL-2015</td>
+			<td>1</td>
+			<td>CTRS</td>
+			<td>26</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 26,- (dua puluh enam Rupiah)</td>
+			<td>KSEI-16718/JKU/0715</td>
+			<td>02-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>222.</td>
+			<td>INDAL ALUMINIUM INDUSTRY Tbk, PT</td>
+			<td>INAI</td>
+			<td>INDAL ALUMINIUM INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2015</td>
+			<td>10-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>INAI</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 35,- (tiga puluh lima Rupiah)</td>
+			<td>KSEI-16714/JKU/0715</td>
+			<td>02-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>223.</td>
+			<td>BANK MASPION INDONESIA Tbk, PT</td>
+			<td>BMAS</td>
+			<td>BANK MASPION INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2015</td>
+			<td>10-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>BMAS</td>
+			<td>3.21</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,21 (tiga Rupiah koma dua satu)</td>
+			<td>KSEI-16715/JKU/0715</td>
+			<td>02-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>224.</td>
+			<td>CIPUTRA DEVELOPMENT Tbk, PT</td>
+			<td>CTRA</td>
+			<td>CIPUTRA DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUL-2015</td>
+			<td>10-JUL-2015</td>
+			<td>31-JUL-2015</td>
+			<td>1</td>
+			<td>CTRA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td>KSEI-16716/JKU/0715</td>
+			<td>02-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>225.</td>
+			<td>SUMI INDO KABEL Tbk, PT</td>
+			<td>IKBI</td>
+			<td>SUMI INDO KABEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUL-2015</td>
+			<td>27-JUL-2015</td>
+			<td>12-AUG-2015</td>
+			<td>1</td>
+			<td>IKBI</td>
+			<td>26.692</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 saham akan memperoleh Rp 26,692 (dua puluh enam Rupiah koma enam sembilan dua) .</td>
+			<td>KSEI-17707/JKU/0715</td>
+			<td>13-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>226.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2015</td>
+			<td>06-AUG-2015</td>
+			<td>21-AUG-2015</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.8479</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap unit penyertaan akan memperoleh Rp 1,8479 (satu Rupiah koma delapan empat tujuh sembilan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>227.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-AUG-2015</td>
+			<td>12-AUG-2015</td>
+			<td>21-AUG-2015</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td>KSEI-18808/JKU/0715</td>
+			<td>31-JUL-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>228.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-AUG-2015</td>
+			<td>21-AUG-2015</td>
+			<td>09-SEP-2015</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>1033</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2014 adalah setiap 1 saham akan memperoleh Rp 1.033,- (seribu tiga puluh tiga Rupiah)</td>
+			<td>KSEI-19533/JKU/0815</td>
+			<td>11-AUG-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>229.</td>
+			<td>ARITA PRIMA INDONESIA Tbk, PT</td>
+			<td>APII</td>
+			<td>ARITA PRIMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-AUG-2015</td>
+			<td>28-AUG-2015</td>
+			<td>09-SEP-2015</td>
+			<td>1</td>
+			<td>APII</td>
+			<td>5.94143</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,94143 (lima Rupiah koma sembilan empat satu empat tiga)</td>
+			<td>KSEI-19989/JKU/0815</td>
+			<td>18-AUG-2015</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>230.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-SEP-2015</td>
+			<td>14-SEP-2015</td>
+			<td>22-SEP-2015</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>225</td>
+			<td>IDR</td>
+			<td>Pembagian Dividen Interim II Tahun Buku 2015 adalah setiap 1 (satu) saham akan memperoleh Rp 225 (dua ratus dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>231.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-SEP-2015</td>
+			<td>17-SEP-2015</td>
+			<td>08-OCT-2015</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>232.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-SEP-2015</td>
+			<td>30-SEP-2015</td>
+			<td>21-OCT-2015</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>64</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 64,- (enam puluh empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>233.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-SEP-2015</td>
+			<td>30-SEP-2015</td>
+			<td>20-OCT-2015</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>234.</td>
+			<td>HEXINDO ADIPERKASA Tbk, PT</td>
+			<td>HEXA</td>
+			<td>HEXINDO ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-SEP-2015</td>
+			<td>30-SEP-2015</td>
+			<td>21-OCT-2015</td>
+			<td>1</td>
+			<td>HEXA</td>
+			<td>117</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah sebesar Rp 117,- (seratus tujuh belas Rupiah) per saham</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>235.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2015</td>
+			<td>01-OCT-2015</td>
+			<td>16-OCT-2015</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>251</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 251,- (dua ratus lima puluh satu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>236.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2015</td>
+			<td>01-OCT-2015</td>
+			<td>12-OCT-2015</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>787</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 787,- (tujuh ratus delapan puluh tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>237.</td>
+			<td>SENTUL CITY Tbk, PT</td>
+			<td>BKSL</td>
+			<td>SENTUL CITY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2015</td>
+			<td>01-OCT-2015</td>
+			<td>20-OCT-2015</td>
+			<td>1</td>
+			<td>BKSL</td>
+			<td>0.25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 0,25 (nol koma dua lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>238.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2015</td>
+			<td>01-OCT-2015</td>
+			<td>16-OCT-2015</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>239.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-SEP-2015</td>
+			<td>05-OCT-2015</td>
+			<td>16-OCT-2015</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>240.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-SEP-2015</td>
+			<td>05-OCT-2015</td>
+			<td>23-OCT-2015</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>241.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-OCT-2015</td>
+			<td>13-OCT-2015</td>
+			<td>26-OCT-2015</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>752</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh Rp 752 (tujuh ratus lima puluh dua Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>242.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-OCT-2015</td>
+			<td>19-OCT-2015</td>
+			<td>06-NOV-2015</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>53.55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 lembar saham akan memperoleh Rp 53.55,- (lima puluh tiga Rupiah koma lima lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>243.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-NOV-2015</td>
+			<td>06-NOV-2015</td>
+			<td>20-NOV-2015</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.9282</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap unit penyertaan akan memperoleh Rp 1,9282 (satu Rupiah koma sembilan dua delapan dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>244.</td>
+			<td>PURADELTA LESTARI Tbk. PT</td>
+			<td>DMAS</td>
+			<td>PURADELTA LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-NOV-2015</td>
+			<td>10-NOV-2015</td>
+			<td>17-NOV-2015</td>
+			<td>1</td>
+			<td>DMAS</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 12,- (dua belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>245.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-NOV-2015</td>
+			<td>17-NOV-2015</td>
+			<td>08-DEC-2015</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 55 (lima puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>246.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-NOV-2015</td>
+			<td>18-NOV-2015</td>
+			<td>04-DEC-2015</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 40 (empat puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>247.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-NOV-2015</td>
+			<td>20-NOV-2015</td>
+			<td>27-NOV-2015</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>3300</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 3.300,- (tiga ribu tiga ratus Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>248.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-NOV-2015</td>
+			<td>23-NOV-2015</td>
+			<td>11-DEC-2015</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh sebesar Rp 4,- (empat Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>249.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-NOV-2015</td>
+			<td>25-NOV-2015</td>
+			<td>16-DEC-2015</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>50.25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah setiap 1 (satu) saham akan memperoleh Rp 50,25 (lima puluh Rupiah koma dua lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>250.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-NOV-2015</td>
+			<td>01-DEC-2015</td>
+			<td>15-DEC-2015</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>251.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-NOV-2015</td>
+			<td>01-DEC-2015</td>
+			<td>16-DEC-2015</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>138</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 Saham akan memperoleh sebesar Rp 138,- (seratus tiga puluh delapan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>252.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-DEC-2015</td>
+			<td>04-DEC-2015</td>
+			<td>23-DEC-2015</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 7,- (tujuh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>253.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-DEC-2015</td>
+			<td>04-DEC-2015</td>
+			<td>17-DEC-2015</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>342</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 342,- (tiga ratus empat puluh dua Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>254.</td>
+			<td>SORINI AGRO ASIA CORPORINDO Tbk, PT</td>
+			<td>SOBI</td>
+			<td>SORINI AGRO ASIA CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-DEC-2015</td>
+			<td>04-DEC-2015</td>
+			<td>23-DEC-2015</td>
+			<td>1</td>
+			<td>SOBI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>255.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-DEC-2015</td>
+			<td>08-DEC-2015</td>
+			<td>29-DEC-2015</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 50,- (lima puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>256.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-DEC-2015</td>
+			<td>08-DEC-2015</td>
+			<td>22-DEC-2015</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen interimadalah setiap 1 saham akan memperoleh Rp 55,- (lima puluh lima Rupiah) .</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>257.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-DEC-2015</td>
+			<td>11-DEC-2015</td>
+			<td>18-DEC-2015</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>182</td>
+			<td>IDR</td>
+			<td>Pembagian Dividen Interim III Tahun Buku 2015 adalah setiap 1 (satu) saham akan memperoleh Rp 182 (seratus delapan puluh dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		</table>	</body>
+</html>

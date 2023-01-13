@@ -1,0 +1,4251 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+		xmlns:x="urn:schemas-microsoft-com:office:excel" 
+		xmlns="http://www.w3.org/TR/REC-html40">
+	<HEAD>
+		<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; charset=ISO-8859-1"> 
+		<STYLE type=text/css>
+			table tr#header td{font-weight: bold;} 
+			table tr#isi td#rdCode{text-align: left;} 
+			table tr#isi td{vertical-align: top;} 
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE border=1>
+			<TR id=header align ='center'>
+				<TD colspan='15'><font size='+1' color=red>Schedule of Cash Dividend  Recording Date Year 2016</font></TD>
+			</TR>
+			<TR id=header>
+				<TD>No.</TD>
+				<TD>Issuer</TD>
+				<TD>Security Code</TD>
+				<TD>Security Name</TD>
+				<TD>Type of CA</TD>
+				<TD>Cum Date</TD>
+				<TD>Recording Date</TD>
+				<TD>Distribution Date</TD>
+				<TD>Exercise Ratio</TD>
+				<TD>Exercise Intrument</TD>
+				<TD>Proceed Ratio</TD>
+				<TD>Proceed Instrument</TD>
+				<TD>Description</TD>
+				<TD>Refference No</TD>
+				<TD>Letter Date</TD>
+			</TR>
+		<tr id=isi>
+			<td align='center'>1.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-DEC-2015</td>
+			<td>04-JAN-2016</td>
+			<td>15-JAN-2016</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>15.29</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 15,29 (lima belas koma dua sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>2.</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR, PT</td>
+			<td>BJTM</td>
+			<td>BANK PEMBANGUNAN DAERAH JAWA TIMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-FEB-2016</td>
+			<td>11-FEB-2016</td>
+			<td>03-MAR-2016</td>
+			<td>1</td>
+			<td>BJTM</td>
+			<td>43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 43 (empat puluh tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>3.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-MAR-2016</td>
+			<td>04-MAR-2016</td>
+			<td>21-MAR-2016</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.818</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap unit penyertaan akan memperoleh Rp 1,8180 (satu Rupiah koma delapan satu delapan nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>4.</td>
+			<td>BANK NEGARA INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBNI</td>
+			<td>BANK NEGARA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAR-2016</td>
+			<td>22-MAR-2016</td>
+			<td>13-APR-2016</td>
+			<td>1000000</td>
+			<td>BBNI</td>
+			<td>122533827</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2015 adalah setiap 1 Saham akan memperoleh Rp 122,533827 (seratus dua puluh dua Rupiah koma lima tiga tiga delapan dua tujuh).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>5.</td>
+			<td>BANK YUDHA BHAKTI Tbk, PT</td>
+			<td>BBYB</td>
+			<td>BANK YUDHA BHAKTI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAR-2016</td>
+			<td>22-MAR-2016</td>
+			<td>08-APR-2016</td>
+			<td>1</td>
+			<td>BBYB</td>
+			<td>1.48</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk tahun buku 2015 adalah setiap 1 Saham akan memperoleh Rp 1,48 (satu Rupiah koma empat delapan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>6.</td>
+			<td>PT. BARAMULTI SUKSESSARANA Tbk</td>
+			<td>BSSR</td>
+			<td>BARAMULTI SUKSESSARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-MAR-2016</td>
+			<td>28-MAR-2016</td>
+			<td>15-APR-2016</td>
+			<td>1</td>
+			<td>BSSR</td>
+			<td>25.31</td>
+			<td>IDR</td>
+			<td>Rasio DividenTunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,31 (dua puluh lima Rupiah koma tiga satu).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>7.</td>
+			<td>PT GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>GMTD</td>
+			<td>GOWA MAKASSAR TOURISM DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-MAR-2016</td>
+			<td>31-MAR-2016</td>
+			<td>21-APR-2016</td>
+			<td>1</td>
+			<td>GMTD</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 45,- (empat puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>8.</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk, PT</td>
+			<td>BMRI</td>
+			<td>BANK MANDIRI ( PERSERO ) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-MAR-2016</td>
+			<td>01-APR-2016</td>
+			<td>22-APR-2016</td>
+			<td>1</td>
+			<td>BMRI</td>
+			<td>261.44958</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 261.44958 (dua ratus enam puluh satu koma empat empat sembilan lima delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>9.</td>
+			<td>MILLENNIUM PHARMACON INTERNATIONAL Tbk, PT</td>
+			<td>SDPC</td>
+			<td>MILLENNIUM PHARMACON INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAR-2016</td>
+			<td>04-APR-2016</td>
+			<td>22-APR-2016</td>
+			<td>1</td>
+			<td>SDPC</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>10.</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk, PT</td>
+			<td>SDRA</td>
+			<td>BANK WOORI SAUDARA INDONESIA 1906 Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAR-2016</td>
+			<td>05-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>1</td>
+			<td>SDRA</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>11.</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk, PT</td>
+			<td>BBRI</td>
+			<td>BANK RAKYAT INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAR-2016</td>
+			<td>05-APR-2016</td>
+			<td>22-APR-2016</td>
+			<td>1</td>
+			<td>BBRI</td>
+			<td>311.6613</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai 1 (satu) saham akan memperoleh Rp 311,6613 (tiga ratus sebelas Rupiah koma enam enam satu tiga).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>12.</td>
+			<td>BANK JABAR, PT</td>
+			<td>BJBR</td>
+			<td>BANK JABAR BANTEN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAR-2016</td>
+			<td>05-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>1</td>
+			<td>BJBR</td>
+			<td>84.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 84,8 (delapan puluh empat Rupiah koma delapan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>13.</td>
+			<td>PT. LIPPO KARAWACI Tbk</td>
+			<td>LPKR</td>
+			<td>LIPPO KARAWACI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-APR-2016</td>
+			<td>06-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>1</td>
+			<td>LPKR</td>
+			<td>3.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,5 (tiga Rupiah koma lima).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>14.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-APR-2016</td>
+			<td>07-APR-2016</td>
+			<td>13-APR-2016</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>110</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 110,- (seratus sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>15.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-APR-2016</td>
+			<td>07-APR-2016</td>
+			<td>21-APR-2016</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>60.56</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah 1 (satu) saham akan memperoleh Rp 60,56 (enam puluh Rupiah koma lima enam)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>16.</td>
+			<td>MERCK  Tbk, PT</td>
+			<td>MERK</td>
+			<td>MERCK Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-APR-2016</td>
+			<td>08-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>1</td>
+			<td>MERK</td>
+			<td>100</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 100,- (seratus Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>17.</td>
+			<td>WASKITA KARYA (PERSERO) Tbk, PT</td>
+			<td>WSKT</td>
+			<td>WASKITA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-APR-2016</td>
+			<td>08-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>1</td>
+			<td>WSKT</td>
+			<td>15.43914</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,43914,- (lima belas Rupiah koma empat tiga sembilan satu empat)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>18.</td>
+			<td>ASURANSI BINA DANA ARTA Tbk, PT</td>
+			<td>ABDA</td>
+			<td>ASURANSI BINA DANA ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2016</td>
+			<td>11-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>1</td>
+			<td>ABDA</td>
+			<td>130</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 130,- (seratus tiga puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>19.</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk, PT</td>
+			<td>MFMI</td>
+			<td>MULTIFILING MITRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2016</td>
+			<td>11-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>1</td>
+			<td>MFMI</td>
+			<td>2.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,2 (dua Rupiah koma dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>20.</td>
+			<td>WIJAYA KARYA BETON Tbk, PT</td>
+			<td>WTON</td>
+			<td>WIJAYA KARYA BETON Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2016</td>
+			<td>11-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>1</td>
+			<td>WTON</td>
+			<td>6.26</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,26 (enam Rupiah koma dua enam)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>21.</td>
+			<td>JASA MARGA ( PERSERO) Tbk, PT</td>
+			<td>JSMR</td>
+			<td>JASA MARGA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-APR-2016</td>
+			<td>11-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>1</td>
+			<td>JSMR</td>
+			<td>43.1289</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 43,1289 (empat puluh tiga Rupiah koma satu dua delapan sembilan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>22.</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk, PT</td>
+			<td>CSAP</td>
+			<td>CATUR SENTOSA ADIPRANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2016</td>
+			<td>12-APR-2016</td>
+			<td>04-MAY-2016</td>
+			<td>1</td>
+			<td>CSAP</td>
+			<td>2.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,50 (dua Rupiah koma lima nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>23.</td>
+			<td>PT. MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>MLPT</td>
+			<td>MULTIPOLAR TECHNOLOGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-APR-2016</td>
+			<td>12-APR-2016</td>
+			<td>02-MAY-2016</td>
+			<td>1</td>
+			<td>MLPT</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>24.</td>
+			<td>JAPFA COMFEED INDONESIA Tbk, PT</td>
+			<td>JPFA</td>
+			<td>JAPFA COMFEED INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-APR-2016</td>
+			<td>14-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>1</td>
+			<td>JPFA</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>25.</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk, PT</td>
+			<td>IGAR</td>
+			<td>CHAMPION PACIFIC INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-APR-2016</td>
+			<td>15-APR-2016</td>
+			<td>04-MAY-2016</td>
+			<td>1</td>
+			<td>IGAR</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>26.</td>
+			<td>KIMIA FARMA (PERSERO) Tbk, PT</td>
+			<td>KAEF</td>
+			<td>KIMIA FARMA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-APR-2016</td>
+			<td>18-APR-2016</td>
+			<td>04-MAY-2016</td>
+			<td>1</td>
+			<td>KAEF</td>
+			<td>8.9611</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,9611(delapan Rupiah koma sembilan enam satu satu)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>27.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-APR-2016</td>
+			<td>19-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>105</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 105,- (seratus lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>28.</td>
+			<td>PLAZA INDONESIA REALTY Tbk, PT</td>
+			<td>PLIN</td>
+			<td>PLAZA INDONESIA REALTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-APR-2016</td>
+			<td>19-APR-2016</td>
+			<td>10-MAY-2016</td>
+			<td>1</td>
+			<td>PLIN</td>
+			<td>43</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 43,- (empat puluh tiga Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>29.</td>
+			<td>TIMAH (PERSERO) Tbk, PT</td>
+			<td>TINS</td>
+			<td>TIMAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-APR-2016</td>
+			<td>19-APR-2016</td>
+			<td>10-MAY-2016</td>
+			<td>1</td>
+			<td>TINS</td>
+			<td>4.092</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan memperoleh Rp 4,092 (empat Rupiah koma nol sembilan dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>30.</td>
+			<td>ADHI KARYA (PERSERO) Tbk, PT</td>
+			<td>ADHI</td>
+			<td>ADHI KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-APR-2016</td>
+			<td>20-APR-2016</td>
+			<td>12-MAY-2016</td>
+			<td>1</td>
+			<td>ADHI</td>
+			<td>26.226</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 26,226 (dua puluh enam Rupiah koma dua dua enam)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>31.</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk, PT</td>
+			<td>PGAS</td>
+			<td>PERUSAHAAN GAS NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-APR-2016</td>
+			<td>20-APR-2016</td>
+			<td>12-MAY-2016</td>
+			<td>1</td>
+			<td>PGAS</td>
+			<td>91.32</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 91,32 (sembilan puluh satu Rupiah koma tiga dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>32.</td>
+			<td>SEMEN BATURAJA ( PERSERO),PT</td>
+			<td>SMBR</td>
+			<td>SEMEN BATURAJA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-APR-2016</td>
+			<td>21-APR-2016</td>
+			<td>13-MAY-2016</td>
+			<td>1</td>
+			<td>SMBR</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 9,- (sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>33.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2016</td>
+			<td>22-APR-2016</td>
+			<td>28-APR-2016</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>81</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 81,- (delapan puluh satu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>34.</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk, PT</td>
+			<td>BBTN</td>
+			<td>BANK TABUNGAN NEGARA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-APR-2016</td>
+			<td>22-APR-2016</td>
+			<td>12-MAY-2016</td>
+			<td>10</td>
+			<td>BBTN</td>
+			<td>349.55756</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 34,955756(tiga puluh empat Rupiah koma sembilan lima lima tujuh lima enam)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>35.</td>
+			<td>MATAHARI PUTRA PRIMA Tbk, PT</td>
+			<td>MPPA</td>
+			<td>MATAHARI PUTRA PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-APR-2016</td>
+			<td>25-APR-2016</td>
+			<td>13-MAY-2016</td>
+			<td>1</td>
+			<td>MPPA</td>
+			<td>26</td>
+			<td>IDR</td>
+			<td>Rasio DividenTunai adalah setiap 1 (satu) saham akan memperoleh Rp 26,- (dua puluh enam Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>36.</td>
+			<td>PT TIGARAKSA SATRIA Tbk ,</td>
+			<td>TGKA</td>
+			<td>TIGARAKSA SATRIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-APR-2016</td>
+			<td>26-APR-2016</td>
+			<td>18-MAY-2016</td>
+			<td>1</td>
+			<td>TGKA</td>
+			<td>106.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu)  saham akan memperoleh Rp 106,5 (seratus enam Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>37.</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) PT, Tbk</td>
+			<td>PTBA</td>
+			<td>TAMBANG BATUBARA BUKIT ASAM (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-APR-2016</td>
+			<td>26-APR-2016</td>
+			<td>18-MAY-2016</td>
+			<td>1</td>
+			<td>PTBA</td>
+			<td>289.73</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai Tahun ialah setiap 1 (satu) saham akan memperoleh Rp 289,73 (dua ratus delapan puluh sembilan Rupiah koma tujuh tiga)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>38.</td>
+			<td>BANK MEGA Tbk, PT</td>
+			<td>MEGA</td>
+			<td>BANK MEGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>19-MAY-2016</td>
+			<td>10</td>
+			<td>MEGA</td>
+			<td>755.84002</td>
+			<td>IDR</td>
+			<td>Rasio DividenTunai adalah setiap 1 (satu) saham akan memperoleh Rp 75,584002 (tujuh puluh lima Rupiah koma lima delapan empat nol nol dua).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>39.</td>
+			<td>LINK NET Tbk, PT</td>
+			<td>LINK</td>
+			<td>LINK NET Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-APR-2016</td>
+			<td>27-APR-2016</td>
+			<td>19-MAY-2016</td>
+			<td>1</td>
+			<td>LINK</td>
+			<td>42</td>
+			<td>IDR</td>
+			<td>Rasio DividenTunai adalah setiap 1 (satu) saham akan memperoleh Rp 42,- (empat puluh dua Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>40.</td>
+			<td>TRISULA INTERNATIONAL Tbk, PT</td>
+			<td>TRIS</td>
+			<td>TRISULA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-APR-2016</td>
+			<td>28-APR-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>TRIS</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>41.</td>
+			<td>ADARO ENERGY Tbk, PT</td>
+			<td>ADRO</td>
+			<td>ADARO ENERGY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-APR-2016</td>
+			<td>28-APR-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>ADRO</td>
+			<td>16.64</td>
+			<td>IDR</td>
+			<td>Setiap 1 (satu) saham akan mendapatkan dividen tunai sebesar Rp 16,64 (enam belas Rupiah koma enam empat)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>42.</td>
+			<td>CHITOSE INTERNASIONAL Tbk, PT</td>
+			<td>CINT</td>
+			<td>CHITOSE INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-APR-2016</td>
+			<td>28-APR-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>CINT</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>43.</td>
+			<td>ACSET INDONUSA Tbk, PT</td>
+			<td>ACST</td>
+			<td>ACSET INDONUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-APR-2016</td>
+			<td>29-APR-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>ACST</td>
+			<td>33.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 33,5 (tiga puluh tiga Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>44.</td>
+			<td>PP Properti Tbk, PT</td>
+			<td>PPRO</td>
+			<td>PP Properti Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2016</td>
+			<td>02-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>PPRO</td>
+			<td>4.27</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 4,27 (empat Rupiah koma dua tujuh).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>45.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2016</td>
+			<td>02-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>93</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 93,- (sembilan puluh tiga Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>46.</td>
+			<td>RADANA BHASKARA FINANCE Tbk, PT</td>
+			<td>HDFA</td>
+			<td>RADANA BHASKARA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2016</td>
+			<td>02-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>HDFA</td>
+			<td>3.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 3,50 (tiga Rupiah koma lima nol).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>47.</td>
+			<td>BANK RAKYAT INDONESIA AGRONIAGA Tbk, PT</td>
+			<td>AGRO</td>
+			<td>BANK RAKYAT INDONESIA AGRONIAGA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-APR-2016</td>
+			<td>02-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>10</td>
+			<td>AGRO</td>
+			<td>13.60262</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 1,360262 (satu Rupiah koma tiga enam nol dua enam dua).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>48.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2016</td>
+			<td>03-MAY-2016</td>
+			<td>23-MAY-2016</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>12</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 12,- (dua belas Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>49.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2016</td>
+			<td>03-MAY-2016</td>
+			<td>25-MAY-2016</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 17,- (tujuh belas Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>50.</td>
+			<td>MANDOM INDONESIA Tbk, PT</td>
+			<td>TCID</td>
+			<td>MANDOM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-APR-2016</td>
+			<td>03-MAY-2016</td>
+			<td>24-MAY-2016</td>
+			<td>1</td>
+			<td>TCID</td>
+			<td>410</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 410,- (empat ratus sepuluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>51.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-APR-2016</td>
+			<td>04-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.7229</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 1,7229(satu Rupiah koma tujuh dua dua sembilan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>52.</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-APR-2016</td>
+			<td>04-MAY-2016</td>
+			<td>26-MAY-2016</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>94.637</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 94,637 (sembilan puluh empat Rupiah koma enam tiga tujuh) yang terdiri dari dividen tunai tahun buku 2015 sebesar Rp 78,864 per saham dan dividen special sebesar Rp 15,773 per saham</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>53.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAY-2016</td>
+			<td>09-MAY-2016</td>
+			<td>23-MAY-2016</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>440</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 440,- (empat ratus empat puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>54.</td>
+			<td>LIPPO GENERAL INSURANCE Tbk, PT</td>
+			<td>LPGI</td>
+			<td>LIPPO GENERAL INSURANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAY-2016</td>
+			<td>09-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>LPGI</td>
+			<td>165</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 165,- (seratus enam puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>55.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-MAY-2016</td>
+			<td>09-MAY-2016</td>
+			<td>25-MAY-2016</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 70,- (tujuh puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>56.</td>
+			<td>MAHAKA RADIO INTEGRA Tbk, PT</td>
+			<td>MARI</td>
+			<td>MAHAKA RADIO INTEGRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-MAY-2016</td>
+			<td>10-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>MARI</td>
+			<td>5.1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,10 (lima Rupiah koma satu nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>57.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-MAY-2016</td>
+			<td>10-MAY-2016</td>
+			<td>25-MAY-2016</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 35,- (tiga puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>58.</td>
+			<td>PELAYARAN TEMPURAN EMAS Tbk, PT</td>
+			<td>TMAS</td>
+			<td>PELAYARAN TEMPURAN EMAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2016</td>
+			<td>11-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>TMAS</td>
+			<td>41.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 41,7 (empat puluh satu Rupiah koma tujuh)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>59.</td>
+			<td>ARWANA CITRAMULIA Tbk, PT</td>
+			<td>ARNA</td>
+			<td>ARWANA CITRAMULIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2016</td>
+			<td>11-MAY-2016</td>
+			<td>26-MAY-2016</td>
+			<td>1</td>
+			<td>ARNA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>60.</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk, PT</td>
+			<td>HMSP</td>
+			<td>HANJAYA MANDALA SAMPOERNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2016</td>
+			<td>11-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>HMSP</td>
+			<td>2225</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2.225 (dua ribu dua ratus dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>61.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-MAY-2016</td>
+			<td>11-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>113</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 113,- (seratus tiga belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>62.</td>
+			<td>BANK BUKOPIN Tbk, PT</td>
+			<td>BBKP</td>
+			<td>BANK BUKOPIN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2016</td>
+			<td>12-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>1</td>
+			<td>BBKP</td>
+			<td>31.70898</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 31,70898 (tiga puluh satu Rupiah koma tujuh nol delapan sembilan delapan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>63.</td>
+			<td>BANK DANAMON Tbk , PT</td>
+			<td>BDMN</td>
+			<td>BANK DANAMON INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2016</td>
+			<td>12-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>BDMN</td>
+			<td>74.9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 74,90 (tujuh puluh empat Rupiah koma sembilan nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>64.</td>
+			<td>ELNUSA Tbk, PT</td>
+			<td>ELSA</td>
+			<td>ELNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2016</td>
+			<td>12-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>1</td>
+			<td>ELSA</td>
+			<td>10.28606</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,28606 (sepuluh Rupiah koma dua delapan enam nol enam)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>65.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2016</td>
+			<td>12-MAY-2016</td>
+			<td>25-MAY-2016</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>66.</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk, PT</td>
+			<td>WIKA</td>
+			<td>WIJAYA KARYA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-MAY-2016</td>
+			<td>12-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>1</td>
+			<td>WIKA</td>
+			<td>20.35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,35 (dua puluh Rupiah koma tiga lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>67.</td>
+			<td>PEMBANGUNAN PERUMAHAN (PERSERO), PT</td>
+			<td>PTPP</td>
+			<td>PP (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-MAY-2016</td>
+			<td>13-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>1</td>
+			<td>PTPP</td>
+			<td>30.58</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 30,58 (tiga puluh Rupiah koma lima delapan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>68.</td>
+			<td>MEDIA NUSANTARA CITRA Tbk, PT</td>
+			<td>MNCN</td>
+			<td>MEDIA NUSANTARA CITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2016</td>
+			<td>16-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>1</td>
+			<td>MNCN</td>
+			<td>42</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 42,- (empat puluh dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>69.</td>
+			<td>PT. PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>NELY</td>
+			<td>PELAYARAN NELLY DWI PUTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2016</td>
+			<td>16-MAY-2016</td>
+			<td>03-JUN-2016</td>
+			<td>1</td>
+			<td>NELY</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 4,-  (empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>70.</td>
+			<td>GLOBAL MEDIACOM Tbk, PT</td>
+			<td>BMTR</td>
+			<td>GLOBAL MEDIACOM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-MAY-2016</td>
+			<td>16-MAY-2016</td>
+			<td>03-JUN-2016</td>
+			<td>1</td>
+			<td>BMTR</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>71.</td>
+			<td>SAMINDO RESOURCES Tbk, PT</td>
+			<td>MYOH</td>
+			<td>SAMINDO RESOURCES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-MAY-2016</td>
+			<td>17-MAY-2016</td>
+			<td>03-JUN-2016</td>
+			<td>1</td>
+			<td>MYOH</td>
+			<td>48.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 48,20 (empat puluh delapan Rupiah koma dua nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>72.</td>
+			<td>MNC LAND Tbk, PT</td>
+			<td>KPIG</td>
+			<td>MNC LAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-MAY-2016</td>
+			<td>18-MAY-2016</td>
+			<td>09-JUN-2016</td>
+			<td>1</td>
+			<td>KPIG</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>73.</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk, PT</td>
+			<td>INTP</td>
+			<td>INDOCEMENT TUNGGAL PRAKARSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>10-JUN-2016</td>
+			<td>1</td>
+			<td>INTP</td>
+			<td>415</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 415,- (empat ratus lima belas Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>74.</td>
+			<td>ARITA PRIMA INDONESIA Tbk, PT</td>
+			<td>APII</td>
+			<td>ARITA PRIMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-MAY-2016</td>
+			<td>20-MAY-2016</td>
+			<td>10-JUN-2016</td>
+			<td>1</td>
+			<td>APII</td>
+			<td>2.8353</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,83530 (dua Rupiah koma delapan tiga lima tiga nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>75.</td>
+			<td>PAN BROTHERS Tbk, PT</td>
+			<td>PBRX</td>
+			<td>PAN BROTHERS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2016</td>
+			<td>23-MAY-2016</td>
+			<td>10-JUN-2016</td>
+			<td>1</td>
+			<td>PBRX</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,- (dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>76.</td>
+			<td>PURADELTA LESTARI Tbk. PT</td>
+			<td>DMAS</td>
+			<td>PURADELTA LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2016</td>
+			<td>23-MAY-2016</td>
+			<td>31-MAY-2016</td>
+			<td>1</td>
+			<td>DMAS</td>
+			<td>11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 11,- (sebelas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>77.</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk, PT</td>
+			<td>TBIG</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-MAY-2016</td>
+			<td>23-MAY-2016</td>
+			<td>09-JUN-2016</td>
+			<td>10</td>
+			<td>TBIG</td>
+			<td>570.73954</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 57,073954 (lima puluh tujuh Rupiah koma nol tujuh tiga sembilan lima empat)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>78.</td>
+			<td>TRIAS SENTOSA Tbk, PT</td>
+			<td>TRST</td>
+			<td>TRIAS SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-MAY-2016</td>
+			<td>24-MAY-2016</td>
+			<td>14-JUN-2016</td>
+			<td>1</td>
+			<td>TRST</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>79.</td>
+			<td>GARUDA METALINDO Tbk, PT</td>
+			<td>BOLT</td>
+			<td>GARUDA METALINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-MAY-2016</td>
+			<td>24-MAY-2016</td>
+			<td>31-MAY-2016</td>
+			<td>1</td>
+			<td>BOLT</td>
+			<td>25.01</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,01 (dua puluh lima Rupiah koma nol satu)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>80.</td>
+			<td>METROPOLITAN KENTJANA Tbk. PT</td>
+			<td>MKPI</td>
+			<td>METROPOLITAN KENTJANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>19-MAY-2016</td>
+			<td>24-MAY-2016</td>
+			<td>13-JUN-2016</td>
+			<td>1</td>
+			<td>MKPI</td>
+			<td>327</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 327,- (tiga ratus dua puluh tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>81.</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk, PT</td>
+			<td>SMGR</td>
+			<td>SEMEN INDONESIA (PERSERO) Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>20-MAY-2016</td>
+			<td>25-MAY-2016</td>
+			<td>16-JUN-2016</td>
+			<td>1</td>
+			<td>SMGR</td>
+			<td>304.91</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 304,91 (tiga ratus empat Rupiah koma sembilan satu).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>82.</td>
+			<td>DELTA DJAKARTA Tbk, PT</td>
+			<td>DLTA</td>
+			<td>DELTA DJAKARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-MAY-2016</td>
+			<td>27-MAY-2016</td>
+			<td>17-JUN-2016</td>
+			<td>1</td>
+			<td>DLTA</td>
+			<td>120</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 120,- (seratus dua puluh Rupiah) yang terdiri dari dividen tunai reguler sebesar Rp 30,- per saham dan dividen tunai khusus sebesar Rp 90,- per saham</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>83.</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk, PT</td>
+			<td>SIDO</td>
+			<td>INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2016</td>
+			<td>30-MAY-2016</td>
+			<td>17-JUN-2016</td>
+			<td>1</td>
+			<td>SIDO</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>84.</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk, PT</td>
+			<td>ADMF</td>
+			<td>ADIRA DINAMIKA MULTI FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2016</td>
+			<td>30-MAY-2016</td>
+			<td>17-JUN-2016</td>
+			<td>1</td>
+			<td>ADMF</td>
+			<td>332.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 332,5 (tiga ratus tiga puluh dua koma lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>85.</td>
+			<td>WISMILAK INTI MAKMUR Tbk</td>
+			<td>WIIM</td>
+			<td>WISMILAK INTI MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2016</td>
+			<td>30-MAY-2016</td>
+			<td>10-JUN-2016</td>
+			<td>1</td>
+			<td>WIIM</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>86.</td>
+			<td>SRI REJEKI ISMAN Tbk. PT</td>
+			<td>SRIL</td>
+			<td>SRI REJEKI ISMAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2016</td>
+			<td>30-MAY-2016</td>
+			<td>17-JUN-2016</td>
+			<td>1</td>
+			<td>SRIL</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>87.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>25-MAY-2016</td>
+			<td>30-MAY-2016</td>
+			<td>06-JUN-2016</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>28</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Final adalah setiap 1 (satu) saham akan memperoleh Rp 28,- (dua puluh delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>88.</td>
+			<td>NIPPON INDOSARI CORPINDO, PT</td>
+			<td>ROTI</td>
+			<td>NIPPON INDOSARI CORPINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2016</td>
+			<td>31-MAY-2016</td>
+			<td>17-JUN-2016</td>
+			<td>1</td>
+			<td>ROTI</td>
+			<td>10.61</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 10,61 (sepuluh Rupiah koma enam satu).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>89.</td>
+			<td>MITRABARA ADIPERDANA Tbk, PT</td>
+			<td>MBAP</td>
+			<td>MITRABARA ADIPERDANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2016</td>
+			<td>31-MAY-2016</td>
+			<td>17-JUN-2016</td>
+			<td>1</td>
+			<td>MBAP</td>
+			<td>100.91</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Final adalah setiap 1 (satu) saham akan memperoleh Rp 100,91 (seratus Rupiah koma sembilan satu)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>90.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2016</td>
+			<td>31-MAY-2016</td>
+			<td>07-JUN-2016</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Final adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>91.</td>
+			<td>BUMI SERPONG DAMAI, PT</td>
+			<td>BSDE</td>
+			<td>BUMI SERPONG DAMAI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-MAY-2016</td>
+			<td>31-MAY-2016</td>
+			<td>15-JUN-2016</td>
+			<td>1</td>
+			<td>BSDE</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>92.</td>
+			<td>PERDANA GAPURAPRIMA Tbk, PT</td>
+			<td>GPRA</td>
+			<td>PERDANA GAPURAPRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>23-JUN-2016</td>
+			<td>1</td>
+			<td>GPRA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>93.</td>
+			<td>ACE HARDWARE INDONESIA Tbk, PT</td>
+			<td>ACES</td>
+			<td>ACE HARDWARE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>23-JUN-2016</td>
+			<td>1</td>
+			<td>ACES</td>
+			<td>15.4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,4 (lima belas Rupiah koma empat)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>94.</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk, PT</td>
+			<td>RALS</td>
+			<td>RAMAYANA LESTARI SENTOSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-MAY-2016</td>
+			<td>01-JUN-2016</td>
+			<td>23-JUN-2016</td>
+			<td>1</td>
+			<td>RALS</td>
+			<td>30</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 30,- (tiga puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>95.</td>
+			<td>METROPOLITAN LAND Tbk. PT</td>
+			<td>MTLA</td>
+			<td>METROPOLITAN LAND Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2016</td>
+			<td>02-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>MTLA</td>
+			<td>3.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,20 (tiga Rupiah koma dua nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>96.</td>
+			<td>BANK MAYAPADA INTERNASIONAL Tbk, PT</td>
+			<td>MAYA</td>
+			<td>BANK MAYAPADA INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-MAY-2016</td>
+			<td>02-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>1</td>
+			<td>MAYA</td>
+			<td>23</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 23,- (dua puluh tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>97.</td>
+			<td>SONA TOPAS TOURISM INDUSTRY Tbk, PT</td>
+			<td>SONA</td>
+			<td>SONA TOPAS TOURISM INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2016</td>
+			<td>03-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>SONA</td>
+			<td>320</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 320,- (tiga ratus dua puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>98.</td>
+			<td>EKADHARMA INTERNATIONAL Tbk, PT</td>
+			<td>EKAD</td>
+			<td>EKADHARMA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2016</td>
+			<td>03-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>EKAD</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>99.</td>
+			<td>TOBA BARA SEJAHTRA Tbk, PT</td>
+			<td>TOBA</td>
+			<td>TOBA BARA SEJAHTRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>31-MAY-2016</td>
+			<td>03-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>TOBA</td>
+			<td>7.68093</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 7,68093 (tujuh Rupiah koma enam delapan nol sembilan tiga)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>100.</td>
+			<td>TOTAL BANGUN PERSADA Tbk, PT</td>
+			<td>TOTL</td>
+			<td>TOTAL BANGUN PERSADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>TOTL</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 40,- (empat puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>101.</td>
+			<td>BANK MESTIKA DHARMA Tbk, PT</td>
+			<td>BBMD</td>
+			<td>BANK MESTIKA DHARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>BBMD</td>
+			<td>14.67</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 14,67 (empat belas Rupiah koma enam tujuh)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>102.</td>
+			<td>PEMBANGUNAN GRAHA LESTARI Tbk, PT</td>
+			<td>PGLI</td>
+			<td>PEMBANGUNAN GRAHA LESTARI INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>23-JUN-2016</td>
+			<td>1</td>
+			<td>PGLI</td>
+			<td>0.9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 0,90 (nol Rupiah koma sembilan nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>103.</td>
+			<td>KINO INDONESIA Tbk, PT</td>
+			<td>KINO</td>
+			<td>KINO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>KINO</td>
+			<td>37</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 37,- (Tiga PuluhTujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>104.</td>
+			<td>INTAN WIJAYA INTERNASIONAL Tbk, PT</td>
+			<td>INCI</td>
+			<td>INTANWIJAYA INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>INCI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (Satu) saham akan memperoleh Rp 10,- (Sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>105.</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk, PT</td>
+			<td>EPMT</td>
+			<td>ENSEVAL PUTERA MEGATRADING Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>EPMT</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (Lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>106.</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk, PT</td>
+			<td>SSMS</td>
+			<td>SAWIT SUMBERMAS SARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>SSMS</td>
+			<td>17.66653</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 17,66653 (Tujuh Belas Rupiah koma enam enam enam lima tiga)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>107.</td>
+			<td>ASURANSI RAMAYANA Tbk, PT</td>
+			<td>ASRM</td>
+			<td>ASURANSI RAMAYANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>ASRM</td>
+			<td>95</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 95,- (Sembilan Lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>108.</td>
+			<td>DARYA-VARIA LABORATORIA Tbk, PT</td>
+			<td>DVLA</td>
+			<td>DARYA - VARIA LABORATORIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUN-2016</td>
+			<td>06-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>DVLA</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 35,- (tiga puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>109.</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk, PT</td>
+			<td>LPPF</td>
+			<td>MATAHARI DEPARTMENT STORE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2016</td>
+			<td>07-JUN-2016</td>
+			<td>29-JUN-2016</td>
+			<td>1</td>
+			<td>LPPF</td>
+			<td>427.3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 427,30 (empat ratus dua puluh tujuh Rupiah koma tiga nol)</td>
+			<td>KSEI-13550/JKU/0516</td>
+			<td>30-MAY-2016</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>110.</td>
+			<td>BUKAKA TEKNIK UTAMA Tbk, PT</td>
+			<td>BUKK</td>
+			<td>BUKAKA TEKNIK UTAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2016</td>
+			<td>07-JUN-2016</td>
+			<td>29-JUN-2016</td>
+			<td>1</td>
+			<td>BUKK</td>
+			<td>12.8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 12,8 (dua belas Rupiah koma delapan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>111.</td>
+			<td>PT HOLCIM INDONESIA TbK</td>
+			<td>SMCB</td>
+			<td>HOLCIM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2016</td>
+			<td>07-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>SMCB</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>112.</td>
+			<td>PUDJIADI PRESTIGE Tbk, PT</td>
+			<td>PUDP</td>
+			<td>PUDJIADI PRESTIGE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-JUN-2016</td>
+			<td>07-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>PUDP</td>
+			<td>11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 11,- (sebelas Rupiah)</td>
+			<td>KSEI-13551/JKU/0516</td>
+			<td>30-MAY-2016</td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>113.</td>
+			<td>MIDI UTAMA INDONESIA Tbk. PT</td>
+			<td>MIDI</td>
+			<td>MIDI UTAMA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2016</td>
+			<td>08-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>MIDI</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>114.</td>
+			<td>SARANA MEDITAMA METROPOLITAN Tbk. PT</td>
+			<td>SAME</td>
+			<td>SARANA MEDITAMA METROPOLITAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2016</td>
+			<td>08-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>SAME</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>115.</td>
+			<td>IMPACK PRATAMA INDUSTRI Tbk, PT</td>
+			<td>IMPC</td>
+			<td>IMPACK PRATAMA INDUSTRI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2016</td>
+			<td>08-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>IMPC</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>116.</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk, PT</td>
+			<td>AMRT</td>
+			<td>SUMBER ALFARIA TRIJAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2016</td>
+			<td>08-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>1</td>
+			<td>AMRT</td>
+			<td>4.35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,35 (empat Rupiah koma tiga lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>117.</td>
+			<td>MITRA KELUARGA KARYASEHAT Tbk, PT</td>
+			<td>MIKA</td>
+			<td>MITRA KELUARGA KARYASEHAT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-JUN-2016</td>
+			<td>08-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>MIKA</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>118.</td>
+			<td>KABELINDO MURNI Tbk, PT</td>
+			<td>KBLM</td>
+			<td>KABELINDO MURNI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-JUN-2016</td>
+			<td>09-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>KBLM</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>119.</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMM Tbk, PT</td>
+			<td>SCCO</td>
+			<td>SUPREME CABLE MANUFACTURING AND COMMERCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2016</td>
+			<td>10-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>SCCO</td>
+			<td>225</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 225,- (dua ratus dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>120.</td>
+			<td>KALBE FARMA Tbk, PT</td>
+			<td>KLBF</td>
+			<td>KALBE FARMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2016</td>
+			<td>10-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>KLBF</td>
+			<td>19</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 19,- (sembilan belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>121.</td>
+			<td>ANABATIC TECHNOLOGIES Tbk, PT</td>
+			<td>ATIC</td>
+			<td>ANABATIC TECHNOLOGIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2016</td>
+			<td>10-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>ATIC</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>122.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2016</td>
+			<td>10-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>123.</td>
+			<td>NUSA RAYA CIPTA Tbk, PT</td>
+			<td>NRCA</td>
+			<td>NUSA RAYA CIPTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2016</td>
+			<td>10-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>NRCA</td>
+			<td>16.02</td>
+			<td>IDR</td>
+			<td>Rasio DividenTunai adalah setiap 1 (satu) saham akan mendapatkan Rp 16,02 (enam belas Rupiah koma nol dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>124.</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk, PT</td>
+			<td>MPMX</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-JUN-2016</td>
+			<td>10-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>MPMX</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 17,- (tujuh belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>125.</td>
+			<td>PT. AUSTINDO NUSANTARA JAYA, Tbk</td>
+			<td>ANJT</td>
+			<td>AUSTINDO NUSANTARA JAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2016</td>
+			<td>13-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>ANJT</td>
+			<td>35</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 35,- (tiga puluh lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>126.</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk, PT</td>
+			<td>JKON</td>
+			<td>JAYA KONSTRUKSI MANGGALA PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2016</td>
+			<td>13-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>JKON</td>
+			<td>4.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,50 (empat Rupiah koma lima nol).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>127.</td>
+			<td>SURYA SEMESTA INTERNUSA Tbk, PT</td>
+			<td>SSIA</td>
+			<td>SURYA SEMESTA INTERNUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2016</td>
+			<td>13-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>1</td>
+			<td>SSIA</td>
+			<td>9.71</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 9,71 (sembilan Rupiah koma tujuh satu).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>128.</td>
+			<td>ASURANSI BINTANG Tbk, PT</td>
+			<td>ASBI</td>
+			<td>ASURANSI BINTANG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>08-JUN-2016</td>
+			<td>13-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>ASBI</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 25,- (dua puluh lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>129.</td>
+			<td>DHARMA SATYA NUSANTARA Tbk, PT</td>
+			<td>DSNG</td>
+			<td>DHARMA SATYA NUSANTARA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>DSNG</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>130.</td>
+			<td>PT. BEKASI FAJAR INDUSTRIAL ESTATE, Tbk</td>
+			<td>BEST</td>
+			<td>BEKASI FAJAR INDUSTRIAL ESTATE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>BEST</td>
+			<td>1.23</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,23 (satu Rupiah koma dua tiga)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>131.</td>
+			<td>PP. LONDON SUMATRA INDONESIA Tbk, PT</td>
+			<td>LSIP</td>
+			<td>PP LONDON SUMATRA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>1</td>
+			<td>LSIP</td>
+			<td>37</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 37,- (tiga puluh tujuh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>132.</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk, PT</td>
+			<td>JSPT</td>
+			<td>JAKARTA SETIABUDI INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>JSPT</td>
+			<td>17</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 17,- (tujuh belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>133.</td>
+			<td>SALIM IVOMAS PRATAMA Tbk, PT</td>
+			<td>SIMP</td>
+			<td>SALIM IVOMAS PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>SIMP</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>134.</td>
+			<td>SAMUDERA INDONESIA Tbk, PT</td>
+			<td>SMDR</td>
+			<td>SAMUDERA INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>1</td>
+			<td>SMDR</td>
+			<td>380</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 380,- (tiga ratus delapan puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>135.</td>
+			<td>ASURANSI JASA TANIA Tbk, PT</td>
+			<td>ASJT</td>
+			<td>ASURANSI JASA TANIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>ASJT</td>
+			<td>10.39</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,39 (sepuluh Rupiah koma tiga sembilan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>136.</td>
+			<td>BLUE BIRD Tbk, PT</td>
+			<td>BIRD</td>
+			<td>BLUE BIRD Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-JUN-2016</td>
+			<td>14-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>BIRD</td>
+			<td>66</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 66,- (enam puluh enam Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>137.</td>
+			<td>PT ASAHIMAS FLAT GLASS Tbk</td>
+			<td>AMFG</td>
+			<td>ASAHIMAS FLAT GLASS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2016</td>
+			<td>15-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>AMFG</td>
+			<td>80</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 80,- (delapan puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>138.</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk, PT</td>
+			<td>INDF</td>
+			<td>INDOFOOD SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2016</td>
+			<td>15-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>1</td>
+			<td>INDF</td>
+			<td>168</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 168,- (seratus enam puluh delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>139.</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk, PT</td>
+			<td>ICBP</td>
+			<td>INDOFOOD CBP SUKSES MAKMUR Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2016</td>
+			<td>15-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>1</td>
+			<td>ICBP</td>
+			<td>256</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 256,- (dua ratus lima puluh enam Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>140.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-JUN-2016</td>
+			<td>15-JUN-2016</td>
+			<td>29-JUN-2016</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>344</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 344,- (tiga ratus empat puluh empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>141.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2016</td>
+			<td>16-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 70- (tujuh puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>142.</td>
+			<td>PT. INDORITEL MAKMUR INTERNASIONAL Tbk</td>
+			<td>DNET</td>
+			<td>INDORITEL MAKMUR INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2016</td>
+			<td>16-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>DNET</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,- (dua Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>143.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2016</td>
+			<td>16-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>43.05</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 43,05 (empat puluh tiga Rupiah koma  nol lima).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>144.</td>
+			<td>ADI SARANA ARMADA Tbk. PT</td>
+			<td>ASSA</td>
+			<td>ADI SARANA ARMADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUN-2016</td>
+			<td>16-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>ASSA</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4- (empat Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>145.</td>
+			<td>FAST FOOD INDONESIA Tbk, PT</td>
+			<td>FAST</td>
+			<td>FAST FOOD INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2016</td>
+			<td>17-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>FAST</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>146.</td>
+			<td>BISI INTERNATIONAL Tbk, PT</td>
+			<td>BISI</td>
+			<td>BISI INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2016</td>
+			<td>17-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>BISI</td>
+			<td>33</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 33,- (tiga puluh tiga Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>147.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUN-2016</td>
+			<td>17-JUN-2016</td>
+			<td>22-JUN-2016</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>85</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 85,- (delapan puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>148.</td>
+			<td>ARGHA KARYA PRIMA INDUSTRY Tbk, PT</td>
+			<td>AKPI</td>
+			<td>ARGHA KARYA PRIMA INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2016</td>
+			<td>20-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>AKPI</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 9,- (sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>149.</td>
+			<td>INDO KORDSA Tbk, PT</td>
+			<td>BRAM</td>
+			<td>INDO KORDSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2016</td>
+			<td>20-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>BRAM</td>
+			<td>125</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 125,- (seratus dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>150.</td>
+			<td>BANK BUMI ARTA Tbk, PT</td>
+			<td>BNBA</td>
+			<td>BANK BUMI ARTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>15-JUN-2016</td>
+			<td>20-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>BNBA</td>
+			<td>6.2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,20 (enam Rupiah koma dua nol)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>151.</td>
+			<td>ATELIERS MECANIQUES D`INDONESIE Tbk, PT</td>
+			<td>AMIN</td>
+			<td>ATELIERS MECANIQUES D'INDONESIE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>1</td>
+			<td>AMIN</td>
+			<td>8</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 8,- (delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>152.</td>
+			<td>PT. SAMPOERNA AGRO, Tbk</td>
+			<td>SGRO</td>
+			<td>SAMPOERNA AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>1</td>
+			<td>SGRO</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 25,- (dua puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>153.</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>ERAA</td>
+			<td>ERAJAYA SWASEMBADA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>1</td>
+			<td>ERAA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>154.</td>
+			<td>BUANA FINANCE Tbk, PT</td>
+			<td>BBLD</td>
+			<td>BUANA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>13-JUL-2016</td>
+			<td>1</td>
+			<td>BBLD</td>
+			<td>18</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 18,- (delapan belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>155.</td>
+			<td>COLORPAK INDONESIA Tbk, PT</td>
+			<td>CLPI</td>
+			<td>COLORPAK INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>13-JUL-2016</td>
+			<td>1</td>
+			<td>CLPI</td>
+			<td>39.72</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 39,72 (tiga puluh sembilan Rupiah koma tujuh dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>156.</td>
+			<td>SEKAR LAUT Tbk, PT</td>
+			<td>SKLT</td>
+			<td>SEKAR LAUT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>16-JUN-2016</td>
+			<td>21-JUN-2016</td>
+			<td>11-JUL-2016</td>
+			<td>1</td>
+			<td>SKLT</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>157.</td>
+			<td>INDONESIAN PARADISE PROPERTY Tbk, PT</td>
+			<td>INPP</td>
+			<td>INDONESIAN PARADISE PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2016</td>
+			<td>22-JUN-2016</td>
+			<td>14-JUL-2016</td>
+			<td>1</td>
+			<td>INPP</td>
+			<td>1.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,5 (satu Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>158.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-JUN-2016</td>
+			<td>22-JUN-2016</td>
+			<td>13-JUL-2016</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>159.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>424</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 424,- (empat ratus dua puluh empat Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>160.</td>
+			<td>INDONESIA PONDASI RAYA Tbk, PT</td>
+			<td>IDPR</td>
+			<td>INDONESIA PONDASI RAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-JUN-2016</td>
+			<td>24-JUN-2016</td>
+			<td>30-JUN-2016</td>
+			<td>1</td>
+			<td>IDPR</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>161.</td>
+			<td>PANCA GLOBAL SECURITIES Tbk, PT</td>
+			<td>PEGE</td>
+			<td>PANCA GLOBAL SECURITIES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>PEGE</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 10,- (sepuluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>162.</td>
+			<td>JASUINDO TIGA PERKASA Tbk , PT</td>
+			<td>JTPE</td>
+			<td>JASUINDO TIGA PERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>JTPE</td>
+			<td>14</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 14,- (empat belas Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>163.</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk, PT</td>
+			<td>CPIN</td>
+			<td>CHAROEN POKPHAND INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>CPIN</td>
+			<td>29</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 29,- (dua puluh sembilan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>164.</td>
+			<td>RESOURCE ALAM INDONESIA Tbk, PT</td>
+			<td>KKGI</td>
+			<td>RESOURCE ALAM INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>KKGI</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 20,- (dua puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>165.</td>
+			<td>TIPHONE MOBILE INDONESIA Tbk, PT</td>
+			<td>TELE</td>
+			<td>TIPHONE MOBILE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>TELE</td>
+			<td>13</td>
+			<td>IDR</td>
+			<td>Rasi Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 13,- (tiga belas Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>166.</td>
+			<td>CIPUTRA SURYA Tbk, PT</td>
+			<td>CTRS</td>
+			<td>CIPUTRA SURYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>13-JUL-2016</td>
+			<td>1</td>
+			<td>CTRS</td>
+			<td>22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 22,- (dua puluh dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>167.</td>
+			<td>TUNAS ALFIN Tbk, PT</td>
+			<td>TALF</td>
+			<td>TUNAS ALFIN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>1</td>
+			<td>TALF</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 3,- (tiga Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>168.</td>
+			<td>KMI WIRE AND CABLE Tbk, PT</td>
+			<td>KBLI</td>
+			<td>KMI Wire and Cable Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>KBLI</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 7,- (tujuh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>169.</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk, PT</td>
+			<td>SRTG</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>SRTG</td>
+			<td>32</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan mendapatkan Rp 32,- (tiga puluh dua Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>170.</td>
+			<td>CIPUTRA DEVELOPMENT Tbk, PT</td>
+			<td>CTRA</td>
+			<td>CIPUTRA DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>CTRA</td>
+			<td>6</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 6,- (enam Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>171.</td>
+			<td>PT CIPUTRA PROPERTY Tbk</td>
+			<td>CTRP</td>
+			<td>CIPUTRA PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>22-JUN-2016</td>
+			<td>27-JUN-2016</td>
+			<td>13-JUL-2016</td>
+			<td>1</td>
+			<td>CTRP</td>
+			<td>4</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,- (empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>172.</td>
+			<td>GEMA GRAHA SARANA Tbk, PT</td>
+			<td>GEMA</td>
+			<td>GEMA GRAHASARANA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>20-JUL-2016</td>
+			<td>1</td>
+			<td>GEMA</td>
+			<td>16</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 16,- (enam belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>173.</td>
+			<td>MASKAPAI REASURANSI Tbk, PT</td>
+			<td>MREI</td>
+			<td>MASKAPAI REASURANSI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>20-JUL-2016</td>
+			<td>1</td>
+			<td>MREI</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>174.</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk, PT</td>
+			<td>SQBI</td>
+			<td>TAISHO PHARMACEUTICAL INDONESIA Tbk SERI A</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>20-JUL-2016</td>
+			<td>1</td>
+			<td>SQBI</td>
+			<td>16000</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 16.000,- (enam belas ribu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>175.</td>
+			<td>DUTA PERTIWI NUSANTARA Tbk, PT</td>
+			<td>DPNS</td>
+			<td>DUTA PERTIWI NUSANTARA</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-JUN-2016</td>
+			<td>28-JUN-2016</td>
+			<td>20-JUL-2016</td>
+			<td>1</td>
+			<td>DPNS</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>176.</td>
+			<td>TIFA FINANCE, PT</td>
+			<td>TIFA</td>
+			<td>TIFA FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-JUN-2016</td>
+			<td>29-JUN-2016</td>
+			<td>21-JUL-2016</td>
+			<td>1</td>
+			<td>TIFA</td>
+			<td>7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,- (tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>177.</td>
+			<td>TEMPO SCAN PACIFIC Tbk, PT</td>
+			<td>TSPC</td>
+			<td>TEMPO SCAN PACIFIC Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>TSPC</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>178.</td>
+			<td>RICKY PUTRA GLOBALINDO Tbk, PT</td>
+			<td>RICY</td>
+			<td>RICKY PUTRA GLOBALINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>19-JUL-2016</td>
+			<td>1</td>
+			<td>RICY</td>
+			<td>3</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 3,- (tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>179.</td>
+			<td>GUDANG GARAM Tbk, PT</td>
+			<td>GGRM</td>
+			<td>GUDANG GARAM Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>GGRM</td>
+			<td>2600</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2.600,- (dua ribu enam ratus Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>180.</td>
+			<td>SOECHI LINES Tbk, PT</td>
+			<td>SOCI</td>
+			<td>SOECHI LINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUN-2016</td>
+			<td>01-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>SOCI</td>
+			<td>7.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,5 (tujuh Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>181.</td>
+			<td>LIONMESH PRIMA Tbk, PT</td>
+			<td>LMSH</td>
+			<td>LIONMESH PRIMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2016</td>
+			<td>11-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>LMSH</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>182.</td>
+			<td>LION METAL WORKS Tbk, PT</td>
+			<td>LION</td>
+			<td>LION METAL WORKS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2016</td>
+			<td>11-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>LION</td>
+			<td>40</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 40,- (empat puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>183.</td>
+			<td>FKS MULTI AGRO Tbk, PT</td>
+			<td>FISH</td>
+			<td>FKS MULTI AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-JUN-2016</td>
+			<td>11-JUL-2016</td>
+			<td>15-JUL-2016</td>
+			<td>1</td>
+			<td>FISH</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>184.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>21-JUL-2016</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>6.45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 6,45 (enam Rupiah koma empat lima).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>185.</td>
+			<td>PUDJIADI AND SONS Tbk, PT</td>
+			<td>PNSE</td>
+			<td>PUDJIADI AND SONS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>26-JUL-2016</td>
+			<td>1</td>
+			<td>PNSE</td>
+			<td>3.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 3,50 (tiga Rupiah koma lima nol).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>186.</td>
+			<td>PANORAMA SENTRAWISATA Tbk, PT</td>
+			<td>PANR</td>
+			<td>PANORAMA SENTRAWISATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>PANR</td>
+			<td>4.08</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 4,08 (empat Rupiah koma nol delapan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>187.</td>
+			<td>PANIN SEKURITAS Tbk, PT</td>
+			<td>PANS</td>
+			<td>PANIN SEKURITAS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>22-JUL-2016</td>
+			<td>1</td>
+			<td>PANS</td>
+			<td>80</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 80,- (delapan puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>188.</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk, PT</td>
+			<td>PJAA</td>
+			<td>PEMBANGUNAN JAYA ANCOL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>27-JUL-2016</td>
+			<td>1</td>
+			<td>PJAA</td>
+			<td>69</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 69,- (enam puluh sembilan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>189.</td>
+			<td>ASURANSI HARTA AMAN PRATAMA Tbk, PT</td>
+			<td>AHAP</td>
+			<td>ASURANSI HARTA AMAN PRATAMA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>26-JUL-2016</td>
+			<td>1</td>
+			<td>AHAP</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 2,- (dua Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>190.</td>
+			<td>SUMMARECON AGUNG Tbk, PT</td>
+			<td>SMRA</td>
+			<td>SUMMARECON AGUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-JUN-2016</td>
+			<td>12-JUL-2016</td>
+			<td>27-JUL-2016</td>
+			<td>1</td>
+			<td>SMRA</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu ) saham akan mendapatkan Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>191.</td>
+			<td>MEGAPOLITAN DEVELOPMENTS Tbk, PT</td>
+			<td>EMDE</td>
+			<td>MEGAPOLITAN DEVELOPMENTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2016</td>
+			<td>13-JUL-2016</td>
+			<td>28-JUL-2016</td>
+			<td>1</td>
+			<td>EMDE</td>
+			<td>2</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 2,- (dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>192.</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk, PT</td>
+			<td>IMAS</td>
+			<td>INDOMOBIL SUKSES INTERNASIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2016</td>
+			<td>13-JUL-2016</td>
+			<td>28-JUL-2016</td>
+			<td>1</td>
+			<td>IMAS</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>193.</td>
+			<td>SINAR MAS MULTIARTHA Tbk, PT</td>
+			<td>SMMA</td>
+			<td>SINAR MAS MULTIARTHA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2016</td>
+			<td>13-JUL-2016</td>
+			<td>28-JUL-2016</td>
+			<td>1</td>
+			<td>SMMA</td>
+			<td>1</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1,- (satu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>194.</td>
+			<td>MANDALA MULTIFINANCE Tbk, PT</td>
+			<td>MFIN</td>
+			<td>MANDALA MULTIFINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>01-JUL-2016</td>
+			<td>13-JUL-2016</td>
+			<td>28-JUL-2016</td>
+			<td>1</td>
+			<td>MFIN</td>
+			<td>19</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 19,- (sembilan belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>195.</td>
+			<td>ASURANSI DAYIN MITRA Tbk, PT</td>
+			<td>ASDM</td>
+			<td>ASURANSI DAYIN MITRA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2016</td>
+			<td>14-JUL-2016</td>
+			<td>27-JUL-2016</td>
+			<td>1</td>
+			<td>ASDM</td>
+			<td>68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 68,- (enam puluh delapan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>196.</td>
+			<td>PT. PAKUWON JATI Tbk</td>
+			<td>PWON</td>
+			<td>PAKUWON JATI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2016</td>
+			<td>14-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>PWON</td>
+			<td>4.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 4,5 (empat Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>197.</td>
+			<td>BATAVIA PROSPERINDO FINANCE Tbk.</td>
+			<td>BPFI</td>
+			<td>BATAVIA PROSPERINDO FINANCE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2016</td>
+			<td>14-JUL-2016</td>
+			<td>26-JUL-2016</td>
+			<td>1</td>
+			<td>BPFI</td>
+			<td>22.05</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 22,05 (dua puluh dua Rupiah koma nol lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>198.</td>
+			<td>BANK NUSANTARA PARAHYANGAN Tbk, PT</td>
+			<td>BBNP</td>
+			<td>BANK NUSANTARA PARAHYANGAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2016</td>
+			<td>14-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>BBNP</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 9,- (sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>199.</td>
+			<td>INTILAND DEVELOPMENT Tbk, PT</td>
+			<td>DILD</td>
+			<td>INTILAND DEVELOPMENT Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>11-JUL-2016</td>
+			<td>14-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>DILD</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>200.</td>
+			<td>INDAH KIAT PULP & PAPER Tbk, PT</td>
+			<td>INKP</td>
+			<td>INDAH KIAT PULP AND PAPER Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUL-2016</td>
+			<td>15-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>INKP</td>
+			<td>25</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 25,- (dua puluh lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>201.</td>
+			<td>JAYA REAL PROPERTY Tbk, PT</td>
+			<td>JRPT</td>
+			<td>JAYA REAL PROPERTY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUL-2016</td>
+			<td>15-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>JRPT</td>
+			<td>21</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 21,- (dua puluh satu Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>202.</td>
+			<td>MAYORA INDAH Tbk, PT</td>
+			<td>MYOR</td>
+			<td>MAYORA INDAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUL-2016</td>
+			<td>15-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>MYOR</td>
+			<td>300</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 300,- (tiga ratus Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>203.</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk, PT</td>
+			<td>TKIM</td>
+			<td>PABRIK KERTAS TJIWI KIMIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUL-2016</td>
+			<td>15-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>TKIM</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>204.</td>
+			<td>PT. RODA VIVATEX Tbk</td>
+			<td>RDTX</td>
+			<td>RODA VIVATEX Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>12-JUL-2016</td>
+			<td>15-JUL-2016</td>
+			<td>26-JUL-2016</td>
+			<td>1</td>
+			<td>RDTX</td>
+			<td>75</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 75,- (tujuh puluh lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>205.</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk, PT</td>
+			<td>RUIS</td>
+			<td>RADIANT UTAMA INTERINSCO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2016</td>
+			<td>18-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>RUIS</td>
+			<td>7.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 7,5 (tujuh Rupiah koma lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>206.</td>
+			<td>INDAL ALUMINIUM INDUSTRY Tbk, PT</td>
+			<td>INAI</td>
+			<td>INDAL ALUMINIUM INDUSTRY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-JUL-2016</td>
+			<td>18-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>1</td>
+			<td>INAI</td>
+			<td>45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 45,- (empat pulih lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>207.</td>
+			<td>ELECTRONIC CITY INDONESIA Tbk</td>
+			<td>ECII</td>
+			<td>ELECTRONIC CITY INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUL-2016</td>
+			<td>19-JUL-2016</td>
+			<td>10-AUG-2016</td>
+			<td>1</td>
+			<td>ECII</td>
+			<td>5.68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai ialah setiap 1 (satu) saham akan mendapatkan Rp 5,68 (lima Rupiah koma enam delapan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>208.</td>
+			<td>CARDIG AERO SERVICES Tbk, PT</td>
+			<td>CASS</td>
+			<td>CARDIG AERO SERVICES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-JUL-2016</td>
+			<td>19-JUL-2016</td>
+			<td>10-AUG-2016</td>
+			<td>1</td>
+			<td>CASS</td>
+			<td>11.32</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 11,32 (sebelas Rupiah koma tiga dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>209.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-JUL-2016</td>
+			<td>29-JUL-2016</td>
+			<td>03-AUG-2016</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>6.805</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 saham akan memperoleh Rp 6,805 (enam Rupiah koma delapan nol lima).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>210.</td>
+			<td>CITRA TUBINDO Tbk, PT</td>
+			<td>CTBN</td>
+			<td>CITRA TUBINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-JUL-2016</td>
+			<td>01-AUG-2016</td>
+			<td>19-AUG-2016</td>
+			<td>1</td>
+			<td>CTBN</td>
+			<td>114.45</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 saham akan memperoleh Rp 114,45 (seratus empat belas Rupiah koma empat lima)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>211.</td>
+			<td>STEEL PIPE INDUSTRY OF INDONESIA Tbk, PT</td>
+			<td>ISSP</td>
+			<td>STEEL PIPE INDUSTRY OF INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-JUL-2016</td>
+			<td>02-AUG-2016</td>
+			<td>24-AUG-2016</td>
+			<td>1</td>
+			<td>ISSP</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>212.</td>
+			<td>AKR CORPORINDO Tbk, PT</td>
+			<td>AKRA</td>
+			<td>AKR CORPORINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-AUG-2016</td>
+			<td>05-AUG-2016</td>
+			<td>25-AUG-2016</td>
+			<td>1</td>
+			<td>AKRA</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim untuk adalah setiap 1 (satu) saham akan memperoleh Rp 70,- (tujuh puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>213.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-AUG-2016</td>
+			<td>05-AUG-2016</td>
+			<td>22-AUG-2016</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.6044</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 1,6044(satu Rupiah koma enam nol empat empat).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>214.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>03-AUG-2016</td>
+			<td>08-AUG-2016</td>
+			<td>25-AUG-2016</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>50</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 50,- (lima puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>215.</td>
+			<td>TUNAS BARU LAMPUNG Tbk, PT</td>
+			<td>TBLA</td>
+			<td>TUNAS BARU LAMPUNG Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>10-AUG-2016</td>
+			<td>15-AUG-2016</td>
+			<td>31-AUG-2016</td>
+			<td>1</td>
+			<td>TBLA</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>216.</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk, PT</td>
+			<td>TBIG</td>
+			<td>TOWER BERSAMA INFRASTRUCTURE Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-AUG-2016</td>
+			<td>29-AUG-2016</td>
+			<td>16-SEP-2016</td>
+			<td>1000000</td>
+			<td>TBIG</td>
+			<td>72298757</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah setiap 1 (satu) saham akan memperoleh Rp 72,298757 (tujuh puluh dua Rupiah koma dua sembilan delapan tujuh lima tujuh)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>217.</td>
+			<td>SUMI INDO KABEL Tbk, PT</td>
+			<td>IKBI</td>
+			<td>SUMI INDO KABEL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>24-AUG-2016</td>
+			<td>29-AUG-2016</td>
+			<td>13-SEP-2016</td>
+			<td>1</td>
+			<td>IKBI</td>
+			<td>30.7</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 saham akan memperoleh Rp 30,70 (tiga puluh  Rupiah koma tujuh nol) .</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>218.</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk, PT.</td>
+			<td>TPIA</td>
+			<td>CHANDRA ASRI PETROCHEMICAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-SEP-2016</td>
+			<td>07-SEP-2016</td>
+			<td>15-SEP-2016</td>
+			<td>1</td>
+			<td>TPIA</td>
+			<td>132.68</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 132,68 (seratus tiga puluh dua Rupiah koma enam delapan).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>219.</td>
+			<td>FAJAR SURYA WISESA Tbk, PT</td>
+			<td>FASW</td>
+			<td>FAJAR SURYA WISESA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-SEP-2016</td>
+			<td>08-SEP-2016</td>
+			<td>15-SEP-2016</td>
+			<td>1</td>
+			<td>FASW</td>
+			<td>24</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 24,- (dua puluh empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>220.</td>
+			<td>JEMBO CABLE COMPANY Tbk, PT</td>
+			<td>JECC</td>
+			<td>JEMBO CABLE COMPANY Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-SEP-2016</td>
+			<td>13-SEP-2016</td>
+			<td>30-SEP-2016</td>
+			<td>1</td>
+			<td>JECC</td>
+			<td>200</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 200,- (dua ratus Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>221.</td>
+			<td>INTERMEDIA CAPITAL Tbk. PT</td>
+			<td>MDIA</td>
+			<td>INTERMEDIA CAPITAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-SEP-2016</td>
+			<td>15-SEP-2016</td>
+			<td>05-OCT-2016</td>
+			<td>1</td>
+			<td>MDIA</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>222.</td>
+			<td>PT. PROVIDENT AGRO Tbk</td>
+			<td>PALM</td>
+			<td>PROVIDENT AGRO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-SEP-2016</td>
+			<td>16-SEP-2016</td>
+			<td>30-SEP-2016</td>
+			<td>1</td>
+			<td>PALM</td>
+			<td>42</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 42,- (empat puluh dua Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>223.</td>
+			<td>ASTRA INTERNATIONAL Tbk, PT</td>
+			<td>ASII</td>
+			<td>ASTRA INTERNATIONAL Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>26-SEP-2016</td>
+			<td>29-SEP-2016</td>
+			<td>21-OCT-2016</td>
+			<td>1</td>
+			<td>ASII</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 55,- (lima puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>224.</td>
+			<td>ACSET INDONUSA Tbk, PT</td>
+			<td>ACST</td>
+			<td>ACSET INDONUSA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-SEP-2016</td>
+			<td>30-SEP-2016</td>
+			<td>14-OCT-2016</td>
+			<td>1</td>
+			<td>ACST</td>
+			<td>11</td>
+			<td>IDR</td>
+			<td>Rasio Dividen  Interim adalah setiap 1 (satu) saham akan memperoleh Rp 11,- (sebelas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>225.</td>
+			<td>ASTRA AGRO LESTARI Tbk, PT</td>
+			<td>AALI</td>
+			<td>ASTRA AGRO LESTARI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>27-SEP-2016</td>
+			<td>30-SEP-2016</td>
+			<td>17-OCT-2016</td>
+			<td>1</td>
+			<td>AALI</td>
+			<td>99</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 99,- (sembilan puluh sembilan Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>226.</td>
+			<td>UNITED TRACTOR Tbk, PT</td>
+			<td>UNTR</td>
+			<td>UNITED TRACTORS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-SEP-2016</td>
+			<td>03-OCT-2016</td>
+			<td>17-OCT-2016</td>
+			<td>1</td>
+			<td>UNTR</td>
+			<td>143</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 143,- (seratus empat puluh tiga Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>227.</td>
+			<td>ASTRA GRAPHIA Tbk, PT</td>
+			<td>ASGR</td>
+			<td>ASTRA GRAPHIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-SEP-2016</td>
+			<td>04-OCT-2016</td>
+			<td>17-OCT-2016</td>
+			<td>1</td>
+			<td>ASGR</td>
+			<td>27</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim untuk adalah setiap 1 (satu) saham akan memperoleh Rp 27,- (dua puluh tujuh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>228.</td>
+			<td>ASTRA OTOPARTS Tbk, PT</td>
+			<td>AUTO</td>
+			<td>ASTRA OTOPARTS Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-SEP-2016</td>
+			<td>05-OCT-2016</td>
+			<td>17-OCT-2016</td>
+			<td>1</td>
+			<td>AUTO</td>
+			<td>9</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim untuk adalah setiap 1 (satu) saham akan memperoleh Rp 9,- (sembilan Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>229.</td>
+			<td>HEXINDO ADIPERKASA Tbk, PT</td>
+			<td>HEXA</td>
+			<td>HEXINDO ADIPERKASA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>04-OCT-2016</td>
+			<td>07-OCT-2016</td>
+			<td>28-OCT-2016</td>
+			<td>1</td>
+			<td>HEXA</td>
+			<td>1641</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai adalah setiap 1 (satu) saham akan memperoleh Rp 1.641,- (seribu enam ratus empat puluh satu Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>230.</td>
+			<td>MULTI BINTANG INDONESIA Tbk, PT</td>
+			<td>MLBI</td>
+			<td>MULTI BINTANG INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-OCT-2016</td>
+			<td>10-OCT-2016</td>
+			<td>26-OCT-2016</td>
+			<td>1</td>
+			<td>MLBI</td>
+			<td>95</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 95,- (sembilan puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>231.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>17-OCT-2016</td>
+			<td>20-OCT-2016</td>
+			<td>26-OCT-2016</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>104</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 104,- (seratus empat Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>232.</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>XCID</td>
+			<td>DIRE CIPTADANA PROPERTI RITEL INDONESIA</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-NOV-2016</td>
+			<td>07-NOV-2016</td>
+			<td>21-NOV-2016</td>
+			<td>1</td>
+			<td>XCID</td>
+			<td>1.5456</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Tunai untuk adalah setiap 1 (satu) saham akan memperoleh Rp 1,5456(satu Rupiah koma lima empat lima enam).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>233.</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk, PT</td>
+			<td>ITMG</td>
+			<td>INDO TAMBANGRAYA MEGAH Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>07-NOV-2016</td>
+			<td>10-NOV-2016</td>
+			<td>24-NOV-2016</td>
+			<td>1</td>
+			<td>ITMG</td>
+			<td>434.32</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah 1 (satu) saham akan memperoleh Rp 434,32 (empat ratus tiga puluh empat Rupiah koma tiga dua)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>234.</td>
+			<td>SELAMAT SEMPURNA Tbk, PT</td>
+			<td>SMSM</td>
+			<td>SELAMAT SEMPURNA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>09-NOV-2016</td>
+			<td>14-NOV-2016</td>
+			<td>24-NOV-2016</td>
+			<td>1</td>
+			<td>SMSM</td>
+			<td>15</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 15,- (lima belas Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>235.</td>
+			<td>TUNAS RIDEAN Tbk, PT</td>
+			<td>TURI</td>
+			<td>TUNAS RIDEAN Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-NOV-2016</td>
+			<td>17-NOV-2016</td>
+			<td>07-DEC-2016</td>
+			<td>1</td>
+			<td>TURI</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim untuk adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>236.</td>
+			<td>PT. GOLDEN ENERGY MINES Tbk</td>
+			<td>GEMS</td>
+			<td>GOLDEN ENERGY MINES Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>18-NOV-2016</td>
+			<td>23-NOV-2016</td>
+			<td>29-NOV-2016</td>
+			<td>1</td>
+			<td>GEMS</td>
+			<td>29.5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Kedua adalah setiap 1 saham akan memperoleh Rp 29,50 (dua puluh sembilan Rupiah koma lima nol).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>237.</td>
+			<td>SURYA TOTO INDONESIA Tbk, PT</td>
+			<td>TOTO</td>
+			<td>SURYA TOTO INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>21-NOV-2016</td>
+			<td>24-NOV-2016</td>
+			<td>16-DEC-2016</td>
+			<td>1</td>
+			<td>TOTO</td>
+			<td>5</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 5,- (lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>238.</td>
+			<td>CIKARANG LISTRINDO Tbk, PT</td>
+			<td>POWR</td>
+			<td>CIKARANG LISTRINDO Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-NOV-2016</td>
+			<td>28-NOV-2016</td>
+			<td>09-DEC-2016</td>
+			<td>1</td>
+			<td>POWR</td>
+			<td>8.37128</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim ialah setiap 1 (satu) saham akan memperoleh Rp 8,37128 (delapan Rupiah koma tiga tujuh satu dua delapan)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>239.</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk, PT</td>
+			<td>MPMX</td>
+			<td>MITRA PINASTHIKA MUSTIKA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>23-NOV-2016</td>
+			<td>28-NOV-2016</td>
+			<td>16-DEC-2016</td>
+			<td>1</td>
+			<td>MPMX</td>
+			<td>10</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 10,- (sepuluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>240.</td>
+			<td>SEPATU BATA Tbk, PT</td>
+			<td>BATA</td>
+			<td>SEPATU BATA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-NOV-2016</td>
+			<td>01-DEC-2016</td>
+			<td>19-DEC-2016</td>
+			<td>1</td>
+			<td>BATA</td>
+			<td>18.22</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu ) saham akan mendapatkan Rp 18,22(delapan belas Rupiah koma dua dua).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>241.</td>
+			<td>BFI FINANCE INDONESIA Tbk, PT</td>
+			<td>BFIN</td>
+			<td>BFI FINANCE INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>28-NOV-2016</td>
+			<td>01-DEC-2016</td>
+			<td>16-DEC-2016</td>
+			<td>1</td>
+			<td>BFIN</td>
+			<td>150</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu ) saham akan mendapatkan Rp 150,- (seratus lima puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>242.</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk, PT</td>
+			<td>SRTG</td>
+			<td>SARATOGA INVESTAMA SEDAYA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>29-NOV-2016</td>
+			<td>02-DEC-2016</td>
+			<td>22-DEC-2016</td>
+			<td>1</td>
+			<td>SRTG</td>
+			<td>61</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan mendapatkan Rp 61,- (enam puluh satu Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>243.</td>
+			<td>BANK CENTRAL ASIA Tbk, PT</td>
+			<td>BBCA</td>
+			<td>BANK CENTRAL ASIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>30-NOV-2016</td>
+			<td>05-DEC-2016</td>
+			<td>22-DEC-2016</td>
+			<td>1</td>
+			<td>BBCA</td>
+			<td>70</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 70- (tujuh puluh Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>244.</td>
+			<td>SURYA CITRA MEDIA Tbk, PT</td>
+			<td>SCMA</td>
+			<td>SURYA CITRA MEDIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>02-DEC-2016</td>
+			<td>07-DEC-2016</td>
+			<td>22-DEC-2016</td>
+			<td>1</td>
+			<td>SCMA</td>
+			<td>55</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 55,- (lima puluh lima Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>245.</td>
+			<td>UNILEVER INDONESIA Tbk, PT</td>
+			<td>UNVR</td>
+			<td>UNILEVER INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>05-DEC-2016</td>
+			<td>08-DEC-2016</td>
+			<td>22-DEC-2016</td>
+			<td>1</td>
+			<td>UNVR</td>
+			<td>375</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 375,- (tiga ratus tujuh puluh lima Rupiah).</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>246.</td>
+			<td>PT. JASA ANGKASA SEMESTA TBK</td>
+			<td>JASS</td>
+			<td>JASA ANGKASA SEMESTA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>06-DEC-2016</td>
+			<td>09-DEC-2016</td>
+			<td>15-DEC-2016</td>
+			<td>1</td>
+			<td>JASS</td>
+			<td>107</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim Ke-4 adalah setiap 1 (satu) saham akan memperoleh Rp 107,- (seratus tujuh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>247.</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk, PT</td>
+			<td>EMTK</td>
+			<td>ELANG MAHKOTA TEKNOLOGI Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>13-DEC-2016</td>
+			<td>16-DEC-2016</td>
+			<td>30-DEC-2016</td>
+			<td>1</td>
+			<td>EMTK</td>
+			<td>20</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interiml adalah setiap 1 (satu) saham akan memperoleh Rp 20,- (dua puluh Rupiah)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr id=isi>
+			<td align='center'>248.</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk, PT</td>
+			<td>TLKM</td>
+			<td>TELEKOMUNIKASI INDONESIA Tbk</td>
+			<td>CASH DIVIDEND</td>
+			<td>14-DEC-2016</td>
+			<td>19-DEC-2016</td>
+			<td>27-DEC-2016</td>
+			<td>1</td>
+			<td>TLKM</td>
+			<td>19.379</td>
+			<td>IDR</td>
+			<td>Rasio Dividen Interim adalah setiap 1 (satu) saham akan memperoleh Rp 19,3790 (sembilan belas Rupiah koma tiga tujuh sembilan nol))</td>
+			<td></td>
+			<td></td>
+		</tr>
+		</table>	</body>
+</html>
